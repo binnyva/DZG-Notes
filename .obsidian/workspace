@@ -1,0 +1,106 @@
+{
+  "main": {
+    "id": "3dcb779905be82f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6ad76de62494813",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ce7411b75dd14011",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6075ab13b275cdb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b90210e1f695a5a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6399b6ef9780e4bd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 432
+  },
+  "right": {
+    "id": "0c79c9b077161c1b",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a4dfb559c8c6397",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8e4f653859f2ad8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "d1ced4b605b85d51",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "lastOpenFiles": [
+    "Addiction Assessment.md",
+    "Brain Changes in Addiction.md",
+    "6 Principles of Persuasion.md",
+    "Behavior Triggers.md",
+    "Change Story.md",
+    "Authentic Listening - Reality.md",
+    "Untitled.md",
+    "Ubermen.md",
+    "Templates/New.md",
+    "Untitled 1.md"
+  ]
+}
