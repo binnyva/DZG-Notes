@@ -4,12 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "c6ad76de62494813",
+        "id": "c4b00994851a7082",
         "type": "leaf",
-        "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Literature/Flaws in Human Thinking.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -66,9 +68,12 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Literature/Flaws in Human Thinking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -91,16 +96,17 @@
     "direction": "horizontal",
     "width": 300
   },
+  "active": "c4b00994851a7082",
   "lastOpenFiles": [
-    "Addiction Assessment.md",
-    "Brain Changes in Addiction.md",
-    "6 Principles of Persuasion.md",
-    "Behavior Triggers.md",
-    "Change Story.md",
-    "Authentic Listening - Reality.md",
+    "Literature/Untitled.md",
+    "Five Whys.md",
+    "Critical Thinking Framework - CAMPER.md",
     "Untitled.md",
-    "Ubermen.md",
-    "Templates/New.md",
-    "Untitled 1.md"
+    "Brainstorming Frameworks.md",
+    "Literature/Neuro Linguistic Programming.md",
+    "Literature/Systems Thinking Intro.md",
+    "TA: Drivers.md",
+    "Complex Systems.md",
+    "System Self Organization.md"
   ]
 }
