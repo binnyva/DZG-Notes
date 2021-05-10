@@ -2,9 +2,8 @@
 title: "How I read books: a guide on how to learn"
 tags: ["learning","literature-notes","read","book"]
 date: 2020-12-04 19:05:03
+source: "https://denzhadanov.com/how-i-read-books-a-guide-on-how-to-learn-a943123a4aeb"
 ---
-
-[Source](https://denzhadanov.com/how-i-read-books-a-guide-on-how-to-learn-a943123a4aeb)
 
 Instead of reading 100 books, it's better to find one that really changes your life.
 
@@ -12,7 +11,7 @@ Knowledge is much more valuable when we can act on it, and change our behavior.
 
 I'll need a system that will allow me to easily capture everything, build on top of that, share with the world.
 
-Mental models and how they work as lenses through which one perceives reality. Based on our perception, we make decisions, and take actions. Mental model affects perception -> decisions -> actions. Learning and reading = upgrading your mental models.
+Mental models and how they work as lenses through which one perceives reality. Based on our perception, we make decisions, and take actions. Mental model affects perception -> decisions -> actions. Learning and reading = upgrading your [[Mental Models]].
 
 ## Stages of effective reading
 
@@ -32,7 +31,7 @@ How to turn knowledge from your short term memory into your long term understand
 1. Why am I reading this book
 1. Chapter reviews and Notes (this will be organized in a way so I can test myself later on)
 1. Great quotes (something I'd like to learn by heart and use later)
-1. Actionable items (books should be changing our actions and behaviours)
+1. Actionable items (books should be changing our actions and behaviors)
 1. Summary (3–5 main takeaways from the book that resonate the most with me)
 
 ### Mindmapping

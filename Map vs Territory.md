@@ -1,6 +1,6 @@
 ---
 title: "Map vs Territory"
-tags: ["rationality","map","nlp","permanent-notes"]
+tags: ["rationality","map","nlp","permanent-notes", "meta-cognition" ]
 date: 2020-12-18 15:15:39
 ---
 

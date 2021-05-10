@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c4b00994851a7082",
+        "id": "b0a974357af41ad2",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Literature/Flaws in Human Thinking.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature/Flaws in Human Thinking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,17 +92,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "c4b00994851a7082",
+  "active": "b0a974357af41ad2",
   "lastOpenFiles": [
-    "Literature/Untitled.md",
-    "Five Whys.md",
-    "Critical Thinking Framework - CAMPER.md",
     "Untitled.md",
-    "Brainstorming Frameworks.md",
-    "Literature/Neuro Linguistic Programming.md",
-    "Literature/Systems Thinking Intro.md",
-    "TA: Drivers.md",
-    "Complex Systems.md",
-    "System Self Organization.md"
+    "Mental Models.md",
+    "TA: Child State.md",
+    "Self Compassion Message.md",
+    "Zettelkasten.md",
+    "Absorbing a Book.md",
+    "Litrature/How I read books: a guide on how to learn.md",
+    "Custom Productivity System.md",
+    "Productivity Porn.md",
+    "Mindful Productivity.md"
   ]
 }
