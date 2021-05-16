@@ -4,7 +4,7 @@ tags: ["psychology","permanent-notes","needs"]
 date: 2020-12-19 18:40:27
 ---
 
-Human needs are finite and classifiable. There are 9 fundamental human needs that are constant accross time periods and cultures.
+Human needs are finite and classifiable. There are 9 fundamental human needs that are constant across time periods and cultures.
 
 - **Subsistence**: Food, water, shelter 
 - **Protection**: Place to live, social security
