@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Majoritarian.md",
+            "file": "Draft, then polish.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Majoritarian.md",
+                "file": "Draft, then polish.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,19 +94,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "35333ec523046bfd",
   "lastOpenFiles": [
+    "Draft, then polish.md",
     "Untitled.md",
-    "Observational Mimicry.md",
-    "Human Needs.md",
-    "Litrature/9 Most Common Mistakes in Landing Page.md",
-    "DAO - Decentralized Autonomous Organizations.md",
-    "DAOStack.md",
-    "DAO.md",
-    "Mindful Productivity.md",
-    "Regret Minimization.md",
-    "Controlling Emotions vs Controlling Behaviour.md"
+    "Being mindful of defensive thinking.md",
+    "ICE Model.md",
+    "Pareto Principle.md",
+    "Map vs Territory.md",
+    "Scout Mindset vs Soldier Mindset.md",
+    "OODA Loop.md",
+    "Mental Models.md",
+    "Mental Model.md"
   ]
 }

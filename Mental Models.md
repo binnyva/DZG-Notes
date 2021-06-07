@@ -1,9 +1,12 @@
 ---
 title: "Mental Models"
+aliases: ["Mental Model"]
 tags: ["permanent-notes", "framework","meta-cognition","rationality","mental-models" ]
 date: 2021-05-07 21:28:00
 source: "https://fs.blog/mental-models/"
 ---
+
+Mental Model is a simplified mental representation of a complex real world system.
 
 Mental Model is how we understand the world. When we try to make sense of something, we simplify parts of it, prioritize some parts - so as to reduce its complexity. This simplified version that we use to understand/reason with is the Mental model.
 

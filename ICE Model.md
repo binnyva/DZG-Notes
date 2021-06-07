@@ -1,6 +1,6 @@
 ---
 title: "ICE Model"
-tags: ["permanent-notes"]
+tags: ["permanent-notes", "mental-models","prioritization", "framework","decision-making" ]
 date: 2021-05-08 00:56:00
 source: "https://www.julian.com/blog/mental-model-examples"
 ---

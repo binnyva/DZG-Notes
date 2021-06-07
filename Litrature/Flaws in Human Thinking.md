@@ -1,6 +1,6 @@
 ---
 title: "Flaws in Human Thinking"
-tags: ["litrature-notes","cognition","meta-cognition","psychology"]
+tags: ["literature-notes","cognition","meta-cognition","psychology"]
 date: 2021-04-12 19:29:00
 source: "https://dandanua.github.io/posts/major-flaws-of-human-thinking/"
 ---
