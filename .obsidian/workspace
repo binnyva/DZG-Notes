@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "35333ec523046bfd",
+        "id": "c2ac97b88427c67a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Draft, then polish.md",
-            "mode": "source"
+            "file": "Litrature/Personal Knowledge Management.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Draft, then polish.md",
+                "file": "Litrature/Personal Knowledge Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,17 +97,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "35333ec523046bfd",
+  "active": "c2ac97b88427c67a",
   "lastOpenFiles": [
-    "Draft, then polish.md",
+    "Litrature/Personal Knowledge Management.md",
+    "Litrature/UK Government Design Principles.md",
+    "Seek-Sense-Share Framework.md",
+    "Sense Making.md",
+    "Personal Knowledge Mastery.md",
     "Untitled.md",
-    "Being mindful of defensive thinking.md",
-    "ICE Model.md",
-    "Pareto Principle.md",
-    "Map vs Territory.md",
-    "Scout Mindset vs Soldier Mindset.md",
-    "OODA Loop.md",
-    "Mental Models.md",
-    "Mental Model.md"
+    "Litrature/Untitled.md",
+    "Litrature/Heidegger.md",
+    "Idea Capture Habit.md",
+    "DIKW Pyramid.md"
   ]
 }
