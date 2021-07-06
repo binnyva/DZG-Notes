@@ -6,7 +6,7 @@ date: 2021-06-09 01:13:00
 
 Knowledge is inherently personal - and due to this, top down approach to Knowledge management does not work well. When you separate the knowledge from the person holding the knowledge, it loses context, why it matter, where it should apply, etc.
 
-## Building A Second Brain
+## [[Building a Second Brain]]
 
 - Remember: Saving ideas and insights in your digital notes
 - Connect:  Organizing your knowledge to reveal patterns and relationships

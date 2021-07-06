@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Litrature/Personal Knowledge Management.md",
+            "file": "Conflict Resolution Diagram.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Litrature/Personal Knowledge Management.md",
+                "file": "Conflict Resolution Diagram.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,20 +94,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "c2ac97b88427c67a",
   "lastOpenFiles": [
-    "Litrature/Personal Knowledge Management.md",
-    "Litrature/UK Government Design Principles.md",
-    "Seek-Sense-Share Framework.md",
-    "Sense Making.md",
-    "Personal Knowledge Mastery.md",
     "Untitled.md",
-    "Litrature/Untitled.md",
-    "Litrature/Heidegger.md",
-    "Idea Capture Habit.md",
-    "DIKW Pyramid.md"
+    "Cynefin framework.md",
+    "Socratic Questioning.md",
+    "First Principles.md",
+    "5 Whys.md",
+    "Fishbone Diagram.md",
+    "Learning in Public.md",
+    "Litrature/A Brief History & Ethos of the Digital Garden.md",
+    "Process to Learn a new skill.md",
+    "Progressive Summarization.md"
   ]
 }

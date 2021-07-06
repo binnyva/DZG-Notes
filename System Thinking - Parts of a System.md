@@ -2,6 +2,7 @@
 title: "System Thinking - Parts of a System"
 tags: ["permanent-notes", "systems-thinking", "systems", "framework" ]
 date: 2021-06-13 02:31:00
+source: "https://thesystemisdown.substack.com/p/how-to-win-at-risk-every-time-by"
 ---
 
 - **Stocks**: Group of resources or inputs into a system. In a bathtub, the stock is the amount of water in the tub.
@@ -16,4 +17,3 @@ date: 2021-06-13 02:31:00
 	- *Dynamic*: No change thru equal inflow and outflow. The water in a tub was filling at the same rate it was draining.
 - **Leverage**: Forces that attempt to change a system. Different leverages have different efficacy. Some will activate the balancing feedback and lock the system. But with careful examination, you can find leverage points that's dramatic enough that a new balance point is found.
 
-[Source](https://thesystemisdown.substack.com/p/how-to-win-at-risk-every-time-by)

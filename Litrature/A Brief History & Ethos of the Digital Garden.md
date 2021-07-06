@@ -14,8 +14,8 @@ It's a different way of thinking about our online behavior around information - 
 
 1. **Topography over Timelines**: Organized by contextual relationships, bi-directional links.
 2. **Continuous Growth**: Continuously evolving work in progress.
-3. **Learning in Public & Imperfection**: Blogging is performative. Digital gardening is less performative than a blog, but more intentional and thoughtful than our Twitter feed. It wants to build personal knowledge over time.
-![https://res.cloudinary.com/dg3gyk0gu/image/upload/c_scale,w_1600/v1593765637/maggieappleton.com/notes/garden-history/digital-garden.png]
+3. **[[Learning in Public]] & Imperfection**: Blogging is performative. Digital gardening is less performative than a blog, but more intentional and thoughtful than our Twitter feed. It wants to build personal knowledge over time.
+![Digital Garden](https://res.cloudinary.com/dg3gyk0gu/image/upload/c_scale,w_1600/v1593765637/maggieappleton.com/notes/garden-history/digital-garden.png)
 4. **Playful, Personal, and Experimental**: Even the tools are evolving and experimental.
 5. **Inter-cropping & Content Diversity**: All varieties of mediums grow in the garden - videos, podcasts, short notes, long essays, academic papers, sketches.
 6. **Independent Ownership**: No one can take your garden away. If you give it a bit of forethought – storing notes in flat markdown files – you can built it in a way that easily transfers as platforms and technologies inevitably change.

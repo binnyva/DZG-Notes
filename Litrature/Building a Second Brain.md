@@ -15,10 +15,10 @@ source: "https://fortelabs.co/blog/basboverview/"
 
 ## Connect
 
-Distilling your notes into actionable, bite-sized summaries
+Distilling your notes into actionable, bite-sized summaries. Think [[Zettelkasten]]
 
 1. Write notes about the content in a way that the future you can understand(define terms, include sources)
-2. Use Progressive Summarization
+2. Use [[Progressive Summarization]]
 3. Organize your notes bit by bit over time.
 
 ## Create

@@ -41,7 +41,7 @@ At the core of all PKM are note taking systems...
 ### Managing Information
 
 - Classification/Tagging of captured information
-- Summarizing bigger chucks of information(even better, systems like progressive summarization)
+- Summarizing bigger chucks of information(even better, systems like [[progressive summarization]])
 - Synthesizing
 
 ### Using Information
