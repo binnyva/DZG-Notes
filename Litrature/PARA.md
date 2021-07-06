@@ -2,7 +2,7 @@
 title: "PARA"
 tags: ["pkm","literature-notes", "framework", "project-management"]
 date: 2021-06-25 01:05:00
-source: "https://priydevadethan.wordpress.com/2021/06/19/para-framework-for-personal-knowledge-management/""
+source: "https://priydevadethan.wordpress.com/2021/06/19/para-framework-for-personal-knowledge-management/"
 ---
 
 PARA is a [[Personal Knowledge Management]] framework
