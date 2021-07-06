@@ -1,6 +1,6 @@
 ---
 title: "Socratic Questioning"
-tags: ["permanent-notes" "framework", "meta-cognition", "problem-solving", "decision-making", "mental-models"]
+tags: ["permanent-notes", "framework", "meta-cognition", "problem-solving", "decision-making", "mental-models"]
 date: 2021-07-02 01:18:00
 ---
 
