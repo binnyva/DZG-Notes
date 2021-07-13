@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "c2ac97b88427c67a",
+        "id": "14ea8df6e1237562",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Conflict Resolution Diagram.md",
+            "file": "Stoic Virtues.md",
             "mode": "preview"
           }
         }
@@ -18,95 +18,81 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ce7411b75dd14011",
-    "type": "split",
+    "id": "d23360389a9eaa6c",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "e6075ab13b275cdb",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7b90210e1f695a5a",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "6399b6ef9780e4bd",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
+        "id": "0294c347fd05b7fb",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "d02018df17964cf0",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
+      },
+      {
+        "id": "125d68807eaa3d9a",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 432
+    "currentTab": 0
   },
   "right": {
-    "id": "0c79c9b077161c1b",
-    "type": "split",
+    "id": "8fb5ce74c33a9284",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "2a4dfb559c8c6397",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e8e4f653859f2ad8",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Conflict Resolution Diagram.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
-            "id": "d1ced4b605b85d51",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
+        "id": "ae21d7dedd42b03b",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Stoic Virtues.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
-  "active": "c2ac97b88427c67a",
+  "active": "14ea8df6e1237562",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Cynefin framework.md",
-    "Socratic Questioning.md",
-    "First Principles.md",
+    "Stoic Virtues.md",
     "5 Whys.md",
-    "Fishbone Diagram.md",
-    "Learning in Public.md",
-    "Litrature/A Brief History & Ethos of the Digital Garden.md",
-    "Process to Learn a new skill.md",
-    "Progressive Summarization.md"
+    "Parkinson's Law.md",
+    "Untitled.md",
+    "Six Thinking Hats.md",
+    "Connection circles.md",
+    "System Thinking - Parts of a System.md",
+    "Complex Systems.md",
+    "Productive Thinking Model.md",
+    "Conflict Resolution Diagram.md"
   ]
 }
