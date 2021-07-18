@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "14ea8df6e1237562",
+        "id": "5c16996763452caf",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Stoic Virtues.md",
-            "mode": "preview"
+            "file": "Slow vs Fast Thinking.md",
+            "mode": "source"
           }
         }
       }
@@ -18,81 +18,137 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d23360389a9eaa6c",
-    "type": "mobile-drawer",
+    "id": "c1718c0537b49428",
+    "type": "split",
     "children": [
       {
-        "id": "0294c347fd05b7fb",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "d02018df17964cf0",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "4f169245b6ec65c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51db30ba6bb12dda",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "81885176c36e6387",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        }
-      },
-      {
-        "id": "125d68807eaa3d9a",
-        "type": "leaf",
-        "state": {
-          "type": "tag",
-          "state": {
-            "sortOrder": "frequency",
-            "useHierarchy": true
-          }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300
   },
   "right": {
-    "id": "8fb5ce74c33a9284",
-    "type": "mobile-drawer",
+    "id": "7ead004ba3119da5",
+    "type": "split",
     "children": [
       {
-        "id": "ae21d7dedd42b03b",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "Stoic Virtues.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "ba742b6f9c21f045",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c21293283cbb6cd8",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Slow vs Fast Thinking.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.5843581180567526,
+                  "close": true
+                }
+              }
+            }
           }
-        }
+        ]
+      },
+      {
+        "id": "89f6b8136d77dbd2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bcb5eba552db0b9f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Slow vs Fast Thinking.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c90c37e14fc13599",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 358
   },
-  "active": "14ea8df6e1237562",
+  "active": "5c16996763452caf",
   "lastOpenFiles": [
+    "Slow vs Fast Thinking.md",
+    "Illusion Of Explanatory Depth.md",
+    "Fundemental Attribution Error.md",
+    "Capture Understanding - Don't Quote.md",
+    "Paraphrasing to Remember.md",
     "Stoic Virtues.md",
-    "5 Whys.md",
-    "Parkinson's Law.md",
     "Untitled.md",
-    "Six Thinking Hats.md",
     "Connection circles.md",
-    "System Thinking - Parts of a System.md",
-    "Complex Systems.md",
-    "Productive Thinking Model.md",
-    "Conflict Resolution Diagram.md"
+    "You Only Know What you Make.md",
+    "2 Minute New Habit.md"
   ]
 }
