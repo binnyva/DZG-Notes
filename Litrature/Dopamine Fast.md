@@ -1,18 +1,17 @@
 ---
-title: "How To GET Your Life Back Together - Dopamine Fast"
+title: "Dopamine Fast"
 tags: ["permanent-notes", "dopamine-fasting", "meditation"]
 date: 2021-03-20 02:11:00
+source: "https://www.youtube.com/watch?v=vl-44jDYDJQ"
 ---
 
-[Source](https://www.youtube.com/watch?v=vl-44jDYDJQ)
-
-### It starves your reward system. 
+### Starves your reward system. 
 
 We indulgence in rewards. This makes is difficult to convince yourself to do things for a small or distant reward. When the reward system is starved, our motivation comes back - smaller rewards are enough.
 
 ### Prevents masking of pain
 
-When you are bored, you are not doing anything to suppress your negative emotions. You'll see the issues that have been bothering you.
+When you are bored, you are not doing anything to suppress your negative emotions. You'll see the issues that have been bothering you. Generally, you don't notice these because you engage in a [[Negative behaviours are to avoid a negative feeling]].
 
 Writing helps in dealing with them. Prompts...
 

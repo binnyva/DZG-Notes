@@ -1,6 +1,6 @@
 ---
 title: "2 Minute New Habit"
-tags: ["permanent-notes","habit","behavior"]
+tags: ["permanent-notes","habit","behavior", "productivity" ]
 date: 2020-12-08 19:11:55
 ---
 

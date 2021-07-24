@@ -17,7 +17,7 @@ Not Teaching: You can coach in a field that you don't know.
 
 ## Skills of a Coach
 - Creating a Safe Space
-	- Creating a deeply non-judgemental space.
+	- Creating a deeply non-judgmental space.
 - Ask great questions and Listen
 	- Taking the Balcony View together
 	- Tap into your natural curiosity
@@ -32,7 +32,7 @@ Not Teaching: You can coach in a field that you don't know.
 
 Coach should amplify the signal.
 
-## GROW Modal
+## GROW Model
 - Goal
 - Reality
 - Options
@@ -48,14 +48,14 @@ Coaching as a leadership style
 - Set up time for it
 - Tune into the other person
 - Intentionality
-- "Be Empty", don't have per-consived notions.
+- "Be Empty", don't have per-conceived notions.
 
 ### Goal Questions
 - What is your intent
 - Bring it to here and now.
 - What does success look like
 - Define a few milestones
-- SMART Goals
+- [[SMART Goals]]
 	- Specific
 	- Measurable
 	- Actionable

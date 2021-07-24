@@ -1,6 +1,6 @@
 ---
 title: Stoic Virtues
-tags: [permanent-notes, stoicism, philosophy, psychology, tag-1, tag-2, tag]
+tags: [permanent-notes, stoicism, philosophy, psychology]
 date: 2021-07-11T03:16:00.000Z
 source: 'https://www.youtube.com/watch?v=m_Rz7mY8Lyc'
 ---
@@ -9,3 +9,4 @@ source: 'https://www.youtube.com/watch?v=m_Rz7mY8Lyc'
 - **Temperance**: Moderation - self discipline, self control. Balance short term pleasure with what is good for us in the long run.
 - **Courage**: Act in the "right way" even when you feel fear, anxiety.
 - **Justice**: Our duty to society. Be useful to others.
+

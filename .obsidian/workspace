@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "5c16996763452caf",
+        "id": "faab50b3c1344d97",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Slow vs Fast Thinking.md",
+            "file": "Litrature/Coaching.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7ead004ba3119da5",
@@ -61,6 +62,7 @@
       {
         "id": "ba742b6f9c21f045",
         "type": "tabs",
+        "dimension": 79.07949790794979,
         "children": [
           {
             "id": "c21293283cbb6cd8",
@@ -68,7 +70,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Slow vs Fast Thinking.md",
+                "file": "Litrature/Coaching.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -96,12 +98,22 @@
                 }
               }
             }
+          },
+          {
+            "id": "5c16996763452caf",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "89f6b8136d77dbd2",
         "type": "tabs",
+        "dimension": 20.920502092050206,
         "children": [
           {
             "id": "bcb5eba552db0b9f",
@@ -109,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Slow vs Fast Thinking.md",
+                "file": "Litrature/Coaching.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,24 +143,23 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 358
+    "width": 998
   },
-  "active": "5c16996763452caf",
+  "active": "faab50b3c1344d97",
   "lastOpenFiles": [
-    "Slow vs Fast Thinking.md",
-    "Illusion Of Explanatory Depth.md",
-    "Fundemental Attribution Error.md",
-    "Capture Understanding - Don't Quote.md",
-    "Paraphrasing to Remember.md",
-    "Stoic Virtues.md",
-    "Untitled.md",
-    "Connection circles.md",
-    "You Only Know What you Make.md",
-    "2 Minute New Habit.md"
+    "Litrature/Coaching.md",
+    "GROWS Process.md",
+    "Second-order thinking.md",
+    "Reading and Learning.md",
+    "Ego Depletion.md",
+    "Willpower Rules.md",
+    "Unsolvable Problem can be Overcome.md",
+    "Default Mode Network On Drugs.md",
+    "Litrature/Women who never married or had children.md",
+    "Productive Thinking Model.md"
   ]
 }

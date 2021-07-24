@@ -2,6 +2,7 @@
 title: "Feedback Loops"
 tags: ["permanent-notes", "feedback", "systems-thinking", "process" ]
 date: 2021-06-13 02:28:00
+source: "https://brianlui.dog/2020/05/10/beware-of-tight-feedback-loops/"
 ---
 
 Feedback loops can be...
@@ -15,5 +16,3 @@ In noisy feedback loops, the best option is hypotheses and pruning. Create multi
 When we are close to the time for a decision, select a hypotheses from the remaining list. 
 
 Process improvement happens by creating many parallel processes and discarding the ones that are unfit, not by iteratively improving a single process.
-
-[Source](https://brianlui.dog/2020/05/10/beware-of-tight-feedback-loops/)
