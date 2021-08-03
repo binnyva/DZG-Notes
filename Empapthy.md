@@ -1,5 +1,5 @@
 ---
-title: "Empapthy"
+title: "Two Types of Empapthy"
 tags: ["empathy","psychology"]
 date: 2020-11-02 17:20:50
 ---

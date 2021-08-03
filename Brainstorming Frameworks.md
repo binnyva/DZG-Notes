@@ -20,5 +20,3 @@ There are 2 frameworks we can use when brainstorming...
 - Original ideas are encouraged (no stupid ideas)
 - Put off evaluation (judgment can be done later)
 - Expand on other’s ideas
-
-[Source](https://nesslabs.com/thinking-tools-metacognitive-toolbox)

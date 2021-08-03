@@ -1,5 +1,5 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "-tag:#literature-notes",
   "showTags": false,
   "showAttachments": false,
@@ -53,6 +53,6 @@
   "repelStrength": 10.4494382022472,
   "linkStrength": 1,
   "linkDistance": 241,
-  "scale": 0.1394729434597774,
-  "close": false
+  "scale": 1.036636359903899,
+  "close": true
 }

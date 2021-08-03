@@ -1,6 +1,6 @@
 ---
 title: "Curiosity, not passion"
-tags: ["passion","curiosity"]
+tags: ["passion","curiosity", "stub"]
 date: 2020-08-23 18:52:36
 ---
 

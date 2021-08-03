@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Litrature/Coaching.md",
-            "mode": "source"
+            "file": "Epistemology.md",
+            "mode": "preview"
           }
         }
       }
@@ -18,15 +18,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "c1718c0537b49428",
+    "id": "5141315ec3c7ff57",
     "type": "split",
     "children": [
       {
-        "id": "4f169245b6ec65c9",
+        "id": "e2a5874a36538f67",
         "type": "tabs",
         "children": [
           {
-            "id": "51db30ba6bb12dda",
+            "id": "b8962aaba1807fc4",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -34,7 +34,7 @@
             }
           },
           {
-            "id": "81885176c36e6387",
+            "id": "880bccdcca975619",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -52,76 +52,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "7ead004ba3119da5",
+    "id": "3e74294a4d1a4b5e",
     "type": "split",
     "children": [
       {
-        "id": "ba742b6f9c21f045",
+        "id": "d7c34b54bc5ac2f5",
         "type": "tabs",
-        "dimension": 79.07949790794979,
         "children": [
           {
-            "id": "c21293283cbb6cd8",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Litrature/Coaching.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.5843581180567526,
-                  "close": true
-                }
-              }
-            }
-          },
-          {
-            "id": "5c16996763452caf",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "89f6b8136d77dbd2",
-        "type": "tabs",
-        "dimension": 20.920502092050206,
-        "children": [
-          {
-            "id": "bcb5eba552db0b9f",
+            "id": "e191a9cc93414f9f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Litrature/Coaching.md",
+                "file": "Epistemology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +80,7 @@
             }
           },
           {
-            "id": "c90c37e14fc13599",
+            "id": "66cdd8cbb59398d9",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -147,19 +94,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 1044
+    "width": 300,
+    "collapsed": true
   },
   "active": "faab50b3c1344d97",
   "lastOpenFiles": [
-    "Litrature/Coaching.md",
-    "GROWS Process.md",
-    "Second-order thinking.md",
-    "Reading and Learning.md",
-    "Ego Depletion.md",
-    "Willpower Rules.md",
-    "Unsolvable Problem can be Overcome.md",
-    "Default Mode Network On Drugs.md",
-    "Litrature/Women who never married or had children.md",
-    "Productive Thinking Model.md"
+    "Epistemology.md",
+    "Litrature/Epistemology - Introduction to Theory of Knowledge.md",
+    "Untitled.md",
+    "Chunking.md",
+    "Litrature/Untitled.md",
+    "Litrature/Neuroscience of Creativity, Perception, and Confirmation Bias.md",
+    "Negative behaviours are to avoid a negative feeling.md",
+    "Motivational Interview.md",
+    "Power of Gentleness.md",
+    "Brainstorming Frameworks.md"
   ]
 }
