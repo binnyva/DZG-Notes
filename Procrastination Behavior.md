@@ -9,6 +9,6 @@ Procrastination isn’t a inability to manage time, but a way of coping with cha
 
 Our brains are always looking for relative rewards. If we have a habit loop around procrastination but we haven’t found a better reward, our brain is just going to keep doing it over and over until we give it something better to do.
 
-Procrastination an example of how [[Negative behaviours are to avoid a negative feeling]].
+Procrastination an example of how [[Negative behaviours are to avoid a negative feeling]]
 
 If you are getting distracted, [[Acknowledge the root of distraction]]

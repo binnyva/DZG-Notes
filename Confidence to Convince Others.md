@@ -2,6 +2,7 @@
 title: "Confidence to Convince Others"
 tags: ["permanent-notes", "rationality", "confidence", "persuasion" ]
 date: 2021-05-07 01:09:00
+source: "https://www.youtube.com/watch?v=-DfX3_CO2bU"
 ---
 
 People think that you need absolute certainty when communicating your opinions to others for others to accept them. This is what I call evangelical mode. Julia Galef argues that it needn't be the case. There are two types of confidences...
@@ -11,4 +12,4 @@ People think that you need absolute certainty when communicating your opinions t
 
 Of the two, Social confidence is enough to convince other people. You can use [[6 Principles of Persuasion|other tools]] as well.
 
-[Source](https://www.youtube.com/watch?v=-DfX3_CO2bU)
+

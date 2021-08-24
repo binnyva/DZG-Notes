@@ -24,7 +24,7 @@ Few attributes of system 1...
 - You can create better intuitions if you have fast feedback loops. This is one way to "train" system one better(but system 1 training is unreliable)
 - There can be false intuitions - that are indistinguishable from expert intuitions(this is why system 1 is unreliable).
 - We might not be aware of changes system 1 makes in our decision making process.
-- Tries to create associativity coherent interpretations of the situation.
+- Tries to create associativity [[Mind Accepts Coherent Stories|coherent interpretations]] of the situation.
 
 System 1 works thru associative memory. If one or few nodes in the associative memory network get triggered, it will spread the activation to other nodes as well. Negative triggers need lesser force to active the network - because evolution wants us to be prepared.
 

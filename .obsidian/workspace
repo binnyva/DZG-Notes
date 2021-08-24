@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "faab50b3c1344d97",
+        "id": "be3599561ebd4de9",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Epistemology.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Epistemology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,17 +93,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "faab50b3c1344d97",
+  "active": "be3599561ebd4de9",
   "lastOpenFiles": [
-    "Epistemology.md",
-    "Litrature/Epistemology - Introduction to Theory of Knowledge.md",
     "Untitled.md",
-    "Chunking.md",
+    "Parkinson Principle.md",
+    "Availability Heuristic.md",
+    "Substitution Heuristic.md",
     "Litrature/Untitled.md",
-    "Litrature/Neuroscience of Creativity, Perception, and Confirmation Bias.md",
-    "Negative behaviours are to avoid a negative feeling.md",
-    "Motivational Interview.md",
-    "Power of Gentleness.md",
-    "Brainstorming Frameworks.md"
+    "Litrature/Four Hour Work Week.md",
+    "Parkinson's Law.md",
+    "Pareto Principle.md",
+    "Stages of Learning.md",
+    "How to Teach - for computer programmers.md"
   ]
 }

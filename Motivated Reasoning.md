@@ -1,12 +1,12 @@
 ---
 title: "Motivated Reasoning"
-tags: ["rationality","reasoning"]
+tags: ["rationality","reasoning","permanent-notes","psychology"  ]
 date: 2020-07-21 19:33:09
 ---
 
-Some ideas seems like friends - and must be protected, while others seems like enemies - and must be killed. This happens when you are in a soldier mindset.
+- Only pay attention to confirming evidence([[Confirmation Bias]]). 
+- Actively(but often unconsciously) work to discredit dis-confirming evidence.
+
+A sutler form of this is holding opposing views to a higher standard of proof(sample size of that study is too low, the author of that study is not qualified enough), while being lenient towards confirming viewpoints.
 
 The opposite is a [[Scout Mindset vs Soldier Mindset|scout mindset]].
-- Curious
-- Open
-- Grounded: Self worth is not tied to something they believe to be true.
