@@ -1,9 +1,7 @@
 ---
 title: "Four Hour Work Week"
 tags: ["literature-notes"]
-source:
-  - "[The book that changed my life](https://www.youtube.com/watch?v=nk_Pfxmqn6g)"
-  - "[Four hour work week summary](https://www.shortform.com/summary/the-4-hour-workweek-summary-tim-ferriss)"
+source: "[The book that changed my life](https://www.youtube.com/watch?v=nk_Pfxmqn6g)"
 date: 2021-08-18 01:52:00
 ---
 
@@ -59,3 +57,5 @@ Eliminate things that are wasting your resources. Think along the following line
 ### Liberate
 
 Break free from things that force you to do things that you don't enjoy.
+
+[Four hour work week summary](https://www.shortform.com/summary/the-4-hour-workweek-summary-tim-ferriss)

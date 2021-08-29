@@ -1,5 +1,3 @@
-
-
 ---
 title: "Ulysses Contract"
 tags: ["permanent-notes", "psychology","cognitive-bias","therapy" ]
