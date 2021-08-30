@@ -1,6 +1,6 @@
 ---
 title: "Hot-Cold Empathy Gap"
-tags: ["permanent-notes" #psychology #emotion #decision-making ]
+tags: ["permanent-notes", "psychology","emotion","decision-making" ]
 date: 2021-08-30 01:40:00
 source: "[In The Heat Of The Moment: How Intense Emotions Transform Us](https://www.npr.org/2019/11/27/783495595/in-the-heat-of-the-moment-how-intense-emotions-transform-us)"
 ---
