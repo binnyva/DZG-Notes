@@ -1,6 +1,6 @@
 ---
 title: "Cognitive Dissonance"
-tags: ["psychology","behavior"]
+tags: ["psychology","behavior", "permanent-notes","cognition" ]
 date: 2021-01-22 18:50:16
 ---
 

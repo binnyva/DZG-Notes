@@ -2,6 +2,7 @@
 title: "Ugh Fields"
 tags: ["procrastination","psychology"]
 date: 2020-11-28 18:10:55
+source: "[Ugh fields](https://www.lesswrong.com/posts/EFQ3F6kmt4WHXRqik/ugh-fields)"
 ---
 
 # Ugh Fields
@@ -11,6 +12,8 @@ Pavlovian conditioning can cause humans to unconsciously flinch from even thinki
 If a person receives constant negative conditioning via unhappy thoughts whenever their mind goes into a certain zone of thought, they will begin to develop a psychological flinch mechanism around the thought. 
 
 This can be a overdue task, painful email that requires a response, whatsapp message, etc.
+
+Eg. [[Procrastination Behavior]]
 
 ## Solutions
 1. Happens to everyone, forgive yourself.

@@ -1,11 +1,11 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "-tag:#literature-notes",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "psychology",
@@ -43,7 +43,7 @@
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": -1.1,
   "nodeSizeMultiplier": 1.77921348314607,
@@ -53,6 +53,6 @@
   "repelStrength": 10.4494382022472,
   "linkStrength": 1,
   "linkDistance": 241,
-  "scale": 1.036636359903899,
-  "close": true
+  "scale": 0.12087674720172958,
+  "close": false
 }
