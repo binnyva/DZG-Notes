@@ -14,4 +14,17 @@ You can use this to...
 - Understand systems
 - Make Decisions
 
-This are the elements of the Map part of [[Map vs Territory]]
+These are the elements of the Map part of [[Map vs Territory]]
+
+The phrase Mental model is generally used to lump 3 types of ideas...
+
+- Frameworks
+- Thinking Tools: eg. Cognitive Bias Avoidance, Reasoning from [[First Principles]]
+- Mental representations: Internal representations of knowledge about a problem domain
+
+## Problems with mental model
+
+Mental Models are the communicatable/codifiable parts of internal tacit knowledge. Just learning it might not be enough. You might need to building it from experience. [Source](https://commoncog.com/blog/the-mental-model-fallacy/)
+
+
+

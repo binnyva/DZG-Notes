@@ -13,7 +13,7 @@ Confirmation bias is the tendency to...
  
 ... data/evidence in a way that confirms or supports one's prior beliefs or values.
 
-The point is to reinforces preexisting beliefs - once a belief is formed, people favor information that confirms the belief. And reject evidence that throws doubt on it.
+This reinforces preexisting beliefs - once a belief is formed, people favor information that confirms the belief. And reject evidence that throws doubt on it.
 
 This effect is stronger for deeply held beliefs, identity topics, or strong emotional triggers.
 

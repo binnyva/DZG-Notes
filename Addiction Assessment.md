@@ -11,4 +11,4 @@ How do you decide if someone is addicted to something...
 3. Inability to Control use
 4. Craving - psychological or physical
 
-Note: Neither withdrawal symptoms nor tolerance are required for addiction.
+Note: Neither [[Symptoms of Withdrawal|withdrawal symptoms]] nor tolerance are required for addiction.

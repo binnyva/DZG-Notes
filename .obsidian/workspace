@@ -7,8 +7,11 @@
         "id": "be3599561ebd4de9",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Motivated Belief.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Motivated Belief.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,6 +96,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Motivated Belief.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -130,15 +135,15 @@
   },
   "active": "be3599561ebd4de9",
   "lastOpenFiles": [
-    "Cognitive Bias.md",
     "Untitled.md",
+    "Situation Predicts Behavior.md",
     "Get Better at Being Wrong.md",
+    "Temp.md",
+    "Map vs Territory.md",
     "Scout Mindset vs Soldier Mindset.md",
-    "Binary Framing.md",
-    "Litrature/Think Again by Adam Grant.md",
-    "Psychological Safety at work.md",
-    "psychological safety.md",
-    "Motivational Interview.md",
-    "PACT Goals.md"
+    "Motivated Reasoning.md",
+    "Confirmation Bias.md",
+    "Illusion Of Explanatory Depth.md",
+    "Symptoms of Withdrawal.md"
   ]
 }
