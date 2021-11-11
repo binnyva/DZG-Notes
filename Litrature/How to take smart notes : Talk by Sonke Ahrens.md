@@ -75,7 +75,7 @@ Paraphrasing what you just learned will show you the gaps in your knowledge - an
 ## Creativity
 
 1. Different tasks require different forms of attention
-2. Externalization allows the brain to do what it can do best: making comparisons and associations. Brain is bad at storing factual knowledge - your memory is a changed version of what you learned. Zettelkasten lets you compare that changed version with your actual learning...
+2. [[Externalizing Ideas]] allows the brain to do what it can do best: making comparisons and associations. Brain is bad at storing factual knowledge - your memory is a changed version of what you learned. Zettelkasten lets you compare that changed version with your actual learning...
 3. ... while the slip box keeps track of factual knowledge.
 4. Ideas can mingle and spark new ideas - chance is given a chance.
 

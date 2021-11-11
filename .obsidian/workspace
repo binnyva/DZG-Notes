@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Personal Philosophy.md",
+            "file": "Three Types of Note Taking Personalities.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "surprise",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal Philosophy.md",
+                "file": "Three Types of Note Taking Personalities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
   },
   "active": "be3599561ebd4de9",
   "lastOpenFiles": [
-    "Personal Philosophy.md",
-    "The Ovarian Lottery.md",
-    "Bloom's Taxonomy(Revised).md",
-    "Vision and Mission Statements using Solution Design Method.md",
-    "Mission Statement.md",
-    "Memory is Unreliable Storage.md",
-    "Pseudo Sets - Behavior Push.md",
-    "Zeigarnik Effect.md",
-    "Vision Statement.md",
-    "Litrature/How to Create a Mission Statement and Vision Statement.md"
+    "Three Types of Note Taking Personalities.md",
+    "Our wants are driven by others.md",
+    "Update World-view on Surprise.md",
+    "Surprise Method for Writing.md",
+    "Externalizing Ideas.md",
+    "Litrature/How to take smart notes : Talk by Sonke Ahrens.md",
+    "Thinking in Zettelkasten.md",
+    "Curiosity, not passion.md",
+    "Process to Get Novel Ideas.md",
+    "SMART Goals.md"
   ]
 }
