@@ -5,7 +5,7 @@ date: 2021-11-12 01:10:00
 source: "https://www.youtube.com/watch?v=wpcVQeF07G4"
 ---
 
-### Gardners
+### Gardeners
 
 The word [[A Brief History & Ethos of the Digital Garden|Digital Garden]] comes from this.
 

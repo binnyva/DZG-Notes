@@ -1,3 +1,10 @@
 {
-  "insert-template": []
+  "insert-template": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "T"
+    }
+  ]
 }

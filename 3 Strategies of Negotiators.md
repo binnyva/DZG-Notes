@@ -1,6 +1,6 @@
 ---
 title: "3 Strategies of Negotiators"
-tags: ["permanent-notes"]
+tags: ["permanent-notes", "negotiation","framework","disagreement"]
 date: 2021-09-13 01:56:00
 source: "[[Think Again by Adam Grant]]"
 ---
