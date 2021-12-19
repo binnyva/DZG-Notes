@@ -1,14 +1,17 @@
 {
   "main": {
-    "id": "e922640f4a7656ac",
+    "id": "f60a9cccff42d27f",
     "type": "split",
     "children": [
       {
-        "id": "128e33276b501b04",
+        "id": "5fac4935f7bf9c9b",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Exploritory vs Conformatary Thought.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Exploritory vs Conformatary Thought.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,17 +97,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "128e33276b501b04",
+  "active": "5fac4935f7bf9c9b",
   "lastOpenFiles": [
-    "Temp.md",
-    "Temp Note.md",
-    "Dunning-Kruger Effect.md",
-    "Post scarcity economy.md",
-    "Free and Open Source.md",
+    "Exploritory vs Conformatary Thought.md",
+    "Hyperfocus and ADHD.md",
+    "CBT.md",
+    "Pavlov's 5 Major Conditioning Processes.md",
+    "Cognitive Distortions.md",
+    "Memory Filters.md",
+    "ABC of CBT.md",
+    "Litrature/Cognitive Behavioral Therapy Course.md",
     "Creative Commons.md",
-    "Commons.md",
-    "I do, we do, you do - Skill Transfer modal.md",
-    "Play vs Game.md",
-    "Understanding Rules in a Creative Field.md"
+    "Belief Systems.md"
   ]
 }

@@ -4,11 +4,12 @@ tags: ["therapy","nlp","psychology","permanent-notes"]
 date: 2020-12-18 15:22:08
 ---
 
-All external events goes thru a filter of...
+Before we store an event in our memory, it goes thru many filters. So the final memory is very different from the actual event. The filters are...
 
 - Delete
 - Distort
 - Generalize 
+- Personalisations
 
 Before it reaches our memory storage.
 

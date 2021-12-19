@@ -1,6 +1,6 @@
 ---
 title: "Creative Commons"
-tags: ["permanent-notes"]
+tags: ["permanent-notes", "foss","society","creativity"   ]
 date: 2021-12-03 22:03:00
 ---
 
