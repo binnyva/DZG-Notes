@@ -1,6 +1,6 @@
 ---
 title: "ABC of CBT"
-tags: ["permanent-notes", "cbt","framework","therapy","psychology"    ]
+tags: ["permanent-notes", "cbt","framework","therapy","psychology" ]
 date: 2021-12-16 01:47:00
 ---
 

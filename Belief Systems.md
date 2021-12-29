@@ -12,3 +12,11 @@ Belief Systems are **our [[Mental Models|Mental Model]] of how the world is and 
 -   **Values**. Eg. “My way of driving the car is the best way to drive.”
 -   **Predictions about the future**. Eg. If everyone drove like me, we would be living in an utopia
 -   **Assigned Meaning**
+
+There is no standard definition/phase for this. Other phrases that have been used to convey the same meaning are...
+
+-   [[Personal Philosophy]]
+-   Stories - [Yuval Noah Harari](https://www.nytimes.com/interactive/2021/11/08/magazine/yuval-noah-harari-interview.html) prefers this
+-   Social Constructs
+-   Religion
+-  Shared Intentionality - Jonathan Haidt in Righteous Mind 

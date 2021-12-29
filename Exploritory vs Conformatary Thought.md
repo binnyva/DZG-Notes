@@ -2,6 +2,7 @@
 title: "Exploratory vs Conformatary Thought"
 tags: ["permanent-notes", "thoughts","mindset" ]
 date: 2021-11-25 01:35:00
+source: "Book: Righteous Mind"
 ---
 
 If people make judgments without needing to explain themselves to others at some point, they are more likely to use gut feelings and jump to conclusion. If people think they have to explain, they will use more reason in coming to their judgment - and be more willing to change their minds about their initial position.
