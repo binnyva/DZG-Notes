@@ -1,15 +1,12 @@
 ---
 title: "Deep Work and 30 Hour Method"
-tags: ["literature-notes"]
+tags: ["literature-notes", "focus","flow","deep-work"]
 date: 2020-11-28 18:10:54
+source: "https://azeria-labs.com/the-importance-of-deep-work-the-30-hour-method-for-learning-a-new-skill/""
 ---
 
-# The Importance of Deep Work & The 30-Hour Method for Learning a New Skill
+When we want to learn something new, we wait until motivation strikes us, then we tinker around for a few hours without a clear direction. As soon as we realize that we’re not getting anywhere, we get discouraged and give up. The formula to induce motivation...
 
-[Source](https://azeria-labs.com/the-importance-of-deep-work-the-30-hour-method-for-learning-a-new-skill/)
-
-When we want to learn something new, we wait until motivation strikes us, then we tinker around for a few hours without a clear direction. As soon as we realize that we’re not getting anywhere, we get discouraged and give up. 
-The formula to induce motivation...
 Starts with action -> sparks inspiration -> sparks motivation -> leads to action -> the loop continues.
 
 Flow: The moment when you’re fully focused on a task. You lose all sense of time, and everything seems to flow effortlessly; you forget everything around you and have a feeling of control over the task.
@@ -26,7 +23,7 @@ The Law of Productivity: High-Quality Work Produced = (Time Spent) x (Intensity 
 
 If you don’t plan Deep Work carefully and make it a strong habit, you will fail to develop this skill and automatically fall back to unproductive tinkering. You have a finite amount of willpower that becomes depleted as you use it. We all have approximately 4 hours of willpower available each day. If you have a fixed plan, a habit, you save your willpower for the actual task.
 
-Practice != deliberate practice. Deliberate practice refers to a special type of practice that is purposeful, systematic, and stretches your mind to its limits. Regular practice might include mindless repetitions of the same task, while deliberate practice requires focused attention and is performed with the specific goal of improving performance. The more we repeat a task the more mindless it becomes. Mindless activity is the enemy of deliberate practice.
+Practice != deliberate practice. [[Deliberate practice]] refers to a special type of practice that is purposeful, systematic, and stretches your mind to its limits. Regular practice might include mindless repetitions of the same task, while deliberate practice requires focused attention and is performed with the specific goal of improving performance. The more we repeat a task the more mindless it becomes. Mindless activity is the enemy of deliberate practice.
 
 > “Too often, we assume we are getting better simply because we are gaining experience. In reality, we are merely reinforcing our current habits — not improving them.”
 

@@ -10,7 +10,7 @@ Zettelkasten is a note taking process and a knowledge management system. It's re
 
 When learning reading and re-reading is useless for understanding. This is called the [[Mere-Exposure Effect]]. What helps is trying to explain what you learned - that will show all the gaps in your understanding.  Taking notes is a simple way of doing it. Micro testing.
 
-When taking notes, you should [[write what you learned in your own words|Capture Understanding - Don't Quote]] - don't copy the text as is. This will show you how much you understood - and what the gaps are.
+When taking notes, you should [[Capture Understanding - Don't Quote|write what you learned in your own words]] - don't copy the text as is. This will show you how much you understood - and what the gaps are.
 
 ## Process
 

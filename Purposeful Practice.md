@@ -10,4 +10,4 @@ source: "https://commoncog.com/blog/the-problems-with-deliberate-practice/"
 - Requires feedback - shorter feedback loops, the better.
 - Specific end goals. 
 
-Related to Deliberate Practice
+Related to [[Deliberate Practice]]
