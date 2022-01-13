@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Online Drift.md",
+            "file": "Litrature/Deep Work and 30 Hour Method.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Online Drift.md",
+                "file": "Litrature/Deep Work and 30 Hour Method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,8 +98,8 @@
   },
   "active": "a1ab08e70baf4746",
   "lastOpenFiles": [
-    "Online Drift.md",
     "Litrature/Deep Work and 30 Hour Method.md",
+    "Online Drift.md",
     "Deliberate Practice.md",
     "Litrature/Deliberate Practice - Achieve Mastery in Anything.md",
     "Purposeful Practice.md",
