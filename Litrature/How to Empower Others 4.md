@@ -1,6 +1,6 @@
 ---
 title: "How to Empower Others 4"
-tags: ["empowering","life-coaching","coach","conversation","communication","mad"]
+tags: [ "literature-notes", "empowering","life-coaching","coach","conversation","communication","mad"]
 date: 2020-11-28 20:01:46
 ---
 
@@ -58,3 +58,8 @@ date: 2020-11-28 20:01:46
 - Starter question - do you want to vent or do you want me to help.
 - Listening without intent to reply.
 
+### Other Notes
+
+- [[How to Empower Others 1]]
+- [[How to Empower Others 2]]
+- [[How to Empower Others 3]]

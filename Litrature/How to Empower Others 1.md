@@ -1,6 +1,6 @@
 ---
 title: "How to Empower Others 1"
-tags: ["coach","session","notes","life-coaching","empowering","mad"]
+tags: [ "literature-notes", "coach","session","notes","life-coaching","empowering","mad"]
 date: 2020-11-28 20:01:24
 ---
 
@@ -73,3 +73,9 @@ Learning / Takeaways ...
 3. Advising is not helpful when teaching. 
 
 Feedback Form: https://forms.gle/5pVMTqMqJfCpx1gr5 
+
+### Other Notes
+
+- [[How to Empower Others 2]]
+- [[How to Empower Others 3]]
+- [[How to Empower Others 4]]

@@ -7,7 +7,7 @@ source: "https://www.youtube.com/watch?v=LZLG6fZc7K8"
 
 - Beliefs
 - Sacred Stories
-- Spaces Places Times and Artifacts 
+- Spaces, Places, Times and Artifacts 
 - Texts
 - Rituals
 - Symbols

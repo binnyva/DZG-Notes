@@ -1,6 +1,6 @@
 ---
 title: "Emotions take over the thinking process"
-tags: ["permanent-notes"]
+tags: ["permanent-notes", "emotion"]
 date: 2021-08-11 23:42:00
 ---
 

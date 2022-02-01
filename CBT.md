@@ -6,7 +6,7 @@ date: 2021-12-16 01:45:00
 source: "[[Cognitive Behavioral Therapy Course]]"
 ---
 
-CBT is a Therapy model that Focus on the reducing or managing symptoms of mental health conditions. 
+CBT is a Therapy model that focus on the reducing or managing symptoms of mental health conditions. CBT belongs to the Cognitive and Behavioral schools in [[Psychology]].
 
 Its based on the idea that thoughts drive emotions that can drive behaviors. If the initial thoughts can be changed, it can change the entire chain. CBT aims to... 
 

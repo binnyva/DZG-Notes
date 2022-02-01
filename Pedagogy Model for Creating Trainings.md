@@ -1,6 +1,6 @@
 ---
 title: "Pedagogy Model for Creating Trainings"
-tags: ["permanent-notes"]
+tags: ["permanent-notes", "learning", "skill","teaching" ]
 date: 2021-09-09 00:54:00
 source: "https://commoncog.com/blog/accelerated-expertise/"
 ---

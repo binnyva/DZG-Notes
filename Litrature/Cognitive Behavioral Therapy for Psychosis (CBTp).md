@@ -1,11 +1,11 @@
 ---
 title: "Cognitive Behavioral Therapy for Psychosis (CBTp)"
-tags: ["permanent-notes"]
+tags: ["permanent-notes", "therapy","cbt","psychology" ]
 date: 2021-12-13 01:27:00
 source: "https://www.youtube.com/watch?v=4edinfIt5QM"
 ---
 
-### Structure of CBT Session
+### Structure of [[CBT]] Session
 
 - Agenda Setting - 2 Mins
 - Homework Review - 5-10 Mins
@@ -43,7 +43,7 @@ Different mental health issues as viewed by CBT
 - Delusion: fixed false beliefs held in the face of contrary evidence
 
 - Depression -> distorted beliefs about self worth & Efficacy
-- Anorexia - fixed false belief about being overweight
+- Anorexia -> fixed false belief about being overweight
 - Panic Disorder -> Distorted belief about physical safety
 - OCD -> Distorted beliefs - thought-action fusion
 

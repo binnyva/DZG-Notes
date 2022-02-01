@@ -1,6 +1,6 @@
 ---
 title: "How to Empower Others 2"
-tags: ["empowering","coach","life-coaching","session","notes","mad"]
+tags: [ "literature-notes", "empowering","coach","life-coaching","session","notes","mad"]
 date: 2020-11-28 20:02:10
 ---
 
@@ -87,3 +87,8 @@ Facts allow us to be grounded us in reality, but unless faith and action walk ha
 - Financial
 - Health
 
+### Other Notes
+
+- [[How to Empower Others 1]]
+- [[How to Empower Others 3]]
+- [[How to Empower Others 4]]

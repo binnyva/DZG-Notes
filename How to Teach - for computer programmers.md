@@ -1,6 +1,6 @@
 ---
 title: "How to Teach - for computer programmers"
-tags: ["permanent-notes", "teaching","framework","tech","meta-cognition" ]
+tags: [ "literature-notes", "teaching","framework","tech","meta-cognition" ]
 date: 2021-08-17 01:19:00
 source: "https://www.youtube.com/watch?v=ewXvFQByRqY"
 ---

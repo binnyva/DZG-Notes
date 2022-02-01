@@ -1,6 +1,6 @@
 ---
 title: "How to Empower Others 3"
-tags: ["life-coaching","mindset","coach","mad"]
+tags: [ "literature-notes", "life-coaching","mindset","coach","mad"]
 date: 2020-11-28 20:01:56
 ---
 
@@ -68,4 +68,10 @@ Stage 5. Review, adapt and adjust.
 5. Plan of action
 6. Implement
 
+
+### Other Notes
+
+- [[How to Empower Others 1]]
+- [[How to Empower Others 2]]
+- [[How to Empower Others 4]]
 

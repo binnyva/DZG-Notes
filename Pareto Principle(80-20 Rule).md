@@ -1,9 +1,12 @@
 ---
 title: "Pareto Principle(80-20 Rule)"
-tags: ["permanent-notes", "productivity", "quote"]
-date: 2021-07-11 03:17:00
+tags: ["permanent-notes", "productivity", "rationality","mental-models","framework", "decision-making" ]
+date: 2021-05-08 00:56:00
+source: "https://www.julian.com/blog/mental-model-examples"
 ---
 
-20% of the effort should create 80% of the output
+20% of the effort should create 80% of the output. To maximize ROI, invest in the 20%.
 
-Related to [[Parkinson's Law]]
+This is a [[Mental Model]] to make medium time frame decisions.
+
+Related to [[Parkinson's Law]].
