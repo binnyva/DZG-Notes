@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "3 People Groups we Imitate.md",
+            "file": "Permanent Notes in Zettelkasten.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 People Groups we Imitate.md",
+                "file": "Permanent Notes in Zettelkasten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
   },
   "active": "483eddb93dafc1f6",
   "lastOpenFiles": [
-    "3 People Groups we Imitate.md",
-    "Dunbar's Number.md",
-    "Habits.md",
-    "Build or Break Habits.md",
-    "Self Concept.md",
-    "Litrature/Deliberate Practice - Achieve Mastery in Anything.md",
-    "Common Factors Research.md",
-    "Emotions in Sharing Content.md",
     "Permanent Notes in Zettelkasten.md",
-    "Externalizing Ideas.md"
+    "Externalizing Ideas.md",
+    "Gatsby.md",
+    "Controlling Others Behavior because you can't Control your Emotions.md",
+    "Empathy.md",
+    "Litrature/Heidegger.md",
+    "Epicurus.md",
+    "Aristotle.md",
+    "Heraclitus.md",
+    "Socrates.md"
   ]
 }
