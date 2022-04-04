@@ -1,7 +1,7 @@
 {
   "showFrontmatter": true,
   "spellcheck": true,
-  "fileSortOrder": "byCreatedTime",
+  "fileSortOrder": "byModifiedTime",
   "spellcheckDictionary": [
     "zettelkasten",
     "operant"

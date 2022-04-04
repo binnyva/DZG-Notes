@@ -2,9 +2,8 @@
 title: "Systems Thinking Intro"
 tags: ["literature-notes","notes","systems-thinking","video", "systems"]
 date: 2020-11-28 18:10:54
+source: "https://www.youtube.com/watch?v=3AKHjwvEufg&list=PLAl0gPKnL3V8s7dPXoo07mYnuErhWVk8b&index=2"
 ---
-
-[Source ](https://www.youtube.com/watch?v=3AKHjwvEufg&list=PLAl0gPKnL3V8s7dPXoo07mYnuErhWVk8b&index=2)
 
 It will let you see causal relations
 

@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "483eddb93dafc1f6",
+        "id": "73caf48e8fe3d01b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "3 People Groups we Imitate.md",
+            "file": "Epistemic Legibility.md",
             "mode": "source"
           }
         }
@@ -18,15 +18,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "5bd9e3e51b479045",
+    "id": "4e1dc976c7fde71a",
     "type": "split",
     "children": [
       {
-        "id": "b53877ea8794eaa7",
+        "id": "173f9bd673012b81",
         "type": "tabs",
         "children": [
           {
-            "id": "c03a31fd06a3264b",
+            "id": "8a85df6f79dce526",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "8229759a9ff0838a",
+            "id": "460c50c4ecfa3fc9",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "how",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -55,32 +55,32 @@
     "width": 300
   },
   "right": {
-    "id": "a0729a87f1fd0483",
+    "id": "728ebc6e179b68a4",
     "type": "split",
     "children": [
       {
-        "id": "9f025098b2f9b873",
+        "id": "57fa863da00d82d8",
         "type": "tabs",
         "children": [
           {
-            "id": "4ae38c673fcd00fa",
+            "id": "7a8554742b063807",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 People Groups we Imitate.md",
+                "file": "Epistemic Legibility.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "5c3ee1a53bcf8c97",
+            "id": "eb5782368770521e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -89,25 +89,33 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "87d55114d2d7e6e6",
+            "type": "leaf",
+            "state": {
+              "type": "chat",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "483eddb93dafc1f6",
+  "active": "73caf48e8fe3d01b",
   "lastOpenFiles": [
-    "3 People Groups we Imitate.md",
-    "Dunbar's Number.md",
-    "Habits.md",
-    "Build or Break Habits.md",
-    "Self Concept.md",
-    "Litrature/Deliberate Practice - Achieve Mastery in Anything.md",
-    "Common Factors Research.md",
-    "Emotions in Sharing Content.md",
-    "Permanent Notes in Zettelkasten.md",
-    "Externalizing Ideas.md"
+    "Epistemic Legibility.md",
+    "Transactional Analysis.md",
+    "TA: Ego States.md",
+    "TA: Life Script.md",
+    "End of History Illusion.md",
+    "Content Blocks.md",
+    "Mind Accepts Coherent Stories.md",
+    "Thinking Fast and Slow.md",
+    "Seek-Sense-Share Framework.md",
+    "Sense Making.md"
   ]
 }

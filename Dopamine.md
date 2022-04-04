@@ -1,6 +1,6 @@
 ---
 title: "Dopamine"
-tags: ["permanent-notes"]
+tags: ["permanent-notes", "psychology", "psychology" ]
 date: 2021-04-05 01:10:00
 ---
 

@@ -1,12 +1,9 @@
 ---
 title: "Introduction to Philosophy"
-tags: ["notes","philosophy"]
+tags: ["philosophy", "literature-notes" ]
 date: 2020-11-28 20:29:34
+source: "https://www.coursera.org/learn/philosophy/home/notes"
 ---
-
-# Introduction to Philosophy
-
-[Source](https://www.coursera.org/learn/philosophy/home/notes)
 
 Context: Notes saved from the course I took in Philosophy
 
@@ -34,13 +31,13 @@ Are we depicting some element of the universe out there? The moral facts. Are we
 
 What are we doing when we make such judgments? Are we representing objective facts of matter? Or are we describing our personal or cultural practices? The status of morality and in particular, three questions. 
 
-1. are our moral judgements the sorts of thing that can be true or false? Or are they mere opinions? 
+1. are our moral judgments the sorts of thing that can be true or false? Or are they mere opinions? 
 2. if they are the sorts of things that can be true or false, what makes them true or false? 
 3. if they are true, are they objectively true?
 
 Emotivisim: our moral judgments are not the source of things that can be true or false, neither objectively true or false, nor true or false relative to some, person's feelings or some culture. They are the direct expression of our emotive reactions to the world
 
-Subjectivism: Our moral judgments are indeed true or false, but they're only true or false relative to the subjective feelings of a particular person, the person who makes them basic idea behind relativism is that our moral judgements are indeed the sorts of things that can be true or false, but they're only true or false relative to something that varies from person to person or culture to culture
+Subjectivism: Our moral judgments are indeed true or false, but they're only true or false relative to the subjective feelings of a particular person, the person who makes them basic idea behind relativism is that our moral judgments are indeed the sorts of things that can be true or false, but they're only true or false relative to something that varies from person to person or culture to culture
 
 Objectivism: our moral judgments are the sorts of things that can be true or false, and what makes them true or false are facts that are generally independent of who we are or what cultural groups we belong to. They're objective moral facts
 
@@ -95,7 +92,7 @@ To trust someone else's testimony on some matter is to allow your own understand
 
 ## The Value of Intellectual Autonomy
 
-"sapere aude": Which means literally dare to be wise. But a little bit less literally you could translate it, dare to know
+"sapere aude": Which means literally "dare to be wise". Better translation would be "dare to know"
 
 ## Descartes' Substance Dualism Theory of the Mind
 
@@ -103,9 +100,9 @@ we can think about things. I can evaluate my own thoughts. Descartes thought tha
 
 ## Physicalism: Identity Theory and Functionalism
 
-Multiple Realisability: the phsycial state that realizes the psychological state of pain can be very different, depending on the type of organism that we're looking at.
+Multiple Realisability: the physical state that realizes the psychological state of pain can be very different, depending on the type of organism that we're looking at.
 Psychological states, thoughts, feelings, sensations, pains, for example, can be reduced to particular physical states in the body.
-Type identity is saying that particular types of physcological states, say pains, are identitical with particular types of physical states.
+Type identity is saying that particular types of physiological states, say pains, are identical with particular types of physical states.
 
 If we're saying that psychological states are identical with physical states, then we're going to have to explain whether we mean token identity or type identity. Token identity would be something like this. We could say that for every psychological state that a human being is in, there is a corresponding physical state for it.
 
@@ -158,7 +155,5 @@ Causes work in a deterministic way. Everything about the effect is explained by 
 
 What determinists say is that there's no genuine chanciness in the world, that the way things are going to happen is determined by everything that's happened before
 
-
-Libertarianism: libertarians argue that we really are free, that we really do have free will
-
-Compatibilism: Compatibilists say that there are features of our acts, the way that we behave, the way that we are that matter, and they matter to moral responsibility, and they matter even if we don't have metaphysical free will.
+- **Libertarianism**: libertarians argue that we really are free, that we really do have free will
+- **Compatibilism**: Compatibilists say that there are features of our acts, the way that we behave, the way that we are that matter, and they matter to moral responsibility, and they matter even if we don't have metaphysical free will.
