@@ -14,3 +14,7 @@ PARA is a [[Personal Knowledge Management]] framework
 
 The idea is to have these 4 folders in your file manager/Google Drive/Todo App - and organize your life in these 4 folders. The data will flow thru these structures when you work on it.
 
+More information...
+
+- [BASB12](https://miro.com/app/board/o9J_lEwGSa8=/)
+- [# Building a Second Brain: The Illustrated Notes](https://maggieappleton.com/basb)

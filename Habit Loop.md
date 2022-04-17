@@ -1,5 +1,5 @@
 ---
-title: "Habits"
+title: "Habit Loop"
 source: "Book: Atomic Habits"
 tags: ["permanent-notes","habit","behavior","book" ]
 date: "2022-02-07 22:22:11"
@@ -14,4 +14,4 @@ It has four components(this is known as the habit loop)...
 - Response
 - Reward
 
-We can use this to [[Build or Break Habits]]
+We can use this to [[Four Laws of Behavior Change|change behavior]].
