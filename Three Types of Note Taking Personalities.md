@@ -26,3 +26,9 @@ The word [[A Brief History & Ethos of the Digital Garden|Digital Garden]] comes 
 - Highly organized
 - You might not go back to these notes. Lots of new notes get saved - but not revisited
 - Eg. Evernote, Onenote
+
+### Student
+
+- Have a short term goal in mind
+- Surface level information is enough.
+- Eg. Google Keep

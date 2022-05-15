@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "2f15fab209cb1756",
+        "id": "90389c797a54a44a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mastery by Discovery.md",
+            "file": "Three Types of Note Taking Personalities.md",
             "mode": "source"
           }
         }
@@ -18,15 +18,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "4e1dc976c7fde71a",
+    "id": "3e8400c9ca519b03",
     "type": "split",
     "children": [
       {
-        "id": "173f9bd673012b81",
+        "id": "3a20ab2cb2e15490",
         "type": "tabs",
         "children": [
           {
-            "id": "8a85df6f79dce526",
+            "id": "ad342006194b3813",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "460c50c4ecfa3fc9",
+            "id": "be062b178bdccb00",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "cue",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -55,20 +55,28 @@
     "width": 300
   },
   "right": {
-    "id": "728ebc6e179b68a4",
+    "id": "29c3d6e955b2f1ba",
     "type": "split",
     "children": [
       {
-        "id": "57fa863da00d82d8",
+        "id": "829e13f18f21cf3e",
         "type": "tabs",
         "children": [
           {
-            "id": "7a8554742b063807",
+            "id": "e66d3577c9eef3dd",
+            "type": "leaf",
+            "state": {
+              "type": "chat",
+              "state": {}
+            }
+          },
+          {
+            "id": "1595084ba6761f03",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mastery by Discovery.md",
+                "file": "Three Types of Note Taking Personalities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -80,7 +88,7 @@
             }
           },
           {
-            "id": "eb5782368770521e",
+            "id": "d4d693515ba3c3c0",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -89,32 +97,25 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "87d55114d2d7e6e6",
-            "type": "leaf",
-            "state": {
-              "type": "chat",
-              "state": {}
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "2f15fab209cb1756",
+  "active": "90389c797a54a44a",
   "lastOpenFiles": [
-    "Mastery by Discovery.md",
+    "Three Types of Note Taking Personalities.md",
+    "Enmeshment.md",
+    "DOSE - Brain Hormones.md",
+    "Facets of Mental Health.md",
+    "Dopamine.md",
+    "Serotonin.md",
     "Atomic Habits.md",
     "Habits and Deliberate Practice is Mastery.md",
-    "Boredom with Habits.md",
-    "Commitment Device.md",
-    "Deliberate Practice.md",
-    "Goldilocks Rule.md",
-    "Accountability Partner.md",
-    "Habit Tracker.md",
-    "Habit Loop.md"
+    "Litrature/PARA.md",
+    "Four Laws of Behavior Change.md"
   ]
 }
