@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "90389c797a54a44a",
+        "id": "b8fbf369cbd3fe66",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Three Types of Note Taking Personalities.md",
+            "file": "Atomic visuals to communicate your ideas.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "i will",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Three Types of Note Taking Personalities.md",
+                "file": "Atomic visuals to communicate your ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,17 +105,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "90389c797a54a44a",
+  "active": "b8fbf369cbd3fe66",
   "lastOpenFiles": [
-    "Three Types of Note Taking Personalities.md",
-    "Enmeshment.md",
-    "DOSE - Brain Hormones.md",
-    "Facets of Mental Health.md",
-    "Dopamine.md",
-    "Serotonin.md",
-    "Atomic Habits.md",
-    "Habits and Deliberate Practice is Mastery.md",
-    "Litrature/PARA.md",
-    "Four Laws of Behavior Change.md"
+    "Atomic visuals to communicate your ideas.md",
+    "Excalidraw/Visual Language - Person.md",
+    "Excalidraw/Drawing 2022-05-22 18.26.43.excalidraw.md",
+    "Excalidraw/Drawing 2022-05-22 18.24.14.excalidraw.md",
+    "DIKW Pyramid.md",
+    "Optimizing Load Algorithm - TCP with AIMD.md",
+    "Selection Algorithm - 37% Rule.md",
+    "Encode framework.md",
+    "2 Lists Prioritization Strategy.md",
+    "Creativity comes from internalized knowledge.md"
   ]
 }

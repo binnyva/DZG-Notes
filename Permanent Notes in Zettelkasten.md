@@ -1,6 +1,6 @@
 ---
 title: "Permanent Notes in Zettelkasten"
-tags: ["permanent-notes","zettelkasten"]
+tags: ["permanent-notes","zettelkasten", "pkm"]
 date: 2021-01-05 15:19:34
 ---
 
@@ -14,3 +14,12 @@ Some rules for permanent notes...
 - Write as if you are writing for someone else - use full sentences, show sources.
 - Be precise, clear and brief
 - Should be understood even if you don't know the context it was taken from.
+
+Format/Content of the note should be just these...
+- Title
+- The Idea
+- Tags
+- Source
+- Links to other notes
+
+Many people in the PKM space calls this a '*Zettel*'(note). 

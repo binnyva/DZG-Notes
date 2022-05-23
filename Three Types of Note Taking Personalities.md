@@ -7,7 +7,7 @@ source: "https://www.youtube.com/watch?v=wpcVQeF07G4"
 
 ### Gardeners
 
-The word [[A Brief History & Ethos of the Digital Garden|Digital Garden]] comes from this.
+The word [[A Brief History & Ethos of the Digital Garden|Digital Garden]] comes from this type
 
 - Less structured - open ended
 - You look at your notes again and again
@@ -27,7 +27,7 @@ The word [[A Brief History & Ethos of the Digital Garden|Digital Garden]] comes 
 - You might not go back to these notes. Lots of new notes get saved - but not revisited
 - Eg. Evernote, Onenote
 
-### Student
+### Students
 
 - Have a short term goal in mind
 - Surface level information is enough.
