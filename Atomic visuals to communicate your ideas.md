@@ -37,13 +37,13 @@ When drawing an idea, use the image that comes from your "gut". When you have to
 
 [Source](https://twitter.com/EvansNifty/status/1507269313186578432)
 
-![[Visual Frameworks - Abstract.jpeg]]
+![Visual Frameworks - Abstract](./Visual-Frameworks-Abstract.jpeg)
 
-![[Visual Frameworks - Maths.jpeg]]
+![Visual Frameworks - Maths](Visual-Frameworks-Maths.jpeg)
 
-![[Visual Frameworks - Metaphors.jpeg]]
+![Visual Frameworks - Metaphors](Visual-Frameworks-Metaphors.jpeg)
 
-![[Visual Frameworks - Tech.jpeg]]
+![Visual Frameworks - Tech](Visual-Frameworks-Tech.jpeg)
 
 ### Resources
 

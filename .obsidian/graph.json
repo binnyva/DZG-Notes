@@ -3,56 +3,20 @@
   "search": "-tag:#literature-notes",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": true,
+  "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [
-    {
-      "query": "psychology",
-      "color": {
-        "a": 1,
-        "rgb": 14701138
-      }
-    },
-    {
-      "query": "learning",
-      "color": {
-        "a": 1,
-        "rgb": 14725458
-      }
-    },
-    {
-      "query": "philosophy",
-      "color": {
-        "a": 1,
-        "rgb": 5399264
-      }
-    },
-    {
-      "query": "productivity",
-      "color": {
-        "a": 1,
-        "rgb": 5431378
-      }
-    },
-    {
-      "query": "framework",
-      "color": {
-        "a": 1,
-        "rgb": 16711914
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -1.1,
-  "nodeSizeMultiplier": 1.77921348314607,
-  "lineSizeMultiplier": 2.15213675213675,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
   "collapse-forces": true,
-  "centerStrength": 0.376404494382022,
-  "repelStrength": 10.4494382022472,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
   "linkStrength": 1,
-  "linkDistance": 241,
-  "scale": 0.1292789146255955,
+  "linkDistance": 250,
+  "scale": 0.15463269916222827,
   "close": false
 }

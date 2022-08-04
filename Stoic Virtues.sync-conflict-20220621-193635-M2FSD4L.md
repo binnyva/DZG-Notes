@@ -1,6 +1,6 @@
 ---
 title: Stoic Virtues
-tags: ["permanent-notes", "stoicism", "philosophy", "psychology"]
+tags: [permanent-notes, stoicism, philosophy, psychology]
 date: 2021-07-11T03:16:00.000Z
 source: 'https://www.youtube.com/watch?v=m_Rz7mY8Lyc'
 ---

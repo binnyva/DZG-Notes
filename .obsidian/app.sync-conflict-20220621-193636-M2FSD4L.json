@@ -1,0 +1,11 @@
+{
+  "showFrontmatter": true,
+  "spellcheck": true,
+  "fileSortOrder": "byModifiedTime",
+  "spellcheckDictionary": [
+    "zettelkasten",
+    "operant"
+  ],
+  "alwaysUpdateLinks": true,
+  "promptDelete": false
+}
