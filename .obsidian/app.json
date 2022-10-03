@@ -8,5 +8,6 @@
     "Oxytocin"
   ],
   "alwaysUpdateLinks": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "livePreview": false
 }

@@ -1,0 +1,99 @@
+{
+  "main": {
+    "id": "f60a9cccff42d27f",
+    "type": "split",
+    "children": [
+      {
+        "id": "115f7a6c032983ba",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Atomic visuals to communicate your ideas.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f215a63ef0c74e10",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "23cd2b1a00aa3df5",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "d8c7e9108449550e",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "d6f61ebd96cc3b80",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "0e3f6187d963e772",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "eada9beda24bf251",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Atomic visuals to communicate your ideas.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "115f7a6c032983ba",
+  "lastOpenFiles": [
+    "Litrature/The Second Brain - A Life-Changing Productivity System.md",
+    "Survival Strategies.md",
+    "Untitled 1.md",
+    "Gamification - Octalysis Framework.md",
+    "Bonding amoung Men.md",
+    "Ecnomics of lifting poor countries to middle class.md",
+    "Behaviour Change - Make Cues Obvious.md",
+    "Stoic Virtues.md",
+    "Selection Algorithm - 37% Rule.md",
+    "Embodied cognition.md"
+  ]
+}

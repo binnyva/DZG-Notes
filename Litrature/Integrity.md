@@ -16,7 +16,7 @@ Integrity of your Word
 5. What you stand for.
 6. Moral, Ethical and Legal Norms
 
-## Honoring your word
+## Honouring your word
 Keep your word OR
 1. Inform Everyone Concerned
 2. Clear up the mess
@@ -29,21 +29,23 @@ Keep your word OR
 
 ## Break Down
 If something goes wrong, you declare a breakdown.
-If there is a breakdown, you start the honoring process.
+If there is a breakdown, you start the honouring process.
 
 When you break integrity with yourself, your promise changes to a thought you had
 
 ## Veils of Invisibility
 
 1. Thinking Integrity is a virtue
-2. Self delusion
-3. Belief that you have reached integrity
+2. Self delusion about being out of integrity
+3. Belief that you have reached integrity - Integrity is a mountain without a top
 4. Don't view integrity as a factor of production
 5. Not doing cost-benefit analysis before giving your word.
 6. Doing cost-benefit analysis after you gave your word
 7. Thinking Integrity = keeping your word
 8. Not having a place or Occasion for your word
-9. Thinking integrity is work #1 and #4
+9. Thinking integrity is word #1 and #4
+10. Not seeing *who you are as a person* is your word
+11. Not having your word in existence when it comes time to keep your word
 
 ## Integrity of a system
 - Integrity to the external world

@@ -9,7 +9,7 @@ Key Ideas...
 
 - **Borrowed creativity** - what we create is remixing things we learn
 - **Capture habit** - brain is for "having ideas" - not storing ideas.
-- **Idea recycling** - 12 favorite problems(?)
+- **Idea recycling** - 12 favourite problems(?)
 - **Project over Categories** - Put ideas that you get into the 'Project' folder rather than the category the idea belongs to.
 - **Slow Burn** more important than Heavy Lift - Work on multiple projects - all on slow burner. 
 - **Start with Abundance** - Don't start with a blank page. When starting a project, search for related information within your system
