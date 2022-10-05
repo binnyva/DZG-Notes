@@ -7,7 +7,7 @@ source: "https://www.youtube.com/watch?v=wpcVQeF07G4"
 
 ### Gardeners
 
-The word [[A Brief History & Ethos of the Digital Garden|Digital Garden]] comes from this type
+The word [[A Brief History & Ethos of the Digital Garden|Digital Garden]] comes from this type.
 
 - Less structured - open ended
 - You look at your notes again and again
@@ -16,14 +16,14 @@ The word [[A Brief History & Ethos of the Digital Garden|Digital Garden]] comes 
 
 ### Architects
 
-- You build your own organization structure
-- Customized system for you.
+- You build your own organisation structure
+- Customised system for you.
 - Eg. Notion
 
 ### Librarians
 
 - Every note has one specific place
-- Highly organized
+- Highly organised
 - You might not go back to these notes. Lots of new notes get saved - but not revisited
 - Eg. Evernote, Onenote
 
