@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Three Types of Note Taking Personalities.md",
+            "file": "Memory is Unreliable Storage.md",
             "mode": "source",
             "source": true
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Three Types of Note Taking Personalities.md",
+                "file": "Memory is Unreliable Storage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,15 +108,15 @@
   },
   "active": "115f7a6c032983ba",
   "lastOpenFiles": [
+    "Memory Distorts Over Time.md",
+    "Memory is Unreliable Storage.md",
+    "Three Types of Note Taking Personalities.md",
     "Time Blocking.md",
     "Stoicism.md",
     "Dichotomy of Control.md",
     "Locus of Control.md",
     "Deterministic Universe.md",
     "Stoic Virtues.md",
-    "Economics of lifting poor countries to middle class.md",
-    "Bonding amoung Men.md",
-    "Learning is adding to Long Term Memory.md",
-    "Writing Process.md"
+    "Economics of lifting poor countries to middle class.md"
   ]
 }

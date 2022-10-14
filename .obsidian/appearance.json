@@ -4,5 +4,6 @@
   "enabledCssSnippets": [
     "small-markup"
   ],
-  "cssTheme": ""
+  "cssTheme": "",
+  "accentColor": ""
 }
