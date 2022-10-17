@@ -2,6 +2,7 @@
 title: "Personal Knowledge Management"
 tags: ["literature-notes", "pkm","knowledge-management","zettelkasten","notes" ]
 date: 2021-06-11 22:19:00
+source: "https://priydevadethan.wordpress.com/2021/06/11/personal-knowledge-management-systems/"
 ---
 
 Knowledge workers need to be responsible for their own growth and learning. In Organizations, this is the bottom-up approach to knowledge management.
@@ -58,5 +59,3 @@ At the core of all PKM are note taking systems...
 4. Note Taking Apps: Evernote, OneNote, Notion, etc.
 5. Personal Wikis: Interlink-able notes. Eg. TidilyWiki.
 6. Specialized Software: Specific software to support existing workflow like Zettelkasten. Eg. Roam Research, Obsidian.
-
-[Source](https://priydevadethan.wordpress.com/2021/06/11/personal-knowledge-management-systems/)

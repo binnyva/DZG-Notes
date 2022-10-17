@@ -14,4 +14,4 @@ Make a 2x2 grid with 2 axis - Important and Urgent. This is how you treat the fo
 
 ![Urgency Matrix](https://assets.website-files.com/573fda28621475e528e09ea0/59b601b02cc30e0001cf9605_Urgency%20Matrix.svg)
 
-This is a [[Mental Model]] to make **immediate** decisions.
+This is a [[Mental Models|Mental Model]] to make **immediate** decisions.

@@ -8,7 +8,7 @@ source: "https://priydevadethan.wordpress.com/2021/06/19/para-framework-for-pers
 PARA is a [[Personal Knowledge Management]] framework
 
 - **Projects**: Series of tasks with a end goal and deadline. Eg. Launch MindOS publicly
-- **Areas**: An ongoing system that needs to be maintained. Think workflows. Eg. PKM thru [[Zettelkasten]]
+- **Areas**: An ongoing system that needs to be maintained. Think workflows. Eg. PKM thru [[Zettelkasten]]. This is long term and open ended.
 - **Resources**: Topic of interest. Eg. PKM
 - **Archives**: Inactive items for the other three categories. Projects that are completed, areas that have been abandoned, etc.
 
@@ -17,4 +17,4 @@ The idea is to have these 4 folders in your file manager/Google Drive/Todo App -
 More information...
 
 - [BASB12](https://miro.com/app/board/o9J_lEwGSa8=/)
-- [# Building a Second Brain: The Illustrated Notes](https://maggieappleton.com/basb)
+- [Building a Second Brain: The Illustrated Notes](https://maggieappleton.com/basb)

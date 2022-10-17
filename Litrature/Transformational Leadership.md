@@ -14,10 +14,10 @@ Context: Session by Abishek at LC 2020
 - Shift in perspective of our self and world
 - Expansive view 
 - Awakening 
-- Realization of true nature
+- Realisation of true nature
 - Shift in awareness
 
-"Organization don't change, people do."
+"Organisation don't change, people do."
 
 VUCA : Volatile Uncertain Complex and Ambiguous
 
@@ -34,7 +34,7 @@ VUCA : Volatile Uncertain Complex and Ambiguous
 - you know the solution
 - variation is in the implementation of solution
 
-Behavior - comes from within - this drives the result
+Behaviour - comes from within - this drives the result
 
 // Psychology + Philosophy + Spirituality + Management
 
@@ -63,6 +63,6 @@ Learning Systems
 5. Post Session group discussion -> Reflection space to continue development
 
 ### Other sessions from the same LC...
-- [[Non-Violent Communication / NVC]]
+- [[Non-Violent Communication]]
 - [[Integrity]]
 

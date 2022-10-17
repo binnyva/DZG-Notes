@@ -5,11 +5,11 @@ date: 2021-09-09 00:56:00
 source: "https://commoncog.com/blog/accelerated-expertise/"
 ---
 
-Assumptions/Core syllogism of CFT
+Assumptions/Core arguments of CFT
 
 - Learning is creating mental models of concepts 
 - Learners tend to over simplify/make simplistic explanations - Training should help AVOID that.
-- Simplistic explanations tend to preserve itself thru [[Knowledge Shields]]
+- Simplistic explanations tend to preserve itself through [[Knowledge Shields]]
 - Ability to flexibly apply learned knowledge to cases within the same domain is advanced learning.
 
 These assumptions lead us to these conclusions...

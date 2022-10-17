@@ -7,7 +7,7 @@ source: "https://www.julian.com/blog/mental-model-examples"
 
 **Take the decision that will lead to the minimum regret over a long time frame.**
 
-This is a good [[Mental Model]] to make better **long term** decisions.
+This is a good [[Mental Models|Mental Model]] to make better **long term** decisions.
 
 There are some issues with this framework([Source](http://www.samvitjain.com/blog/regret/))...
 
@@ -16,4 +16,4 @@ There are some issues with this framework([Source](http://www.samvitjain.com/blo
 - Regret happens because of the outcome - which might be outside your control.
 - Regret is influenced by social systems - you might have a really good life - but still regret many things that your peers disapprove of.
 
-A better way to implement this is to learn emotional control - want nothing and you'll regret not getting it. But the purpose of Regret Minimization is NOT to minimize regrets - but to make decisions. 
+A better way to implement this is to learn emotional control - want nothing and you'll regret not getting it. But the purpose of Regret Minimisation is NOT to minimise regrets - but to make decisions. 

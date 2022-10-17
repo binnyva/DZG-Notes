@@ -1,0 +1,149 @@
+{
+  "main": {
+    "id": "f60a9cccff42d27f",
+    "type": "split",
+    "children": [
+      {
+        "id": "e64a83280cdf9e27",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "115f7a6c032983ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dichotomy of Control.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "6ade44344e18b556",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Litrature/PARA.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "aeb71dcb6462119b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 Moral Foundations.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "129a9e7593ffd870",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea6f17384f20cd97",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4ca3339add5725c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "01bee3ba9928fa5e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "62ca0af3419706a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "e16af055feaca860",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb22ee00c1f00698",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "5 Moral Foundations.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "91e634e90d79ba1c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "aeb71dcb6462119b",
+  "lastOpenFiles": [
+    "DIKW Pyramid.md",
+    "Litrature/Personal Knowledge Management.md",
+    "DIKW Pyramid.sync-conflict-20220621-193635-M2FSD4L.md",
+    "Zettelkasten.md",
+    "Litrature/Building a Second Brain.md",
+    "Encode framework.md",
+    "Permanent Notes in Zettelkasten.md",
+    "Permanent Notes in Zettelkasten.sync-conflict-20220621-193635-M2FSD4L.md",
+    "Imagined Community.md",
+    "One Level Higher.md"
+  ]
+}

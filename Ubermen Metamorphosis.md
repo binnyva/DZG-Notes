@@ -4,7 +4,7 @@ tags: ["permanent-notes"]
 date: 2021-03-05 21:46:00
 ---
 
-According to [[Nietzsche]], people go thru 3 stages before becoming [[Ubermen]]
+According to [[Fredrich Nietzsche]], people go thru 3 stages before becoming [[Ubermen]]
 
 - Camel: Strong, carries much load, survives in harsh conditions. Takes moral codes very seriously.
 - Lion: Stand against values of society - they take their own decisions - independent of their society. Committed to own freedom.

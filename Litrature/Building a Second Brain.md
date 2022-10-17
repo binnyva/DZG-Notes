@@ -27,4 +27,3 @@ Distilling your notes into actionable, bite-sized summaries. Think [[Zettelkaste
 2. Make small, reusable units of work.
 3. Share often, share online.
 
-[Source](https://fortelabs.co/blog/basboverview/)

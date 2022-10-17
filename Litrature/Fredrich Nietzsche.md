@@ -2,11 +2,8 @@
 title: "Fredrich Nietzsche"
 tags: ["philosophers","nietzsche"]
 date: 2020-11-28 20:32:52
+source: "https://www.youtube.com/watch?v=vzRbCrIWURY"
 ---
-
-# Introduction to Nietzsche
-
-[Source](https://www.youtube.com/watch?v=vzRbCrIWURY)
 
 The purpose of philosophy is NOT a "critique of words by means of other words". The purpose is to facilitate the emergence of the great individual.
 

@@ -53,6 +53,6 @@ When you break integrity with yourself, your promise changes to a thought you ha
 - Integrity between members.
 
 ## Other Sessions at same LC
-- [[Non-Violent Communication / NVC]]
+- [[Non-Violent Communication]]
 - [[Transformational Leadership]]
 

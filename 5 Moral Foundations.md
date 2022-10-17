@@ -11,4 +11,4 @@ source: "Book: Righteous Mind"
 4. Authority / Subversion - came from the need to be in hierarchical groups - which becomes necessary in bigger systems.
 5. Sanctity / Degradation - came because we have pathogens around us.
 
-
+More details at [Moral Foundations](https://moralfoundations.org/)

@@ -9,5 +9,9 @@
   ],
   "alwaysUpdateLinks": true,
   "promptDelete": false,
-  "livePreview": false
+  "livePreview": false,
+  "spellcheckLanguages": [
+    "en-GB",
+    "en-US"
+  ]
 }
