@@ -1,7 +1,7 @@
 ---
 title: "Belief System Scale"
 tags: ["permanent-notes", "belief","society"]
-date: "2021-12-30 22:06:00"
+date: 2021-12-30 22:06:00
 source: "Original Idea"
 ---
 

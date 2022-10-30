@@ -1,7 +1,7 @@
 ---
 title: "Conversational Group Limit"
 tags: ["permanent-notes", "language","conversation","society","psychology" ]
-date: "2022-04-08 01:34:00"
+date: 2022-04-08 01:34:00
 source: "https://interconnected.org/home/2022/04/05/dunbar"
 ---
 

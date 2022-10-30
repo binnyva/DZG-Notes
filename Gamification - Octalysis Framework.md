@@ -1,7 +1,7 @@
 ---
 title: "Gamification - Octalysis Framework"
 tags: ["permanent-notes", "gamification","framework","behavior"]
-date: "2022-07-21 23:42:00"
+date: 2022-07-21 23:42:00
 source: "https://www.youtube.com/watch?v=ELavuz3btaE"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Existential Psychotherapy Roots"
 tags: ["permanent-notes", "existentialism", "psychology", "therapy"]
-date: 2021-03-085 12:00:00
+date: 2021-03-08 12:00:00
 ---
 
 - Phenomenology: People's subjective reality - how they understand and interpret the situation is the main concern.

@@ -1,7 +1,7 @@
 ---
 title: "3 People Groups we Imitate"
 tags: ["permanent-notes", "behavior","society","psychology","habit" ]
-date: "2022-02-10 01:27:00"
+date: 2022-02-10 01:27:00
 source: "Book: Atomic Habits"
 ---
 

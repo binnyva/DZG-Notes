@@ -1,7 +1,7 @@
 ---
 title: "How to read a scientific paper"
 tags: ["permanent-notes", "framework","science","read" ]
-date: "2021-12-28 20:40:00"
+date: 2021-12-28 20:40:00
 source: "https://youtu.be/ba-HMvDn_vU?t=4520"
 ---
 

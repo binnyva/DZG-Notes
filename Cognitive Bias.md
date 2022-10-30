@@ -1,7 +1,7 @@
 ---
 title: "Cognitive Bias"
 tags: ["permanent-notes", "cognitive-bias","psychology","meta-cognition","cognition"]
-date: "2022-10-15 15:32:00"
+date: 2022-10-15 15:32:00
 source: "https://mindos.in/thinking-flaws/"
 ---
 

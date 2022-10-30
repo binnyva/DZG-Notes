@@ -1,7 +1,7 @@
 ---
 title: "Deep Work and 30 Hour Method"
 tags: ["literature-notes", "focus","flow","deep-work"]
-date: "2020-11-28 18:10:54"
+date: 2020-11-28 18:10:54
 source: "https://azeria-labs.com/the-importance-of-deep-work-the-30-hour-method-for-learning-a-new-skill/"
 ---
 

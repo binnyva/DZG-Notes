@@ -1,7 +1,7 @@
 ---
 title: "The writing process"
 tags: [ "literature-notes","writing","process","framework" ]
-date: "2022-09-09 19:10:00"
+date: 2022-09-09 19:10:00
 source: "http://www.covingtoninnovations.com/mc/WriteThinkLearn.pdf"
 ---
 

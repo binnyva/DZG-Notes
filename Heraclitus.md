@@ -1,7 +1,7 @@
 ---
 title: "Heraclitus"
 tags: [ "philosophy","philosophers","person","permanent-notes" ]
-date: "2022-01-30 14:50:00"
+date: 2022-01-30 14:50:00
 ---
 
 ## Historical Context

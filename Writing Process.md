@@ -1,7 +1,7 @@
 ---
 title: "Writing Process"
 tags: ["permanent-notes", "writing","process","framework"]
-date: "2022-09-09 19:15:00"
+date: 2022-09-09 19:15:00
 source: "[[The writing process]]"
 ---
 

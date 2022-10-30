@@ -1,7 +1,7 @@
 ---
 title: "Dunbar's Number"
 tags: ["permanent-notes", "society","psychology"]
-date: "2022-02-10 01:24:00"
+date: 2022-02-10 01:24:00
 source: "https://en.wikipedia.org/wiki/Dunbar%27s_number"
 ---
 

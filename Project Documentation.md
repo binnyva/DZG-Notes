@@ -1,7 +1,7 @@
 ---
 title: "Project Documentation"
 tags: ["permanent-notes", "documentation","framework","project-management"]
-date: "2022-06-14 01:47:00"
+date: 2022-06-14 01:47:00
 source: "https://eugeneyan.com/writing/writing-docs-why-what-how/"
 ---
 

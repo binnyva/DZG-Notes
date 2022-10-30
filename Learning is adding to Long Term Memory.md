@@ -1,7 +1,7 @@
 ---
 title: "Learning is adding to Long Term Memory"
 tags: ["permanent-notes", "memory","learning","cognition","meta-cognition"]
-date: "2022-09-28 00:42:00"
+date: 2022-09-28 00:42:00
 source: "https://saveall.ai/blog/learning-is-remembering"
 ---
 

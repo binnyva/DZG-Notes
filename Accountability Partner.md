@@ -1,7 +1,7 @@
 ---
 title: "Accountability Partner"
 tags: ["permanent-notes", "habit","productivity" ]
-date: "2022-04-17 01:22:00"
+date: 2022-04-17 01:22:00
 source: "[[Atomic Habits]]"
 ---
 

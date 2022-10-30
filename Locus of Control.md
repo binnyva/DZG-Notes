@@ -1,7 +1,7 @@
 ---
 title: "Locus of Control"
 tags: ["permanent-notes", "psychology","framework","belief" ]
-date: "2022-10-02 00:55:00"
+date: 2022-10-02 00:55:00
 ---
 
 This refers to how we believe where the power in our life lies.

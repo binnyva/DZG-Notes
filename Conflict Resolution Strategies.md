@@ -1,7 +1,7 @@
 ---
 title: "Conflict Resolution Strategies"
 tags: ["permanent-notes", "conflict","conflict-resolution" ]
-date: "2022-05-18 01:51:00"
+date: 2022-05-18 01:51:00
 source: "https://climb.pcc.edu/blog/what-are-the-five-conflict-resolution-strategies"
 ---
 

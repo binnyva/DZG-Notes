@@ -2,15 +2,15 @@
 title: "Manage Your Energy, Not Your Time"
 tags: ["energy","literature-notes","procrastination","time","time-management","productivity"]
 date: 2020-11-28 19:45:36
+source: "https://hbr.org/2007/10/manage-your-energy-not-your-time"
 ---
 
-[Source](https://hbr.org/2007/10/manage-your-energy-not-your-time)
+Time is a finite resource. Energy is a capacity to work. There are four types of energy...
 
-Time is a finite resource. Energy is a capacity to work. There are four tyes of energy
-- body / Physical 
-- emotions / Emotional
-- mind / Mental
-- spirit / Spiritual
+- Body / Physical 
+- Emotions / Emotional
+- Mind / Mental
+- Spirit / Spiritual
 
 In each, energy can be systematically expanded and regularly renewed by establishing specific rituals. Behaviors that are intentionally practiced and precisely scheduled, with the goal of making them unconscious and automatic as quickly as possible.
 

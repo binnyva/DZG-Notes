@@ -1,7 +1,7 @@
 ---
 title: "Pavlov's 5 Major Conditioning Processes"
 tags: ["permanent-notes", "behavior","psychology","conditioning"]
-date: "2021-12-16 01:50:00"
+date: 2021-12-16 01:50:00
 ---
 
 1. **Acquisition**: Is the initial learning that takes place. It is determined by how much time elapses between the presenting the neutral stimuli (NS) and the unconditioned stimuli (UCS).

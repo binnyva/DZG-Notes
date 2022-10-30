@@ -1,7 +1,7 @@
 ---
 title: "Goldilocks Rule"
 tags: ["permanent-notes", "productivity","motivation" ]
-date: "2022-04-17 01:23:00"
+date: 2022-04-17 01:23:00
 source: "[[Atomic Habits]]"
 ---
 

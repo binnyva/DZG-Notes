@@ -1,7 +1,7 @@
 ---
 title: "Online Drift"
 tags: ["permanent-notes", "internet","society","social-media" ]
-date: "2022-01-10 02:19:00"
+date: 2022-01-10 02:19:00
 source: "https://www.youtube.com/watch?v=phTTGIEUX7w"
 ---
 

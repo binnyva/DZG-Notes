@@ -1,7 +1,7 @@
 ---
 title: "Emotions in Sharing Content"
 tags: ["permanent-notes", "emotion","sharing","internet","society"]
-date: "2022-01-27 01:10:00"
+date: 2022-01-27 01:10:00
 source: "[This will make you angry](https://www.youtube.com/watch?v=rE3j_RHkqJc)"
 ---
 

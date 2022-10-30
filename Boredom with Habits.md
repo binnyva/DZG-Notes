@@ -1,7 +1,7 @@
 ---
 title: "Boredom with Habits"
 tags: ["permanent-notes", "productivity","motivation","habit" ]
-date: "2022-04-17 01:25:00"
+date: 2022-04-17 01:25:00
 source: "[[Atomic Habits]]"
 ---
 

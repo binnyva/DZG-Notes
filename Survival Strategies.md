@@ -1,7 +1,7 @@
 ---
 title: "Survival Strategies"
 tags: ["permanent-notes","evolution","strategy","nature","biology"]
-date: "2022-07-25 11:32:00"
+date: 2022-07-25 11:32:00
 ---
 
 Evolutionary Ecology has 2 Survival strategies:

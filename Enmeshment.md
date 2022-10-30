@@ -1,7 +1,7 @@
 ---
 title: "Enmeshment"
 tags: ["permanent-notes", "career","psychology","identity" ]
-date: "2022-05-15 02:35:00"
+date: 2022-05-15 02:35:00
 ---
 
 When boundaries between the identity of personal and professional gets blurred. The professional identity becomes the personal identity.

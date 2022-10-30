@@ -1,7 +1,7 @@
 ---
 title: "Self Concept"
 tags: ["permanent-notes", "identity","psychology" ]
-date: "2022-01-27 00:57:00"
+date: 2022-01-27 00:57:00
 ---
 
 ### Existential

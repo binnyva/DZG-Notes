@@ -1,7 +1,7 @@
 ---
 title: "Break Bad Habits"
 tags: ["permanent-notes", "habit","psychology","behavior" ]
-date: "2022-02-08 01:59:00"
+date: 2022-02-08 01:59:00
 source: "Book: Atomic Habits"
 ---
 

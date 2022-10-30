@@ -1,7 +1,7 @@
 ---
 title: "CODE Framework"
 tags: ["permanent-notes", "framework","pkm","organization" ]
-date: "2022-10-16 15:14:00"
+date: 2022-10-16 15:14:00
 ---
 
 This is part of the [[PARA]] method of [[Personal Knowledge Management]].

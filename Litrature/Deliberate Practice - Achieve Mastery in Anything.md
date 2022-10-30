@@ -1,7 +1,7 @@
 ---
 title: "Deliberate Practice - Achieve Mastery in Anything"
 tags: ["practice","learning","growth","literature-notes","skill"]
-date: "2022-01-10 02:45:00"
+date: 2022-01-10 02:45:00
 source: "https://www.youtube.com/watch?v=1-sjUoGO250"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Deterministic Universe"
 tags: ["permanent-notes", "philosophy"]
-date: "2022-10-02 00:51:00"
+date: 2022-10-02 00:51:00
 ---
 
 Also called a clockwork universe. We will be in a deterministic universe if everything is predictable. If all actions are the direct result of earlier actions and laws governing interactions between system.

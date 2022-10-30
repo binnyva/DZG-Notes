@@ -1,7 +1,7 @@
 ---
 title: "Dichotomy of Control"
 tags: ["permanent-notes", "philosophy","stoicism","framework"]
-date: "2022-10-02 01:02:00"
+date: 2022-10-02 01:02:00
 source: "https://modernstoicism.com/what-many-people-misunderstand-about-the-stoic-dichotomy-of-control-by-michael-tremblay/"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Commitment Device"
 tags: ["permanent-notes", "productivity" ]
-date: "2022-04-17 01:24:00"
+date: 2022-04-17 01:24:00
 source: "[[Atomic Habits]]"
 ---
 

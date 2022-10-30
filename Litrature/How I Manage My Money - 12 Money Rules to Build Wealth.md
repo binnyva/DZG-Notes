@@ -1,7 +1,7 @@
 ---
 title: "How I Manage My Money - 12 Money Rules to Build Wealth"
 tags: [ "literature-notes","money","finance","framework","book" ]
-date: "2021-12-28 20:38:00"
+date: 2021-12-28 20:38:00
 source: "https://www.youtube.com/watch?v=Gg8_TA7U0Uw"
 ---
 

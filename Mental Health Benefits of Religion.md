@@ -1,7 +1,7 @@
 ---
 title: "Mental Health Benefits of Religion"
 tags: ["permanent-notes","therapy","psychology","religion","mental-health" ]
-date: "2022-01-18 02:22:00"
+date: 2022-01-18 02:22:00
 source: "[How Religion Affects Your Mental Health](https://www.youtube.com/watch?v=sc3ycMvyuoo)"
 ---
 

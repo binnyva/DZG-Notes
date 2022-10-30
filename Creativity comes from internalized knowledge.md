@@ -1,7 +1,7 @@
 ---
 title: "Creativity comes from internalized knowledge"
 tags: ["permanent-notes", "creativity","knowledge","pkm","learning","problem-solving" ]
-date: "2022-05-18 01:32:00"
+date: 2022-05-18 01:32:00
 source: "[Augmenting Long-term Memory](http://augmentingcognition.com/ltm.html)"
 ---
 

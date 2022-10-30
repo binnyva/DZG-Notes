@@ -1,7 +1,7 @@
 ---
 title: "Atomic visuals to communicate your ideas"
 tags: ["permanent-notes", "visual-intelligence","communication","illustration" ]
-date: "2022-05-22 18:20:00"
+date: 2022-05-22 18:20:00
 ---
 
 Atomic Visuals: simple, quick images

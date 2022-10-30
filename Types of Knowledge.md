@@ -1,7 +1,7 @@
 ---
 title: "Types of Knowledge"
 tags: ["permanent-notes", "knowledge","pkm","knowledge-management"]
-date: "2021-06-24 19:42:00"
+date: 2021-06-24 19:42:00
 ---
 
 There are three types of knowledge in [[Organizational Knowledge Management]]...

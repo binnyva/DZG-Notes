@@ -1,7 +1,7 @@
 ---
 title: "Epistemic Legibility"
 tags: ["permanent-notes", "disagreement" ]
-date: "2022-03-27 00:45:00"
+date: 2022-03-27 00:45:00
 source: "https://acesounderglass.com/2022/02/07/epistemic-legibility/"
 ---
 

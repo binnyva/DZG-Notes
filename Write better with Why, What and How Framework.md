@@ -1,7 +1,7 @@
 ---
 title: "Write better with Why, What and How Framework"
 tags: ["permanent-notes", "writing","documentation","framework" ]
-date: "2022-06-14 01:48:00"
+date: 2022-06-14 01:48:00
 ---
 
 Use can use this in the [[Project Documentation]].

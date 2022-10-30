@@ -1,7 +1,7 @@
 ---
 title: "Atomic Habits"
 tags: ["permanent-notes", "habit","behavior","psychology","productivity" ]
-date: "2022-04-16 21:13:00"
+date: 2022-04-16 21:13:00
 source: "Book: Atomic Habits"
 ---
 

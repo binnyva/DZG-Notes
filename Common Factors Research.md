@@ -1,7 +1,7 @@
 ---
 title: "Common Factors Research"
 tags: ["permanent-notes", "therapy","psychology","framework" ]
-date: "2022-01-18 02:21:00"
+date: 2022-01-18 02:21:00
 source: "[How Religion Affects Your Mental Health](https://www.youtube.com/watch?v=sc3ycMvyuoo)"
 ---
 

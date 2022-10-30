@@ -1,7 +1,7 @@
 ---
 title: "Social Media Distorts Sense making"
 tags: ["permanent-notes", "society","social-media","behavior" ]
-date: "2022-04-09 01:28:00"
+date: 2022-04-09 01:28:00
 source: "https://bigthink.com/the-present/social-media-distorts-reality/"
 ---
 

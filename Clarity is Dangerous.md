@@ -1,7 +1,7 @@
 ---
 title: "Clarity is Dangerous"
 tags: ["permanent-notes", "knowledge","epistemology","heuristics" ]
-date: "2022-02-17 01:17:00"
+date: 2022-02-17 01:17:00
 source: "https://www.researchgate.net/publication/348755905_The_Seductions_of_Clarity"
 ---
 

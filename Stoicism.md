@@ -1,7 +1,7 @@
 ---
 title: "Stoicism"
 tags: ["permanent-notes", "stoicism","philosophy","framework"]
-date: "2022-09-28 18:39:00"
+date: 2022-09-28 18:39:00
 source: "https://www.youtube.com/watch?v=o0MzQZ_eFEY"
 ---
 

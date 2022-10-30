@@ -1,7 +1,7 @@
 ---
 title: "Selection Algorithm - 37% Rule"
 tags: ["permanent-notes", "algorithm","problem-solving" ]
-date: "2022-05-20 01:44:00"
+date: 2022-05-20 01:44:00
 source: "https://www.youtube.com/watch?v=2VCPmabnBdo"
 ---
 

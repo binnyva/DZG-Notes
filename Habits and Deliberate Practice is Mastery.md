@@ -1,7 +1,7 @@
 ---
 title: "Habits and Deliberate Practice is Mastery"
 tags: ["permanent-notes", "practice","habit","productivity" ]
-date: "2022-04-17 01:26:00"
+date: 2022-04-17 01:26:00
 source: "[[Atomic Habits]]"
 ---
 

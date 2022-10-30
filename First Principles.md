@@ -5,7 +5,7 @@ date: 2021-07-02 01:15:00
 source: "https://typeshare.co/karthi/posts/first-principles-thinking"
 ---
 
-This tool will let you break down a problem into is smallest units and build a solution focusing on those units. Some ways to do this...
+This tool will let you break down a problem into is smallest units and build a solution focusing on those units. We generally understand by analogy - we connect the new information to something we already know. That's easier and quicker - but not as accurate as getting to the first principles. Some ways to do this...
 
 - Start with questioning existing beliefs and conventions.
 - Deconstruct and reconstruct. Break the problem into basic elements.

@@ -1,7 +1,7 @@
 ---
 title: "Memory Distorts Over Time"
 tags: ["permanent-notes", "memory","psychology","meta-cognition"]
-date: "2022-10-10 20:34:00"
+date: 2022-10-10 20:34:00
 source: "https://brainpizza.substack.com/p/sins-of-memory"
 ---
 

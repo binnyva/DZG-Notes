@@ -1,7 +1,7 @@
 ---
 title: "Facets of Mental Health"
 tags: ["permanent-notes", "psychology","mental-health" ]
-date: "2022-05-15 02:06:00"
+date: 2022-05-15 02:06:00
 source: "Authentic Living Summit"
 ---
 

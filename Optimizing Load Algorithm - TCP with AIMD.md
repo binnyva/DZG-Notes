@@ -1,7 +1,7 @@
 ---
 title: "Optimizing Load Algorithm - TCP with AIMD"
 tags: ["permanent-notes", "algorithm","problem-solving" ]
-date: "2022-05-20 01:46:00"
+date: 2022-05-20 01:46:00
 source: "https://www.youtube.com/watch?v=2VCPmabnBdo"
 ---
 

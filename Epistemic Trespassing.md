@@ -1,7 +1,7 @@
 ---
 title: "Epistemic Trespassing"
 tags: ["permanent-notes", "epistemology","society"]
-date: "2022-10-15 15:15:00"
+date: 2022-10-15 15:15:00
 source: "https://academic.oup.com/mind/article-abstract/128/510/367/4850765"
 ---
 

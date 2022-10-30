@@ -20,4 +20,4 @@ Sharing the process of building/learning something in public is better that shar
 
 Once you are comfortable with the rhythm, increase the sophistication - do podcasts, videos, etc.
 
-[# WIP: the case for sharing your work in public](https://nesslabs.com/work-in-public)
+[WIP: the case for sharing your work in public](https://nesslabs.com/work-in-public)

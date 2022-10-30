@@ -1,7 +1,7 @@
 ---
 title: "Economics of lifting poor countries to middle class"
 tags: ["permanent-notes", "economics","society" ]
-date: "2022-06-17 15:40:00"
+date: 2022-06-17 15:40:00
 source: "https://astralcodexten.substack.com/p/book-review-how-asia-works?s=r"
 ---
 

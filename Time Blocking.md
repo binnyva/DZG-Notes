@@ -1,7 +1,7 @@
 ---
 title: "Time Blocking"
 tags: ["permanent-notes", "productivity","time-management","framework" ]
-date: "2022-10-03 01:15:00"
+date: 2022-10-03 01:15:00
 source: "https://fellow.app/blog/productivity/time-blocking-method-step-by-step-guide/"
 ---
 
@@ -15,7 +15,7 @@ Group similar tasks so that it can be done together. Eg. all calls in the same b
 
 #### Day Themes
 
-Each day of the week has a different theme so that you can focus on different types of tasks every day. Eg. content writing on monday, social media on tuesday, etc.
+Each day of the week has a different theme so that you can focus on different types of tasks every day. Eg. content writing on Monday, social media on Tuesday, etc.
 
 #### Time Boxing
 

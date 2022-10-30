@@ -1,7 +1,7 @@
 ---
 title: "6 Critical Thinking Standards"
 tags: ["permanent-notes", "thinking","framework","meta-cognition" ]
-date: "2022-04-07 01:18:00"
+date: 2022-04-07 01:18:00
 ---
 
 - Clarity: Can others understand your point?
