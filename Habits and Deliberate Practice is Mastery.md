@@ -7,6 +7,6 @@ source: "[[Atomic Habits]]"
 
 We tend to do habits without thinking after a point - at this stage its easy to have errors - which we repeat. This is not good long term.
 
-Habit + [[Deliberate Practice]] = Mastery
+[[Habits]] + [[Deliberate Practice]] = Mastery
 
 Make sure there is a review process for the habits you want in your life.

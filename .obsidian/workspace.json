@@ -13,21 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "First Principles.md",
+                "file": "Litrature/Neuroscience of Creativity, Perception, and Confirmation Bias.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "dd2cdb01cf86aa6e",
+            "id": "9a22858f9e89ab72",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Crazy 8 Ideation.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -56,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#creativity",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +70,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "First Principles.md",
+                "file": "Crazy 8 Ideation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,28 +108,29 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
+                "sortOrder": "alphabetical",
                 "useHierarchy": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "115f7a6c032983ba",
+  "active": "9a22858f9e89ab72",
   "lastOpenFiles": [
-    "Socratic Questioning.md",
+    "Litrature/Neuroscience of Creativity, Perception, and Confirmation Bias.md",
+    "Process to Get Novel Ideas.md",
+    "Habits and Deliberate Practice is Mastery.md",
+    "Habits.md",
+    "Heraclitus.md",
+    "Online Drift.md",
+    "Flow State.md",
     "First Principles.md",
-    "CODE Framework.md",
-    "GTD.md",
-    "Templates/New.md",
-    "Personal Knowledge Mastery.md",
-    "Epistemology.md",
-    "Litrature/Zettelkasten Learning Method.md",
-    "You Only Know What you Make.md",
-    "Types of Knowledge.md"
+    "Socratic Questioning.md",
+    "CODE Framework.md"
   ]
 }
