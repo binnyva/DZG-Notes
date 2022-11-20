@@ -21,7 +21,7 @@ This task can give you anxiety - there are not much guidelines. You'll have to w
 
 The anxiety might cause some to give up on this path - by choosing to be not their true self. This might bring about despair or "sickness of spirit". This happens when someone tries to rid oneself of oneself - so as to escape being their true self. But you can be unconscious of this type of despair. That is very dangerous. Way more dangerous that people who are aware of the despair.
 
-The truth Kierkegaard was seeking is **not an Objective truth - but a subjective, personal truth** - expressed thur a passionate idea or a style of living. Objective truths can be "known". Subjective truths can be "experienced or lived".
+The truth Kierkegaard was seeking is **not an Objective truth - but a subjective, personal truth** - expressed through a passionate idea or a style of living. Objective truths can be "known". Subjective truths can be "experienced or lived".
 
 ## [[Jean-Paul Sartre]]
 

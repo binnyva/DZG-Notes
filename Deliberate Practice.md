@@ -1,6 +1,6 @@
 ---
 title: "Deliberate Practice"
-tags: ["permanent-notes", "knowledge","pkm","skill","growth","practice", "learning " ]
+tags: ["permanent-notes", "knowledge","pkm","skill","growth","practice", "learning" ]
 date: 2022-01-10 01:26:00
 source: "https://betterhumans.pub/the-complete-guide-to-deliberate-practice-3a70319be3af"
 ---

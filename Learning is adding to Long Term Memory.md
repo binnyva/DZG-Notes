@@ -7,7 +7,7 @@ source: "https://saveall.ai/blog/learning-is-remembering"
 
 Learning is adding things to your long term memory.
 
-To understand something, you'll have to combine new knowledge. The limit of new knowledge you can combine to understanding the larger concept is 4. This is the limit of working memory. It's practically impossible to increase your working memory's capacity.
+To understand something, you'll have to combine new knowledge. The limit of new knowledge you can combine to understanding the larger concept is 4(+/-1). This is the limit of working memory. It's practically impossible to increase your working memory's capacity.
 
 ![Long Term Memory](https://saveall.ai/blog/memory/working_memory_1.svg)
 

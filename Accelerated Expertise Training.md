@@ -5,6 +5,8 @@ date: 2021-09-09 00:55:00
 source: "https://commoncog.com/blog/accelerated-expertise/"
 ---
 
+Accelerated Expertise is 'taking the concept of skill development to the limit'.
+
 1. Identify the domain Experts
 	- In-depth interviews
 	- Professional certificates, licensing, etc

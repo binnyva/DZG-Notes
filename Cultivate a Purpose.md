@@ -1,6 +1,6 @@
 ---
 title: "Cultivate a Purpose"
-tags: ["permanent-notes", "motivation","meta-cognition","psychology" ]
+tags: ["permanent-notes", "motivation","meta-cognition","psychology","purpose"]
 date: 2021-08-11 23:51:00
 source: "https://omny.fm/shows/hidden-brain/cultivating-your-purpose"
 ---

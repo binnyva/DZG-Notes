@@ -2,6 +2,7 @@
 title: "Cost of Mistrust"
 tags: ["society","permanent-notes"]
 date: 2021-01-27 16:44:46
+source: "https://fs.blog/2021/01/mistrust/"
 ---
 
 The decreased trust in others is both the reason to and result of decreased participation in communal activities. Without trust, we have to find costly ways to formalize our relationship(eg. creating a contract). 
@@ -12,4 +13,4 @@ Generalized Reciprocity: If you do something good for another person, you don't 
 
 If you want people to trust you, the best place to start is by trusting them.
 
-[Source](https://fs.blog/2021/01/mistrust/)
+

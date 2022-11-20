@@ -9,3 +9,4 @@ When you can store a bunch of information in your working memory as one unit. Eg
 
 Show deliberate practice of skill will help chunk that ability.
 
+This is one of the ways [[Learning is adding to Long Term Memory|learning]] happen.

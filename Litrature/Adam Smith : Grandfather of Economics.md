@@ -2,9 +2,8 @@
 title: "Adam Smith : Grandfather of Economics"
 tags: ["economics","literature-notes","notes","person","video"]
 date: 2020-11-28 18:10:54
+source: "https://www.youtube.com/watch?v=NqUSDi-mvqw"
 ---
-
-## [Source](https://www.youtube.com/watch?v=NqUSDi-mvqw)
 
 Wrote the book 'Wealth of Nations'(1776) - that was the beginning of economics as a separate discipline.
 
@@ -18,7 +17,7 @@ In feudal time, value add was so small that it didn't register in the big pictur
 
 This idea of Adam Smith that value can be created thru production was a major driver for the industrial revolution.
 
-### Factors of production
+### [[Factors of production]]
 
 - Land
 - Labor
