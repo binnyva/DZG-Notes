@@ -6,5 +6,12 @@
       ],
       "key": "T"
     }
+  ],
+  "obsidian-excalidraw-plugin:insert-link-to-element": [],
+  "markdown:toggle-preview": [
+    {
+      "modifiers": [],
+      "key": "F12"
+    }
   ]
 }
