@@ -18,3 +18,5 @@ Processes to get to first principles...
 
 - [[5 Whys]]
 - [[Socratic Questioning]]
+
+Analogies are useful in situations where you can predict what can happen. In novel situations, first principles are a better tool.

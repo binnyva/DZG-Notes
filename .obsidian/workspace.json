@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chunking.md",
+                "file": "First Principles.md",
                 "mode": "source",
                 "source": true
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network State.md",
+                "file": "Productive Thinking Model.md",
                 "mode": "source",
                 "source": true
               }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network State.md",
+                "file": "Productive Thinking Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,17 +119,27 @@
     "width": 300,
     "collapsed": true
   },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false
+    }
+  },
   "active": "6355beae3cfdfa17",
   "lastOpenFiles": [
+    "First Principles.md",
     "Chunking.md",
+    "Productive Thinking Model.md",
     "Network State.md",
     "Test.md",
     "Writing Process.md",
     "Feedback Loops in Noisy Environments.md",
     "Litrature/Zettelkasten Learning Method.md",
     "You Only Know What you Make.md",
-    "Types of Knowledge.md",
-    "Sense Making.md",
-    "Permanent Notes in Zettelkasten.md"
+    "Types of Knowledge.md"
   ]
 }

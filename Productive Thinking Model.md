@@ -27,7 +27,7 @@ Use the DRIVE framework to come up with success criteria:
 - What **values** should the solution have?
 - What are the **essential** outcomes? 
 
-### Ask "What's the question?" (Catalytic questions)
+### 3. Ask "What's the question?" (Catalytic questions)
 
 Use the information you've gathered in the previous steps. Phrases like "How might we...?" or "How can I...?" will help you formulate the questions that must be answered to achieve your vision (the Target Future).
 
@@ -37,7 +37,7 @@ Brainstorm as many answers to the catalytic questions as you can.
 
 ### Forge the solution
 
-choose the best solution before developing it further. Take your list from the previous step and evaluate each idea/solution against the success criteria. Think What could make it better? How can you make it fit the success criteria more?
+Choose the best solution before developing it further. Take your list from the previous step and evaluate each idea/solution against the success criteria. Think What could make it better? How can you make it fit the success criteria more?
 
 ### Align resources
 
