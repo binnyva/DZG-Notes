@@ -30,9 +30,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "4f16daac9768c955",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theory of Mind.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Productive Thinking Model.md",
+                "file": "Theory of Mind.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,11 +141,11 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "6355beae3cfdfa17",
+  "active": "4f16daac9768c955",
   "lastOpenFiles": [
+    "Productive Thinking Model.md",
     "First Principles.md",
     "Chunking.md",
-    "Productive Thinking Model.md",
     "Network State.md",
     "Test.md",
     "Writing Process.md",
