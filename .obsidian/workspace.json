@@ -42,9 +42,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "5ba546be0fc14d76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Narrative Fallacy.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -102,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theory of Mind.md",
+                "file": "Narrative Fallacy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,17 +153,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "4f16daac9768c955",
+  "active": "5ba546be0fc14d76",
   "lastOpenFiles": [
+    "Regression to the Mean.md",
+    "Insensitivity to sample size.md",
+    "Theory of Mind.md",
     "Productive Thinking Model.md",
     "First Principles.md",
     "Chunking.md",
     "Network State.md",
     "Test.md",
     "Writing Process.md",
-    "Feedback Loops in Noisy Environments.md",
-    "Litrature/Zettelkasten Learning Method.md",
-    "You Only Know What you Make.md",
-    "Types of Knowledge.md"
+    "Feedback Loops in Noisy Environments.md"
   ]
 }
