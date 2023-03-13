@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Social Media Outrage is driven by Base Rate Fallacy.md",
+                "file": "Encode framework.md",
                 "mode": "source",
                 "source": true
               }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Social Media Outrage is driven by Base Rate Fallacy.md",
+                "file": "Encode framework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,8 +131,8 @@
   },
   "active": "7df68c63e0aa538d",
   "lastOpenFiles": [
-    "First Principles.md",
     "Social Media Outrage is driven by Base Rate Fallacy.md",
+    "First Principles.md",
     "Productive Thinking Model.md",
     "Theory of Mind.md",
     "Narrative Fallacy.md",
