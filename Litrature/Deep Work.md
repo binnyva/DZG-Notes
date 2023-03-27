@@ -5,7 +5,7 @@ date: 2020-11-28 18:10:54
 ---
 
 # "Deep Work: Rules for Focused Success in a Distracted World" 
-by [[Cal Newport: So Good They Can't Ignore You]]
+by [[Cal Newport - So Good They Can't Ignore You]]
 
 ["Deep Work: Rules for Focused Success in a Distracted World" by Cal Newport - BOOK SUMMARY](https://www.youtube.com/watch?v=_RMtnDaxmPw)
 

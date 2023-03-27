@@ -8,4 +8,4 @@ If we can say that the ego has a location in the brain, it would be the default 
 
 This area will have a lot to do with your [[Self Concept]].
 
-[[Psychedelics: The scientific renaissance of mind-altering drugs]]
+[[Psychedelics - The scientific renaissance of mind-altering drugs]]

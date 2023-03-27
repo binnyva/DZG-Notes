@@ -10,7 +10,7 @@ Developed by Eric Berne in the 1950s.
 
 TA is a theory of personality and a systematic psychotherapy for personal growth and change. It provides a theory of communication, how people communicate and why communications break down. It offers a theory of child development - how decisions made in childhood may continue to influence behavior later in life despite painful consequences. Who you were at 7 years old still controls you. Micro/Macro wounds at that stage still influences us.
 
-The Goal of TA is **Autonomy - or Freedom from the [[TA: Life Script|life script]]**. This involves...
+The Goal of TA is **Autonomy - or Freedom from the [[TA - Life Script|life script]]**. This involves...
 
 ### Awareness
 
@@ -20,11 +20,11 @@ The Goal of TA is **Autonomy - or Freedom from the [[TA: Life Script|life script
 
 ### Spontaneity
 
-The ability to freely choose between any of the 3 [[TA: Ego States|ego states]] as appropriate to the situation
+The ability to freely choose between any of the 3 [[TA - Ego States|ego states]] as appropriate to the situation
 
 ### Intimacy
 
-The ability to [[TA: Time Structuring|authentically]] communicate feels with mutual OK-ness
+The ability to [[TA - Time Structuring|authentically]] communicate feels with mutual OK-ness
 
-Source: [[Empowering Self : Transactional Analysis 101]]
+Source: [[Empowering Self - Transactional Analysis 101]]
 

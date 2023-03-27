@@ -1,10 +1,9 @@
 ---
-title: "TA: Injunctions"
 tags: ["transactional-analysis","permanent-notes"]
 date: 2021-02-06 20:11:15
 ---
 
-In [[Transactional Analysis]], Injunctions are negative restrictive messages given from child ego state of the parent and received by Child ego state of the child. This plays a role in creating the [[TA: Life Script|Life Script]].
+In [[Transactional Analysis]], Injunctions are negative restrictive messages given from child ego state of the parent and received by Child ego state of the child. This plays a role in creating the [[TA - Life Script|Life Script]].
 
 - **Don't belong** : When you join a group you feel you are an outsider
 - **Don't be a child** : Can't relate to a child. Having fun can be seen as wrong.

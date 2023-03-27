@@ -1,10 +1,9 @@
 ---
-title: "TA: Stroke Economy"
 tags: ["transactional-analysis","stroke","permanent-notes","therapy"]
 date: 2021-02-06 19:53:21
 ---
 
-In [[Transactional Analysis]], there is some rules regarding [[TA: Stroke|Stroke]] - Rules for being miserable
+In [[Transactional Analysis]], there is some rules regarding [[TA - Stroke|Stroke]] - Rules for being miserable
 
 1. Don't give strokes when you have them to give
 	- "What if they reject it", "what if they get used to it"

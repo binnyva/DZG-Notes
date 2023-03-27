@@ -1,5 +1,4 @@
 ---
-title: "TA: Time Structuring"
 tags: ["time","transactional-analysis","permanent-notes"]
 date: 2021-02-06 20:16:27
 ---
@@ -13,4 +12,4 @@ In [[Transactional Analysis]], spending time with other people falls in one of t
 5. Game : Ulterior transactions with switch and payoff
 6. Intimacy : Authentic feelings expressed with mutual OKness
 
-High risk and high intensity [[TA: Stroke|strokes]] at 6, low risk and strokes at 1
+High risk and high intensity [[TA - Stroke|strokes]] at 6, low risk and strokes at 1
