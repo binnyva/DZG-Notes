@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dopamine's Function - Creating the Want.md",
+                "file": "Transactional Analysis.md",
                 "mode": "source",
                 "source": true
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dopamine's Function - Creating the Want.md",
+                "file": "Transactional Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +119,7 @@
   },
   "active": "5cc3671b3781fa93",
   "lastOpenFiles": [
+    "Dopamine's Function - Creating the Want.md",
     "TA - Time Structuring.md",
     "TA - Injunctions.md",
     "TA - Stroke Economy.md",
@@ -143,7 +144,6 @@
     "Encode framework.md",
     "Social Media Outrage is driven by Base Rate Fallacy.md",
     "Productive Thinking Model.md",
-    "Theory of Mind.md",
-    "Narrative Fallacy.md"
+    "Theory of Mind.md"
   ]
 }
