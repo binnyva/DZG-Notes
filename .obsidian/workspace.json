@@ -18,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "79569fd179232bb3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Psychoactive, Psychotropic, Psychedelic.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Transactional Analysis.md",
+                "file": "Psychoactive, Psychotropic, Psychedelic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,8 +130,12 @@
       "random-note:Open random note": false
     }
   },
-  "active": "5cc3671b3781fa93",
+  "active": "79569fd179232bb3",
   "lastOpenFiles": [
+    "Luck Surface Area.md",
+    "Insights with Psychedelic or Mystical Experiences.md",
+    "Psychoactive, Psychotropic, Psychedelic.md",
+    "Transactional Analysis.md",
     "Dopamine's Function - Creating the Want.md",
     "TA - Time Structuring.md",
     "TA - Injunctions.md",
@@ -140,10 +157,6 @@
     "Litrature/How to take smart notes - Talk by Sonke Ahrens.md",
     "Litrature/Empowering Self - Transactional Analysis 101.md",
     "Litrature/Eigenquestions - Art of Framing Problems.md",
-    "First Principles.md",
-    "Encode framework.md",
-    "Social Media Outrage is driven by Base Rate Fallacy.md",
-    "Productive Thinking Model.md",
-    "Theory of Mind.md"
+    "First Principles.md"
   ]
 }
