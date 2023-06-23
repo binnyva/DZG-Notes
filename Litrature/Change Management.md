@@ -72,7 +72,7 @@ Only 38% of people like to leave their comfort zone. 62% will resist the change.
 - Don’t give up – Be persistent while the process of change management is going on, no matter how tough things may seem.
 - Incorporate change – Reinforce and make it a part of the workplace culture.
 
-### ADKAR Model
+### [[ADKAR Framework]]
 
 - Awareness – of the need and requirement for change
 - Desire – to bring about change and be a participant in it

@@ -20,19 +20,43 @@
             }
           },
           {
-            "id": "79569fd179232bb3",
+            "id": "779c093d232e2ad0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psychoactive, Psychotropic, Psychedelic.md",
+                "file": "ADKAR Framework.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "0fed89a6dacbe17c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cone of Uncertainty.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "0637f776a6687eb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Deming Cycle.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psychoactive, Psychotropic, Psychedelic.md",
+                "file": "Cone of Uncertainty.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,12 +154,21 @@
       "random-note:Open random note": false
     }
   },
-  "active": "79569fd179232bb3",
+  "active": "0fed89a6dacbe17c",
   "lastOpenFiles": [
+    "Scrum.md",
+    "Cynefin framework.md",
+    "PDCA.png",
+    "ADKAR Framework.md",
+    "Deming Cycle.md",
+    "Excalidraw/Visual Language - Person.md",
+    "Cone of Uncertainty.md",
+    "Transactional Analysis.md",
+    "Psychoactive, Psychotropic, Psychedelic.md",
+    "Cone of Uncertainty.gif",
+    "Litrature/Change Management.md",
     "Luck Surface Area.md",
     "Insights with Psychedelic or Mystical Experiences.md",
-    "Psychoactive, Psychotropic, Psychedelic.md",
-    "Transactional Analysis.md",
     "Dopamine's Function - Creating the Want.md",
     "TA - Time Structuring.md",
     "TA - Injunctions.md",
@@ -149,14 +182,6 @@
     "TA - Life Script.md",
     "TA - Life Positions.md",
     "Litrature/Psychedelics - The scientific renaissance of mind-altering drugs.md",
-    "Litrature/How I read books - a guide on how to learn.md",
-    "Litrature/Cal Newport - So Good They Can't Ignore You.md",
-    "Litrature/Adam Smith - Grandfather of Economics.md",
-    "Litrature/Equanimity Meditation - Last of the Brahmaviharas.md",
-    "Litrature/Existentialism - main features.md",
-    "Litrature/How to take smart notes - Talk by Sonke Ahrens.md",
-    "Litrature/Empowering Self - Transactional Analysis 101.md",
-    "Litrature/Eigenquestions - Art of Framing Problems.md",
-    "First Principles.md"
+    "Litrature/How I read books - a guide on how to learn.md"
   ]
 }
