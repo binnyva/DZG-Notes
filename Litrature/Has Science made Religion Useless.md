@@ -1,5 +1,5 @@
 ---
-title: "Has Science made Religion Useless?"
+title: "Has Science made Religion Useless"
 tags: ["literature-notes","philosophy","religion","science"]
 date: 2020-11-28 18:10:54
 ---
@@ -15,4 +15,3 @@ Religious thinking is embedded in our cognitive process - its a mode of knowing.
 Religions are a good mechanism for reducing stress - in explaining things we don't know yet.
 
 We always had morality systems. In large society we enforced it using religions. Because all people can't be watched all the time, we created a concept of god that will do the watching.
-

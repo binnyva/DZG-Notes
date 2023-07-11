@@ -9,5 +9,3 @@ Temporary reduction in the capacity or willingness to engage in action(controlli
 Self-control or willpower draws upon a limited pool of mental resources that can be used up.
 
 Research affected by the [[Replication Crisis]]. Not sure if this concept can be believed anymore. A better way of thinking might be willpower as a muscle - it can be [[Willpower Rules|strengthened by training]].
-
-[[How to Take Smart Notes]]

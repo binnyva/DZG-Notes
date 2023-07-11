@@ -20,30 +20,6 @@
             }
           },
           {
-            "id": "779c093d232e2ad0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ADKAR Framework.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "0fed89a6dacbe17c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cone of Uncertainty.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "0637f776a6687eb0",
             "type": "leaf",
             "state": {
@@ -55,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,6 +68,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "b4b968237232dcac",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -114,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cone of Uncertainty.md",
+                "file": "Transactional Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,8 +123,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,15 +136,20 @@
       "random-note:Open random note": false
     }
   },
-  "active": "0fed89a6dacbe17c",
+  "active": "5cc3671b3781fa93",
   "lastOpenFiles": [
+    "Ego Depletion.md",
+    "Litrature/How to Take Smart Notes.md",
+    "Cone of Uncertainty.md",
+    "Faith Programming in Brain.md",
+    "Religion, a mode of knowing.md",
+    "ADKAR Framework.md",
+    "Litrature/Has Science made Religion Useless.md",
     "Scrum.md",
     "Cynefin framework.md",
     "PDCA.png",
-    "ADKAR Framework.md",
     "Deming Cycle.md",
     "Excalidraw/Visual Language - Person.md",
-    "Cone of Uncertainty.md",
     "Transactional Analysis.md",
     "Psychoactive, Psychotropic, Psychedelic.md",
     "Cone of Uncertainty.gif",
@@ -178,10 +165,6 @@
     "TA - Adult State.md",
     "TA - Ego States.md",
     "TA - Drivers.md",
-    "TA - Stroke.md",
-    "TA - Life Script.md",
-    "TA - Life Positions.md",
-    "Litrature/Psychedelics - The scientific renaissance of mind-altering drugs.md",
-    "Litrature/How I read books - a guide on how to learn.md"
+    "TA - Stroke.md"
   ]
 }
