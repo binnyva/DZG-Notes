@@ -97,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Transactional Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,8 +135,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "5cc3671b3781fa93",
+  "active": "e4ca3339add5725c",
   "lastOpenFiles": [
+    "Transactional Analysis.md",
+    "Test.md",
     "Ego Depletion.md",
     "Litrature/How to Take Smart Notes.md",
     "Cone of Uncertainty.md",
@@ -150,7 +151,6 @@
     "PDCA.png",
     "Deming Cycle.md",
     "Excalidraw/Visual Language - Person.md",
-    "Transactional Analysis.md",
     "Psychoactive, Psychotropic, Psychedelic.md",
     "Cone of Uncertainty.gif",
     "Litrature/Change Management.md",
@@ -164,7 +164,6 @@
     "TA - Parent State.md",
     "TA - Adult State.md",
     "TA - Ego States.md",
-    "TA - Drivers.md",
-    "TA - Stroke.md"
+    "TA - Drivers.md"
   ]
 }
