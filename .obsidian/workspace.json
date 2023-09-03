@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deming Cycle.md",
+                "file": "Belief Systems.md",
                 "mode": "source",
                 "source": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Transactional Analysis.md",
+                "file": "Belief Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,8 +138,9 @@
       "random-note:Open random note": false
     }
   },
-  "active": "cb22ee00c1f00698",
+  "active": "0637f776a6687eb0",
   "lastOpenFiles": [
+    "Deming Cycle.md",
     "Transactional Analysis.md",
     "Test.md",
     "Ego Depletion.md",
@@ -152,7 +153,6 @@
     "Scrum.md",
     "Cynefin framework.md",
     "PDCA.png",
-    "Deming Cycle.md",
     "Excalidraw/Visual Language - Person.md",
     "Psychoactive, Psychotropic, Psychedelic.md",
     "Cone of Uncertainty.gif",
