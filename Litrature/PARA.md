@@ -18,3 +18,4 @@ More information...
 
 - [BASB12](https://miro.com/app/board/o9J_lEwGSa8=/)
 - [Building a Second Brain: The Illustrated Notes](https://maggieappleton.com/basb)
+- [The PARA Method: The Simple System for Organizing Your Digital Life](https://fortelabs.com/blog/para/)

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Belief Systems.md",
+                "file": "Litrature/PARA.md",
                 "mode": "source",
                 "source": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Belief Systems.md",
+                "file": "Litrature/PARA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,6 +140,7 @@
   },
   "active": "0637f776a6687eb0",
   "lastOpenFiles": [
+    "Belief Systems.md",
     "Deming Cycle.md",
     "Transactional Analysis.md",
     "Test.md",
@@ -166,7 +167,6 @@
     "TA - Child State.md",
     "TA - Parent State.md",
     "TA - Adult State.md",
-    "TA - Ego States.md",
-    "TA - Drivers.md"
+    "TA - Ego States.md"
   ]
 }
