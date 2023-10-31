@@ -2,7 +2,7 @@
 title: "Cynefin framework"
 tags: ["permanent-notes", "mental-models","framework","decision-making", "sense-making" ]
 date: 2021-07-02 01:19:00
-source: https://untools.co/cynefin-framework
+source: "https://untools.co/cynefin-framework"
 ---
 
 This framework attempts to categorize situations into 4 areas so that we can decide which response to use for each area. You can understand which area the situation will fall into using these questions...

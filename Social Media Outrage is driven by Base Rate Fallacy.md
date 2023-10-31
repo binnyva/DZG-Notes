@@ -1,4 +1,5 @@
 ---
+tags: ["social-media","society","emotion"]
 source: "https://philosophybear.substack.com/p/social-media-outrage-is-in-general"
 ---
 

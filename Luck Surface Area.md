@@ -1,6 +1,6 @@
 ---
 title: "Luck Surface Area"
-tags: ["permanent-notes"]
+tags: ["permanent-notes", "communication", "network" ]
 date: 2023-04-19 16:42:00
 source: "https://mmpractices.com/mental_models/luck-surface-area/"
 ---

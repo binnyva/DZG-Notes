@@ -5,7 +5,7 @@ date: 2021-12-02 20:59:00
 source: "https://mindos.in/posts/06-belief-systems/"
 ---
 
-Belief systems refers to any belief or group of beliefs under one name. Eg. Christanity or Capitalism.
+Belief systems refers to any belief or group of beliefs under one name. Eg. Christianity or Capitalism.
 
 For anyone who has accepted a Belief System, its their **[[Mental Models|Mental Model]] of how the world is and how it works. They have created these belief systems to better interface with the world.** These beliefs can be(but not limited to)…
 

@@ -1,5 +1,6 @@
 ---
 source: "Thinking Fast and Slow, Book"
+tags: [ "statistics" ]
 ---
 
 This is a phenomena in statistics. If one sample collected is at an extreme, the next sample will generally be moderate. 

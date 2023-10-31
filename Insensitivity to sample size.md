@@ -1,5 +1,6 @@
 ---
-source: https://mindos.in/thinking-flaws/insensitivity-to-sample-size
+source: "https://mindos.in/thinking-flaws/insensitivity-to-sample-size"
+tags: ["cognitive-bias","statistics" ]
 ---
 
 People tend to ignore sample size of data. They forget that variation is more likely in smaller sample sizes. Also known as Law of Small Numbers.
