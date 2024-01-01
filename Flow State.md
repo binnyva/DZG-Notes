@@ -15,4 +15,4 @@ The mental state in which a person performing some activity is fully immersed in
 
 You can get into flow state using the [[Flow Theory]]
 
-[[Flow BY Mihaly Csikszentmihalyi]]
+[[Flow By Mihaly Csikszentmihalyi]]

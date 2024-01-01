@@ -11,6 +11,6 @@ Eg. I'll watch random Youtube videos because I am feeling bored. Or I'll binge o
 
 A way to reduce the power of this trigger is to "sit with the negative feeling". Observe how the feeling is affecting you. Feel it fully. [[Surf the urge]]. Observe how you are when you give in to the negative behavior - and Observe when you don't give in. Which is the person you would rather be? 
 
-You can also flip this - get yourself to do something you don't like(a positive behavior that don't appeal to you much) by trying to be curious about the discomfort it brings you. Do the behavior to observe the discomfort. Related - [[Seek Discomfort]]
+You can also flip this - get yourself to do something you don't like(a positive behavior that don't appeal to you much) by trying to be curious about the discomfort it brings you. Do the behavior to observe the discomfort. Related - [[Discomfort Drives Growth]]
 
 An example of this in action is [[Procrastination Behavior]].

@@ -9,7 +9,7 @@ Methods to build rapport
 - Ask and use their name
 - Actively listen
 - Ask questions
-- Show [[empathy]]
+- Show [[Two Types of Empathy]]
 - Find common ground
 - Follow the lead
 - Be genuine

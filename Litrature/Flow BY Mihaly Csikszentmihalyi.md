@@ -1,10 +1,9 @@
 ---
-title: "Book : Flow BY MIHALY CSIKSZENTMIHALYI"
+title: "Flow By Mihaly Csikszentmihalyi"
 tags: ["book","flow","literature-notes","psychology"]
 date: 2020-11-28 18:10:55
+source: "https://www.youtube.com/watch?v=8h6IMYRoCZw"
 ---
-
-[Source](https://www.youtube.com/watch?v=8h6IMYRoCZw)
 
 A person can make themselves happy or miserable regardless of what is actually happening outside - just by changing the contents of consciousness.
 

@@ -14,7 +14,7 @@ We have to find a balance - more guided at the start, and move towards unguided 
 
 The tutorial fade Technique: Build once with the tutorial, then try to build it again without the tutorial.
 
-Have a [[Growth Mindset]] when learning - there will be [[Seek Discomfort|discomfort]] - but that struggle will teach you. Think of it as a workout.
+Have a [[Growth Mindset]] when learning - there will be [[Discomfort Drives Growth|discomfort]] - but that struggle will teach you. Think of it as a workout.
 
 Have a goal in mind - a project to build. Rather than just learning for the sake of learning.
 

@@ -1,5 +1,5 @@
 ---
-title: "Fear stops us from trying"
+title: "Define Dreams and Fears"
 tags: ["permanent-notes", "growth","fear","uncertainty","framework"    ]
 date: 2021-08-18 01:55:00
 source: "[[Four Hour Work Week]]"

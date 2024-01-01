@@ -1,5 +1,5 @@
 ---
-title: "Feedback Loops"
+title: "Feedback Loops in Noisy Environments"
 tags: ["permanent-notes", "feedback", "systems-thinking", "process" ]
 date: 2021-06-13 02:28:00
 source: "https://brianlui.dog/2020/05/10/beware-of-tight-feedback-loops/"

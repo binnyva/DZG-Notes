@@ -2,11 +2,8 @@
 title: "Promise modal of Mindfulness Meditation"
 tags: ["equanimity","literature-notes","meditation","mindfullness","paper","psychology"]
 date: 2020-12-08 17:11:20
+source: "https://www.frontiersin.org/articles/10.3389/fpsyg.2019.02389/full"
 ---
-
-# Promise: A Model of insight and Equanimity as the Key effects of Mindfulness Meditation
-
-[Source](https://www.frontiersin.org/articles/10.3389/fpsyg.2019.02389/full)
 
 After integrating the information from the three sources (interviews, Western concepts, Buddhist scriptures), we created a model on the process and mechanisms that lead to the positive effects of mindfulness meditation. 
 
