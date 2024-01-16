@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thinking Fast and Slow.md",
+                "file": "Me-We-Us.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "f69eb5f9ea223b9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stakeholder Map.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e4696f68be3e9695",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Option Selection Strategies.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,9 +110,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thinking Fast and Slow.md",
+                "file": "Option Selection Strategies.md",
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -119,7 +144,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -137,8 +163,16 @@
       "random-note:Open random note": false
     }
   },
-  "active": "e4ca3339add5725c",
+  "active": "e4696f68be3e9695",
   "lastOpenFiles": [
+    "Levels of Listening.md",
+    "Stakeholder Map.md",
+    "Me-We-Us.md",
+    "Diverge-Converge Model.md",
+    "GRASS Model for Facilitation.md",
+    "Option Selection Strategies.md",
+    "Diverge-Converge.png",
+    "Thinking Fast and Slow.md",
     "Literature/Thinking Fast and Slow, Blinkist.md",
     "Discomfort Drives Growth.md",
     "Literature/Dopamine Fast.md",
@@ -160,13 +194,6 @@
     "Ego Depletion.md",
     "Stages of Awareness in Marketing.md",
     "Stages-of-awareness.png.webp",
-    "Insensitivity to sample size.md",
-    "What is a Goal.md",
-    "ADKAR Framework.md",
-    "Factors of Production.md",
-    "Insights with Psychedelic or Mystical Experiences.md",
-    "What Boredom Says.md",
-    "Zettelkasten.md",
     "PDCA.png",
     "Cone of Uncertainty.gif"
   ]
