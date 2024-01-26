@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Disconfirmation Bias.md",
+                "file": "De-Risking.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Disconfirmation Bias.md",
+                "file": "De-Risking.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -141,19 +141,19 @@
   "active": "b2ac68eca20b8127",
   "lastOpenFiles": [
     "Needs List.md",
-    "Templates/New.md",
-    "Storytelling 101.md",
     "Flow State.md",
+    "Storytelling 101.md",
+    "Luck Surface Area.md",
+    "Externality.md",
+    "Commons.md",
+    "Technology Adoption Curve.md",
+    "Disconfirmation Bias.md",
+    "Templates/New.md",
     "Option Selection Strategies.md",
     "Levels of Listening.md",
     "Inverting a Problem.md",
     "De-Risking.md",
     "Reframing a Problem.md",
-    "Disconfirmation Bias.md",
-    "Externality.md",
-    "Commons.md",
-    "Luck Surface Area.md",
-    "Technology Adoption Curve.md",
     "Goodhart's Law.md",
     "Me-We-Us.md",
     "Stakeholder Map.md",

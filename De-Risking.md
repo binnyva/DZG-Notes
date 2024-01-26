@@ -2,8 +2,8 @@
 title: De-Risking
 tags:
   - permanent-notes
-  - #strategy 
-  - #risk 
+  - strategy 
+  - risk 
 date: 2024-01-24 12:06:00
 source: "Book: Super Thinking"
 ---
