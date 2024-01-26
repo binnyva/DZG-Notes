@@ -1,5 +1,4 @@
 ---
-title: Need List
 tags:
   - permanent-notes
   - emotion 
