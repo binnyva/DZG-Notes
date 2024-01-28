@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "De-Risking.md",
+                "file": "Technology Adoption Curve.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e8e80389b634968e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Know Thyself.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "De-Risking.md",
+                "file": "Know Thyself.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -138,21 +151,24 @@
       "random-note:Open random note": false
     }
   },
-  "active": "b2ac68eca20b8127",
+  "active": "e8e80389b634968e",
   "lastOpenFiles": [
+    "Self Concept.md",
+    "Technology Adoption Curve.md",
+    "Know Thyself.md",
+    "Social identity theory.md",
+    "Commons.md",
+    "De-Risking.md",
     "Needs List.md",
     "Flow State.md",
     "Storytelling 101.md",
     "Luck Surface Area.md",
     "Externality.md",
-    "Commons.md",
-    "Technology Adoption Curve.md",
     "Disconfirmation Bias.md",
     "Templates/New.md",
     "Option Selection Strategies.md",
     "Levels of Listening.md",
     "Inverting a Problem.md",
-    "De-Risking.md",
     "Reframing a Problem.md",
     "Goodhart's Law.md",
     "Me-We-Us.md",
@@ -163,10 +179,7 @@
     "Pleasant Feelings.md",
     "Unpleasant Feelings.md",
     "Diverge-Converge Model.md",
-    "GRASS Model for Facilitation.md",
     "Diverge-Converge.png",
-    "Thinking Fast and Slow.md",
-    "Literature/Thinking Fast and Slow, Blinkist.md",
     "maslow-hierachy-of-needs-min.webp",
     "Stages-of-awareness.png.webp",
     "PDCA.png",
