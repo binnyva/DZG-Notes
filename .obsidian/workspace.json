@@ -6,6 +6,7 @@
       {
         "id": "535848ad00f64ab6",
         "type": "tabs",
+        "dimension": 36.757719714964374,
         "children": [
           {
             "id": "b2ac68eca20b8127",
@@ -20,7 +21,51 @@
             }
           },
           {
+            "id": "0714dec6952ecc1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rough Notes.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "2459c0d6cf4509e4",
+        "type": "tabs",
+        "dimension": 63.24228028503563,
+        "children": [
+          {
             "id": "e8e80389b634968e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Self Concept.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a42bbfc0ce112105",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Social identity theory.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "5694a452fdef4821",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,9 +75,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "52c37b644df2697d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -82,7 +139,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "62ca0af3419706a4",
@@ -98,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Know Thyself.md",
+                "file": "Rough Notes.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -148,15 +206,18 @@
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "random-note:Open random note": false
+      "random-note:Open random note": false,
+      "obsidian42-brat:BRAT": false
     }
   },
-  "active": "e8e80389b634968e",
+  "active": "0714dec6952ecc1c",
   "lastOpenFiles": [
+    "Know Thyself.md",
+    "Untitled.md",
+    "Social identity theory.md",
+    "Rough Notes.md",
     "Self Concept.md",
     "Technology Adoption Curve.md",
-    "Know Thyself.md",
-    "Social identity theory.md",
     "Commons.md",
     "De-Risking.md",
     "Needs List.md",
@@ -177,8 +238,6 @@
     "6 Principles of Persuasion.md",
     "Influence Model.md",
     "Pleasant Feelings.md",
-    "Unpleasant Feelings.md",
-    "Diverge-Converge Model.md",
     "Diverge-Converge.png",
     "maslow-hierachy-of-needs-min.webp",
     "Stages-of-awareness.png.webp",
