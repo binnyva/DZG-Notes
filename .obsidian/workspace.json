@@ -4,54 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "535848ad00f64ab6",
-        "type": "tabs",
-        "dimension": 36.757719714964374,
-        "children": [
-          {
-            "id": "b2ac68eca20b8127",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Technology Adoption Curve.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "0714dec6952ecc1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rough Notes.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
         "id": "2459c0d6cf4509e4",
         "type": "tabs",
-        "dimension": 63.24228028503563,
         "children": [
-          {
-            "id": "e8e80389b634968e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Self Concept.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
           {
             "id": "a42bbfc0ce112105",
             "type": "leaf",
@@ -63,33 +18,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "5694a452fdef4821",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Know Thyself.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "52c37b644df2697d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -156,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rough Notes.md",
+                "file": "Social identity theory.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -210,13 +140,13 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "0714dec6952ecc1c",
+  "active": "a42bbfc0ce112105",
   "lastOpenFiles": [
+    "Self Concept.md",
+    "Rough Notes.md",
     "Know Thyself.md",
     "Untitled.md",
     "Social identity theory.md",
-    "Rough Notes.md",
-    "Self Concept.md",
     "Technology Adoption Curve.md",
     "Commons.md",
     "De-Risking.md",
