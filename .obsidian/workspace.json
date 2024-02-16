@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2459c0d6cf4509e4",
+        "id": "df72a6e4855bacd1",
         "type": "tabs",
         "children": [
           {
-            "id": "a42bbfc0ce112105",
+            "id": "68426582b3857dfc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Social identity theory.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Social identity theory.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -140,13 +135,13 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "a42bbfc0ce112105",
+  "active": "68426582b3857dfc",
   "lastOpenFiles": [
+    "Social identity theory.md",
     "Self Concept.md",
     "Rough Notes.md",
     "Know Thyself.md",
     "Untitled.md",
-    "Social identity theory.md",
     "Technology Adoption Curve.md",
     "Commons.md",
     "De-Risking.md",
