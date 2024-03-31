@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Forms of Procrastination.md",
+                "file": "Non-Self.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "470caba18e4940cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Social identity theory.md",
                 "mode": "source",
                 "source": true
               }
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Forms of Procrastination.md",
+                "file": "Non-Self.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -154,14 +166,17 @@
   },
   "active": "d36ad2987f6e939f",
   "lastOpenFiles": [
-    "SUDS - Subjective Units of Distress, Pain Scale.md",
-    "Forms of Procrastination.md",
-    "Suds.png",
-    "Social identity theory.md",
+    "Untitled.md",
+    "Non-Self.md",
     "Self Concept.md",
+    "Social identity theory.md",
+    "Plato.md",
+    "Literature/Virtual Conference Best Practices.md",
+    "Forms of Procrastination.md",
+    "SUDS - Subjective Units of Distress, Pain Scale.md",
+    "Suds.png",
     "Rough Notes.md",
     "Know Thyself.md",
-    "Untitled.md",
     "Technology Adoption Curve.md",
     "Commons.md",
     "De-Risking.md",
@@ -178,9 +193,6 @@
     "Reframing a Problem.md",
     "Goodhart's Law.md",
     "Me-We-Us.md",
-    "Stakeholder Map.md",
-    "Story Structure.md",
-    "6 Principles of Persuasion.md",
     "Diverge-Converge.png",
     "maslow-hierachy-of-needs-min.webp",
     "Stages-of-awareness.png.webp",

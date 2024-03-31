@@ -21,3 +21,12 @@ According to Carl Rogers, Self concept has 3 parts...
 - Ideal self(How I want to be)
 
 People can have a [[Social identity theory|social identity]] as well.
+
+Eastern Philosophy has a different view of self...
+
+- Budhism: [[Non-Self]]
+- Hinduism/Jainism:
+	- Self is the 'True self'/Observer/Witness
+	- Self is Brahma
+	- Self is experienced individually
+		- This experience might be different from Brahma because of Maya

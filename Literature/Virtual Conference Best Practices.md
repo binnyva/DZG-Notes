@@ -2,10 +2,9 @@
 title: "Virtual Conference Best Practices"
 tags: ["best-practice","conference","literature-notes","mad","virtual"]
 date: 2020-11-28 18:10:54
+source: "https://www.northstarmeetingsgroup.com/Planning-Tips-and-Trends/Event-Planning/Event-Technology/Navigating-New-World-Virtual-Digital-Conferences-in-COVID19-ACM"
 ---
 
-##  Best Practices for Planning Virtual Conferences
-[Source](https://www.northstarmeetingsgroup.com/Planning-Tips-and-Trends/Event-Planning/Event-Technology/Navigating-New-World-Virtual-Digital-Conferences-in-COVID19-ACM)
 
 ### Assign Different Media Requirements for Different Parts of the Conference
 For example, in plenary sessions -- where everyone comes together -- there is a clear separation between those on stage (one or just a few people) and those in the audience (possibly a very large group). Those on stage can be connected in a smaller, media-rich shared space that is then livecast to the larger audience -- or even publicly onto the web.
