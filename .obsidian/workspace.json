@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Non-Self.md",
+                "file": "Self Concept.md",
                 "mode": "source",
                 "source": true
               }
@@ -42,9 +42,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "8254f8eac8e21f9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Philosophy of Personal Identity.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Non-Self.md",
+                "file": "Philosophy of Personal Identity.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -164,11 +176,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "d36ad2987f6e939f",
+  "active": "8254f8eac8e21f9a",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Non-Self.md",
+    "Philosophy of Personal Identity.md",
     "Self Concept.md",
+    "Non-Self.md",
     "Social identity theory.md",
     "Plato.md",
     "Literature/Virtual Conference Best Practices.md",
