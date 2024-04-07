@@ -54,9 +54,33 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "2284ce5cba07ec46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Literature/Non-Violent Communication.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "679b781fbcc15b86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Test.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -122,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philosophy of Personal Identity.md",
+                "file": "Test.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -176,8 +200,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "8254f8eac8e21f9a",
+  "active": "679b781fbcc15b86",
   "lastOpenFiles": [
+    "Literature/Non-Violent Communication.md",
+    "Test.md",
+    "Casual Communication Styles.md",
     "Philosophy of Personal Identity.md",
     "Self Concept.md",
     "Non-Self.md",
@@ -202,9 +229,6 @@
     "Option Selection Strategies.md",
     "Levels of Listening.md",
     "Inverting a Problem.md",
-    "Reframing a Problem.md",
-    "Goodhart's Law.md",
-    "Me-We-Us.md",
     "Diverge-Converge.png",
     "maslow-hierachy-of-needs-min.webp",
     "Stages-of-awareness.png.webp",
