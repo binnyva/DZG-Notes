@@ -3,6 +3,7 @@ tags:
   - permanent-notes
   - philosophy 
   - buddhism 
+  - self
 date: 2024-03-30 15:34:00
 source: "https://www.youtube.com/watch?v=uCldjIVqxAU"
 ---

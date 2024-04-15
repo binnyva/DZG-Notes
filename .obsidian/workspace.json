@@ -61,26 +61,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature/Non-Violent Communication.md",
+                "file": "Philosophy of Personal Identity.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "679b781fbcc15b86",
+            "id": "43248aaa7fd4ac9b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test.md",
+                "file": "Identity.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a9e1cc81c441b2d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personhood.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -146,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test.md",
+                "file": "Personhood.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -200,19 +212,22 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "679b781fbcc15b86",
+  "active": "a9e1cc81c441b2d3",
   "lastOpenFiles": [
-    "Literature/Non-Violent Communication.md",
-    "Test.md",
-    "Casual Communication Styles.md",
+    "Identity.md",
+    "Personhood.md",
     "Philosophy of Personal Identity.md",
     "Self Concept.md",
+    "SUDS - Subjective Units of Distress, Pain Scale.md",
     "Non-Self.md",
+    "Philosophy of Self in Eastern Traditions.md",
+    "Test.md",
+    "Literature/Non-Violent Communication.md",
+    "Casual Communication Styles.md",
     "Social identity theory.md",
     "Plato.md",
     "Literature/Virtual Conference Best Practices.md",
     "Forms of Procrastination.md",
-    "SUDS - Subjective Units of Distress, Pain Scale.md",
     "Suds.png",
     "Rough Notes.md",
     "Know Thyself.md",
@@ -226,9 +241,6 @@
     "Externality.md",
     "Disconfirmation Bias.md",
     "Templates/New.md",
-    "Option Selection Strategies.md",
-    "Levels of Listening.md",
-    "Inverting a Problem.md",
     "Diverge-Converge.png",
     "maslow-hierachy-of-needs-min.webp",
     "Stages-of-awareness.png.webp",
