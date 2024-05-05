@@ -7,7 +7,7 @@ visibility: hidden
 
 - Identity
 	- [[Social identity theory]]
-	- [[Self Concept]]
+	- [[Self-Concept]]
 
 ## Rough Notes
 

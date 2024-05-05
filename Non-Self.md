@@ -8,7 +8,7 @@ date: 2024-03-30 15:34:00
 source: "https://www.youtube.com/watch?v=uCldjIVqxAU"
 ---
 
-Buddhism has a different view of self when compared to the [[Self Concept|west]].
+Buddhism has a different view of self when compared to the [[Self-Concept|west]].
 
 Self has 5 parts..
 

@@ -8,91 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "73e1e0d106c20bb8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SUDS - Subjective Units of Distress, Pain Scale.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "d36ad2987f6e939f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Self Concept.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "470caba18e4940cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Social identity theory.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "8254f8eac8e21f9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Philosophy of Personal Identity.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "2284ce5cba07ec46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Philosophy of Personal Identity.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "43248aaa7fd4ac9b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Identity.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "a9e1cc81c441b2d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Know Thyself.md",
+                "file": "Plato.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -158,11 +85,11 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Know Thyself.md",
-                "collapseAll": false,
+                "file": "Plato.md",
+                "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -192,13 +119,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,32 +140,31 @@
   "active": "e4ca3339add5725c",
   "lastOpenFiles": [
     "Social identity theory.md",
+    "Self-Schema.md",
+    "Self-Esteem.md",
+    "Ideal Self.md",
+    "Self-Concept.md",
+    "Self-Image.md",
+    "Philosophy of Personal Identity.md",
+    "Personhood.md",
+    "Identity.md",
+    "TA - Drivers.md",
+    "TA.md",
+    "Know Thyself.md",
+    "Rough Notes.md",
     "SUDS - Subjective Units of Distress, Pain Scale.md",
     "Forms of Procrastination.md",
     "Plato.md",
     "Casual Communication Styles.md",
     "Philosophy of Self in Eastern Traditions.md",
-    "Philosophy of Personal Identity.md",
-    "Identity.md",
-    "Personhood.md",
-    "Self Concept.md",
     "Non-Self.md",
     "Test.md",
     "Literature/Non-Violent Communication.md",
     "Literature/Virtual Conference Best Practices.md",
     "Suds.png",
-    "Rough Notes.md",
-    "Know Thyself.md",
     "Technology Adoption Curve.md",
     "Commons.md",
     "De-Risking.md",
-    "Needs List.md",
-    "Flow State.md",
-    "Storytelling 101.md",
-    "Luck Surface Area.md",
-    "Externality.md",
-    "Disconfirmation Bias.md",
-    "Templates/New.md",
     "Diverge-Converge.png",
     "maslow-hierachy-of-needs-min.webp",
     "Stages-of-awareness.png.webp",
