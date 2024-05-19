@@ -13,6 +13,6 @@ Risk Management: How much should should be invested in an event proportional to 
 
 Risk Schmisk: The biggest risk is thinking you have winning strategy when you have a losing strategy.
 
-[[Self-Serving Bias]]: When we have good outcomes, we attribute it to good decisions. When we have bad outcomes, we attribute it to bad luck. Another form of [[Fundemental Attribution Error]].
+[[Self-Serving Bias]]: When we have good outcomes, we attribute it to good decisions. When we have bad outcomes, we attribute it to bad luck. Another form of [[Fundamental Attribution Error]].
 
 [[Motivated Reasoning]]: Only pay attention to confirming evidence([[Confirmation Bias]]). Actively work to discredit dis-confirming evidence. Similar to [[Scout Mindset vs Soldier Mindset|Soildier Mindset]]

@@ -1,8 +1,8 @@
 ---
 tags:
   - permanent-notes
-  - #self 
-  - #psychology 
+  - self 
+  - psychology 
 date: 2024-05-05 17:17:00
 ---
 
