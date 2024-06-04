@@ -15,4 +15,4 @@ Before it reaches our memory storage.
 
 This is especially true if the event had ideas that we didn't agree with - [[Motivated Reasoning]]/[[Confirmation Bias]]
 
-[[Neuro Linguistic Programming]] Communications Model
+This is a [[Neuro Linguistic Programming]] Communications Model.
