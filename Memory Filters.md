@@ -9,7 +9,7 @@ Before we store an event in our memory, it goes thru many filters. So the final 
 - Delete
 - Distort
 - Generalize 
-- Personalisations
+- Personalizations
 
 Before it reaches our memory storage.
 

@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Memory Filters.md",
+                "file": "Literature/Personal Knowledge Management.md",
                 "mode": "source",
                 "source": true
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "PKM",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -90,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Memory Filters.md",
+                "file": "Literature/Personal Knowledge Management.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -164,6 +165,7 @@
   },
   "active": "01d5463e61611bba",
   "lastOpenFiles": [
+    "Memory Filters.md",
     "Psycho-Analytic Theory.md",
     "Cognitive Distortions.md",
     "Personality Psychology.md",
@@ -189,7 +191,6 @@
     "Literature/Risk Schmisk - Annie Duke.md",
     "Literature/Super Thinking.md",
     "Literature/Hyper-focus.md",
-    "Literature/Mind-Wandering.md",
     "Suds.png",
     "Diverge-Converge.png",
     "maslow-hierachy-of-needs-min.webp",
