@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature/Personal Knowledge Management.md",
+                "file": "Addiction Assessment.md",
                 "mode": "source",
                 "source": true
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "PKM",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -90,8 +90,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature/Personal Knowledge Management.md",
+                "file": "Addiction Assessment.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -165,11 +164,13 @@
   },
   "active": "01d5463e61611bba",
   "lastOpenFiles": [
+    "Behavioral Psychology.md",
+    "Personality Psychology.md",
     "Memory Filters.md",
     "Psycho-Analytic Theory.md",
-    "Cognitive Distortions.md",
-    "Personality Psychology.md",
     "Trait Theory.md",
+    "Literature/Personal Knowledge Management.md",
+    "Cognitive Distortions.md",
     "Environment for Self-Growth.md",
     "Untitled.md",
     "Building Rapport.md",
@@ -189,8 +190,6 @@
     "Literature/Virtual Conference Best Practices.md",
     "Literature/Seeing Like a State.md",
     "Literature/Risk Schmisk - Annie Duke.md",
-    "Literature/Super Thinking.md",
-    "Literature/Hyper-focus.md",
     "Suds.png",
     "Diverge-Converge.png",
     "maslow-hierachy-of-needs-min.webp",
