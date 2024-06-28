@@ -6,9 +6,9 @@ tags:
 date: 2024-04-15 22:23:00
 ---
 
-Identity is the relationship that a thing bears only to itselft
+Identity is the relationship that a thing bears only to itself.
 
-If 2 things are the same, they have an identity relation
+If 2 things are the same, they have an identity relation.
 
 Indiscernibility of Identicals: If 2 things are the same, they must share all the same properties. 
 

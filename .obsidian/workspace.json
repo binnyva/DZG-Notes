@@ -37,14 +37,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Addiction Assessment.md",
+                "file": "Trait Theory.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a0ba9d760cf1f786",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RAG - Retrieval Augmented Generation.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e0d9503652853066",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tech Centers.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Addiction Assessment.md",
+                "file": "Tech Centers.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -162,34 +186,34 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "01d5463e61611bba",
+  "active": "e0d9503652853066",
   "lastOpenFiles": [
+    "Talent Stacking.md",
+    "Ugh Fields.md",
+    "GTD.md",
+    "Time Blocking.md",
+    "ADKAR Framework.md",
+    "Narrative Fallacy.md",
+    "RAG - Retrieval Augmented Generation.md",
+    "Chunking in RAG.md",
+    "Vector Database.md",
+    "Chunking.md",
+    "Excalidraw/Visual Language - Person.md",
+    "Excalidraw/Drawing 2024-06-24 22.58.48.excalidraw.md",
+    "Excalidraw/RAG Pipeline.excalidraw.md",
+    "Trait Theory.md",
+    "Identity.md",
+    "Default Mode Network On Drugs.md",
+    "Philosophy of Personal Identity.md",
+    "Commodification of Intrinsic Values.md",
+    "Addiction Assessment.md",
     "Behavioral Psychology.md",
     "Personality Psychology.md",
     "Memory Filters.md",
     "Psycho-Analytic Theory.md",
-    "Trait Theory.md",
     "Literature/Personal Knowledge Management.md",
     "Cognitive Distortions.md",
     "Environment for Self-Growth.md",
-    "Untitled.md",
-    "Building Rapport.md",
-    "Theory of Mind.md",
-    "Literature/Promise modal of Mindfulness Meditation.md",
-    "Default Mode Network On Drugs.md",
-    "Fixed Vs Growth Mindset.md",
-    "Know Thyself.md",
-    "Non-Self.md",
-    "Self-Esteem.md",
-    "Ideal Self.md",
-    "Self-Schema.md",
-    "Social identity theory.md",
-    "Philosophy of Personal Identity.md",
-    "Self-Image.md",
-    "Literature/Learning Skills.md",
-    "Literature/Virtual Conference Best Practices.md",
-    "Literature/Seeing Like a State.md",
-    "Literature/Risk Schmisk - Annie Duke.md",
     "Suds.png",
     "Diverge-Converge.png",
     "maslow-hierachy-of-needs-min.webp",
