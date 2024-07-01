@@ -1,6 +1,8 @@
 ---
 tags:
   - permanent-notes
+  - rag
+  - llm
 date: 2024-06-28 13:43:00
 ---
 

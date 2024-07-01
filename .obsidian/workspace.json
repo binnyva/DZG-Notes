@@ -49,26 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RAG - Retrieval Augmented Generation.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "e0d9503652853066",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tech Centers.md",
+                "file": "Identity.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -134,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tech Centers.md",
+                "file": "Identity.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -186,17 +174,18 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "e0d9503652853066",
+  "active": "a0ba9d760cf1f786",
   "lastOpenFiles": [
+    "Vector Database.md",
+    "Chunking in RAG.md",
+    "RAG - Retrieval Augmented Generation.md",
+    "Tech Centers.md",
     "Talent Stacking.md",
     "Ugh Fields.md",
     "GTD.md",
     "Time Blocking.md",
     "ADKAR Framework.md",
     "Narrative Fallacy.md",
-    "RAG - Retrieval Augmented Generation.md",
-    "Chunking in RAG.md",
-    "Vector Database.md",
     "Chunking.md",
     "Excalidraw/Visual Language - Person.md",
     "Excalidraw/Drawing 2024-06-24 22.58.48.excalidraw.md",
@@ -213,7 +202,6 @@
     "Psycho-Analytic Theory.md",
     "Literature/Personal Knowledge Management.md",
     "Cognitive Distortions.md",
-    "Environment for Self-Growth.md",
     "Suds.png",
     "Diverge-Converge.png",
     "maslow-hierachy-of-needs-min.webp",
