@@ -1,5 +1,6 @@
 ---
 tags: [ "permanent-notes","analysis","framework","metric" ]
+date: 2023-01-01 00:00:00
 ---
 
 - Descriptive: Hindsight/What is happening? "How many units did I sell?"

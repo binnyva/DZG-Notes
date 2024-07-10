@@ -1,6 +1,7 @@
 ---
 tags: ["permanent-notes", "motivation","purpose","mastery","psychology" ]
 source: "https://sketchplanations.com/autonomy-mastery-purpose"
+date: 2023-01-01 00:00:00
 ---
 
 What drives us/gives us motivation...

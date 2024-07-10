@@ -1,5 +1,6 @@
 ---
 tags: [ "permanent-notes","motivation","behavior","goal" ]
+date: 2023-01-01 00:00:00
 ---
 
 The closer to the goal we are, the more motivated we are to do it. 

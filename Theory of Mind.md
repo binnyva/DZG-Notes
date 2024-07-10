@@ -1,6 +1,7 @@
 ---
 source: "https://arxiv.org/ftp/arxiv/papers/2302/2302.02083.pdf"
 tags: ["meta-cognition","empathy"]
+date: 2023-01-01 00:00:00
 ---
 
 The ability to believe that others have an unobservable mental state. This is critical for social interactions, communication, empathy, morality, self-consciousness. We understand other people by ascribing mental states to them (that is, surmising what is happening in their mind).

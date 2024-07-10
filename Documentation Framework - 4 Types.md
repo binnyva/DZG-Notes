@@ -1,6 +1,6 @@
 ---
 tags: ["documentation", "permanent-notes", "framework"]
-title: "Documentation Framework - 4 Types"
+date: 2021-02-02 20:04:16
 ---
 
 There are 4 types of documentation

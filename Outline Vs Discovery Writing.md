@@ -1,6 +1,6 @@
 ---
-title: "Outline Vs Discovery Writing"
 source: "https://www.youtube.com/watch?v=-6HOdHEeosc"
+date: 2023-01-01 00:00:00
 ---
 
 ## Gardeners/Discovery writers

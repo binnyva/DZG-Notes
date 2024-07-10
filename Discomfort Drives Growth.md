@@ -2,6 +2,7 @@
 title: "Discomfort Drives Growth"
 source: "https://www.youtube.com/watch?v=LBvHI1awWaI"
 tags: [ "growth","psychology","permanent-notes" ]
+date: 2023-01-01 00:00:00
 ---
 
 Comfort can ruin you. Growth happens in discomfort.

@@ -1,8 +1,8 @@
 ---
-title: "Social identity theory"
 tags: [ "permanent-notes","identity","society","behavior" ]
 source: "https://en.wikipedia.org/wiki/Social_identity_theory"
 excerpt: "Social identity is the part of a person's self-concept that is made from their membership in a social group."
+date: 2023-01-01 00:00:00
 ---
 
 Social identity is the part of a person's [[Self-Concept]] that is made from their membership in a social group.

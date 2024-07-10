@@ -3,6 +3,7 @@ title: "Halo effect"
 tags: [ "cognitive-bias", "psychology","perception" ]
 source: "https://en.wikipedia.org/wiki/Halo_effect"
 excerpt: "Tendency to transfer the good impression of a person/ company/ brand/ etc in one context to things they recommend in another context."
+date: 2023-01-01 00:00:00
 ---
 
 Helo effect is a [[Cognitive Bias]]. People have a tendency to transfer the good impression of a person/ company/ brand/ etc in one context to things they recommend in another context. 

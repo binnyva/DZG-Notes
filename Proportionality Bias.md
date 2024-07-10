@@ -1,5 +1,6 @@
 ---
 tags: [ "bias","permanent-notes","psychology","probability" ]
+date: 2023-01-01 00:00:00
 ---
 
 We tend to believe that large events have large causes. This might be true in many instances, but not always.

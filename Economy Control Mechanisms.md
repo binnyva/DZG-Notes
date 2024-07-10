@@ -1,8 +1,9 @@
 ---
 tags: [ "permanent-notes","economics","society" ]
+date: 2023-01-01 00:00:00
 ---
 
-Type of Economy depends on 
+Type of Economy depends on... 
 
 - **Ownership of Capital** - Govt vs Private
 - **Central Coordination** - Deciding what to produce. Govt Coordination vs Private Sector.

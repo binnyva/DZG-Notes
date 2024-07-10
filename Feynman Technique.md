@@ -1,6 +1,7 @@
 ---
 title: "Feynman Technique"
 tags: ["permanent-notes", "learning"]
+date: 2023-01-01 00:00:00
 ---
 
 - Identify the subject. Write down everything you know about the topic.

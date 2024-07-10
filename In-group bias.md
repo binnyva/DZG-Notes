@@ -1,8 +1,8 @@
 ---
-title: "In-group bias"
 tags: ["cognitive-bias", "psychology","meta-cognition","society","behavior" ]
 source: "https://en.wikipedia.org/wiki/In-group_favoritism"
 excerpt: "Favoring people of your in-group over people outside."
+date: 2023-01-01 00:00:00
 ---
 
 Favouring people of your in-group over people outside.

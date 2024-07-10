@@ -2,6 +2,7 @@
 title: "Cognitive Behavioral Therapy Course"
 source: "https://www.udemy.com/course/cognitive-behavioural-therapy-online-course-cbt-practitioner-course/learn/lecture/14400758?start=0#overview"
 tags: [ "literature-notes","therapy","cbt","behavior","cognition","psychology"]
+date: 2023-01-01 00:00:00
 ---
 
 ### Founding Assumptions

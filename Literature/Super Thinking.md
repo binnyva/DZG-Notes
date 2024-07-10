@@ -1,9 +1,9 @@
 ---
 tags:
   - permanent-notes
-  - #book 
-  - #mental-models 
-  - #decision-making 
+  - book 
+  - mental-models 
+  - decision-making 
 date: 2024-05-19 20:55:00
 ---
 

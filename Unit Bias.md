@@ -3,6 +3,7 @@ title: "Unit bias"
 tags: [ "cognitive-bias", "psychology","meta-cognition","behavior", "productivity"  ]
 source: "https://lirio.com/blog/unit-bias-lirio-bias-brief/"
 excerpt: "We want to finish a unit of anything we are consuming - we don't want to stop in the middle."
+date: 2023-01-01 00:00:00
 ---
 
 We want to finish a unit of anything we are consuming - we don't want to stop in the middle.

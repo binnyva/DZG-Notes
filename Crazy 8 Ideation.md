@@ -1,5 +1,6 @@
 ---
 tags: ["creativity", "idea-generation","framework" ]
+date: 2023-01-01 00:00:00
 ---
 
 This is a process to quickly create design ideas. For best results, with a team so that even more ideas are generated. Process...
