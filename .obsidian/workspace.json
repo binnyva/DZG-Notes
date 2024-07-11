@@ -13,50 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Building Rapport.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "9af6e82fe4505ae8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Environment for Self-Growth.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "01d5463e61611bba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Trait Theory.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "a0ba9d760cf1f786",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Identity.md",
+                "file": "Memory Formation during Trauma.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Identity.md",
+                "file": "Memory Formation during Trauma.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -174,8 +137,14 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "a0ba9d760cf1f786",
+  "active": "aef3f3ca4c305ce3",
   "lastOpenFiles": [
+    "IFS - Internal Family Systems.md",
+    "Building Rapport.md",
+    "Literature/Super Thinking.md",
+    "Gamification - Octalysis Framework.md",
+    "Memory Formation during Trauma.md",
+    "Identity.md",
     "Vector Database.md",
     "Chunking in RAG.md",
     "RAG - Retrieval Augmented Generation.md",
@@ -191,17 +160,11 @@
     "Excalidraw/Drawing 2024-06-24 22.58.48.excalidraw.md",
     "Excalidraw/RAG Pipeline.excalidraw.md",
     "Trait Theory.md",
-    "Identity.md",
     "Default Mode Network On Drugs.md",
     "Philosophy of Personal Identity.md",
     "Commodification of Intrinsic Values.md",
     "Addiction Assessment.md",
     "Behavioral Psychology.md",
-    "Personality Psychology.md",
-    "Memory Filters.md",
-    "Psycho-Analytic Theory.md",
-    "Literature/Personal Knowledge Management.md",
-    "Cognitive Distortions.md",
     "Suds.png",
     "Diverge-Converge.png",
     "maslow-hierachy-of-needs-min.webp",
