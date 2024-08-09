@@ -1,0 +1,71 @@
+name: Build 11-garden and Deploy
+
+on:
+  push:
+    branches: [ main ] 
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout 11-garden repository
+      uses: actions/checkout@v3
+      with:
+        repository: binnyva/11-garden
+        path: 11-garden
+
+    - name: Edit siteConfig.js
+      run: |
+        echo "module.exports = {
+    title: 'Digital Zen Garden',
+    description: 'My Digital Garden, my Zettelkasten notes, a place that holds my thoughts...',
+    url: 'https://notes.binnyva.com/',
+    author: 'Binny V A',
+    pathPrefix: '/',
+
+    headerMenu: [
+      {type: 'page', item: '', title: 'Home'},
+      {
+        type: 'page', item: 'tags', title: 'Tags',
+        menu: [
+          {type: 'tag',item: 'zettelkasten'},
+          {type: 'tag',item: 'psychology'},
+          {type: 'tag',item: 'framework'},
+          {type: 'tag',item: 'productivity'},
+          {type: 'tag',item: 'philosophy'},
+        ]
+      },
+    ],
+};" > 11-garden/_data/siteConfig.js
+
+    - name: Checkout current repository
+      uses: actions/checkout@v3
+      with:
+        path: notes-repo
+
+    - name: Copy relevant files
+      run: |
+        find '11-garden/_notes/' -type f -not -name _notes.11tydata.js -delete 
+        cp -p notes-repo/Literature/* '11-garden/_notes'
+        cp -p notes-repo/* '11-garden/_notes'
+
+    - name: Setup Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '18'
+
+    - name: Install dependencies and build
+      working-directory: 11-garden
+      run: |
+        npm install
+        npm run build
+
+    - name: Deploy to remote server
+      uses: burnett01/rsync-deployments@5.2.1
+      with:
+        switches: -avzc --delete
+        path: 11-garden/_site/
+        remote_path: ${{ secrets.BINNYVA_COM_NOTES_PATH }}
+        remote_host: binnyva.com
+        remote_user: ${{ secrets.BINNYVA_COM_USER }}
+        remote_key: ${{ secrets.BINNYVA_COM_SSH_PRIVATE_KEY }}
