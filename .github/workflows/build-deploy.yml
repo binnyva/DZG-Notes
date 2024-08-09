@@ -2,7 +2,7 @@ name: Build 11-garden and Deploy
 
 on:
   push:
-    branches: [ main ] 
+    branches: [ main ]
 
 jobs:
   build-and-deploy:
@@ -17,26 +17,25 @@ jobs:
     - name: Edit siteConfig.js
       run: |
         echo "module.exports = {
-    title: 'Digital Zen Garden',
-    description: 'My Digital Garden, my Zettelkasten notes, a place that holds my thoughts...',
-    url: 'https://notes.binnyva.com/',
-    author: 'Binny V A',
-    pathPrefix: '/',
-
-    headerMenu: [
-      {type: 'page', item: '', title: 'Home'},
-      {
-        type: 'page', item: 'tags', title: 'Tags',
-        menu: [
-          {type: 'tag',item: 'zettelkasten'},
-          {type: 'tag',item: 'psychology'},
-          {type: 'tag',item: 'framework'},
-          {type: 'tag',item: 'productivity'},
-          {type: 'tag',item: 'philosophy'},
-        ]
-      },
-    ],
-};" > 11-garden/_data/siteConfig.js
+          title: 'Digital Zen Garden',
+          description: 'My Digital Garden, my Zettelkasten notes, a place that holds my thoughts...',
+          url: 'https://notes.binnyva.com/',
+          author: 'Binny V A',
+          pathPrefix: '/',
+          headerMenu: [
+            {type: 'page', item: '', title: 'Home'},
+            {
+              type: 'page', item: 'tags', title: 'Tags',
+              menu: [
+                {type: 'tag',item: 'zettelkasten'},
+                {type: 'tag',item: 'psychology'},
+                {type: 'tag',item: 'framework'},
+                {type: 'tag',item: 'productivity'},
+                {type: 'tag',item: 'philosophy'},
+              ]
+            },
+          ],
+        };" > 11-garden/_data/siteConfig.js
 
     - name: Checkout current repository
       uses: actions/checkout@v3
