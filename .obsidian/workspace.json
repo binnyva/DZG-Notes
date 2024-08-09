@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SMART Goals.md",
+                "file": "Initial Impressions.md",
                 "mode": "source",
                 "source": true
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "solution-design",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SMART Goals.md",
+                "file": "Initial Impressions.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -139,6 +139,18 @@
   },
   "active": "aef3f3ca4c305ce3",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Initial Impressions.md",
+    "Literature/Mission Statements and Vision Statements.md",
+    "Vision Statement.md",
+    "Mission Statement.md",
+    "Vision and Mission Statements using Solution Design Method.md",
+    "Literature/Useful, Not True.md",
+    "Literature/Seeing Like a State.md",
+    "Literature/Cognitive Behavioral Therapy Course.md",
+    "Map vs Territory.md",
+    "Scout Mindset vs Soldier Mindset.md",
+    "SMART Goals.md",
     "Fast-Goals.png",
     "Memory Formation during Trauma.md",
     "IFS - Internal Family Systems.md",
@@ -154,17 +166,6 @@
     "Ugh Fields.md",
     "GTD.md",
     "Time Blocking.md",
-    "ADKAR Framework.md",
-    "Narrative Fallacy.md",
-    "Chunking.md",
-    "Excalidraw/Visual Language - Person.md",
-    "Excalidraw/Drawing 2024-06-24 22.58.48.excalidraw.md",
-    "Excalidraw/RAG Pipeline.excalidraw.md",
-    "Trait Theory.md",
-    "Default Mode Network On Drugs.md",
-    "Philosophy of Personal Identity.md",
-    "Commodification of Intrinsic Values.md",
-    "Addiction Assessment.md",
     "Suds.png",
     "Diverge-Converge.png",
     "maslow-hierachy-of-needs-min.webp",
