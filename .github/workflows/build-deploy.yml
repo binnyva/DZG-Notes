@@ -42,11 +42,9 @@ jobs:
       with:
         path: notes-repo
 
-    - name: Copy relevant files
+    - name: Copy notes
       run: |
-        find '11-garden/_notes/' -type f -not -name _notes.11tydata.js -delete 
-        cp -p notes-repo/Literature/* '11-garden/_notes'
-        cp -p notes-repo/* '11-garden/_notes'
+        find '11-garden/_notes/' -type f -not -name _notes.11tydata.js -delete && cp -p notes-repo/Literature/* '11-garden/_notes' && cp -p notes-repo/* '11-garden/_notes'
 
     - name: Setup Node.js
       uses: actions/setup-node@v3
