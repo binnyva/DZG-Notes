@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "aef3f3ca4c305ce3",
+            "id": "c889ea8ae2571940",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +18,45 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "fe2de0e49848e9a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Drefyus Model of Skill Acquisition.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e13ad84d4bf3dadd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Creative Mindsets.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "184ba31540684bb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Map vs Territory.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Initial Impressions.md",
+                "file": "Creative Mindsets.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,7 +160,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -137,10 +175,16 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "aef3f3ca4c305ce3",
+  "active": "e13ad84d4bf3dadd",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Drefyus Model of Skill Acquisition.md",
+    "Creative Mindsets.md",
+    "Map vs Territory.md",
+    "Belief Systems.md",
+    "Theory of Mind.md",
     "Initial Impressions.md",
+    "Cross Domain Thinking.md",
+    "Excalidraw/RAG Pipeline.excalidraw.md",
     "Literature/Mission Statements and Vision Statements.md",
     "Vision Statement.md",
     "Mission Statement.md",
@@ -148,7 +192,6 @@
     "Literature/Useful, Not True.md",
     "Literature/Seeing Like a State.md",
     "Literature/Cognitive Behavioral Therapy Course.md",
-    "Map vs Territory.md",
     "Scout Mindset vs Soldier Mindset.md",
     "SMART Goals.md",
     "Fast-Goals.png",
@@ -161,11 +204,6 @@
     "Vector Database.md",
     "Chunking in RAG.md",
     "RAG - Retrieval Augmented Generation.md",
-    "Tech Centers.md",
-    "Talent Stacking.md",
-    "Ugh Fields.md",
-    "GTD.md",
-    "Time Blocking.md",
     "Suds.png",
     "Diverge-Converge.png",
     "maslow-hierachy-of-needs-min.webp",
