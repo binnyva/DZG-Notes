@@ -22,6 +22,7 @@ Other phrases that have been used to convey the same meaning are...
 -   Social Constructs
 -   Religion
 -  Shared Intentionality - Jonathan Haidt in Righteous Mind 
+- [[Map vs Territory|Maps]]
 
 ---
 

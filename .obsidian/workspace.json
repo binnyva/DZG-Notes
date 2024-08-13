@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Creative Mindsets.md",
+                "file": "Map vs Territory.md",
                 "mode": "source",
                 "source": true
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Creative Mindsets.md",
+                "file": "Map vs Territory.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -177,10 +177,10 @@
   },
   "active": "e13ad84d4bf3dadd",
   "lastOpenFiles": [
-    "Drefyus Model of Skill Acquisition.md",
-    "Creative Mindsets.md",
-    "Map vs Territory.md",
     "Belief Systems.md",
+    "Map vs Territory.md",
+    "Creative Mindsets.md",
+    "Drefyus Model of Skill Acquisition.md",
     "Theory of Mind.md",
     "Initial Impressions.md",
     "Cross Domain Thinking.md",
