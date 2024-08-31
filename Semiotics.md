@@ -12,7 +12,7 @@ Semiotics is the study of signs - or how words and images(signs) come to have me
 
 Components of Semiotics...
 
-- Sign/Signifiyer: The word/ image. Eg. Apple Logo
+- Sign/Signifier: The word/ image. Eg. Apple Logo
 - Denotation: The Literal Meaning. Eg. Logo of the Apple Company
 - Connotation: The Assigned Meaning. Expensive electronics, Well Designed, Over-priced, etc.
 

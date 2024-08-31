@@ -20,43 +20,55 @@
             }
           },
           {
-            "id": "fe2de0e49848e9a6",
+            "id": "f7d52763720f6e24",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Drefyus Model of Skill Acquisition.md",
+                "file": "Shared Intentions in Humans.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "e3b50f260cdb8429",
+            "id": "a9c092b701988381",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Commons.md",
+                "file": "Semiotics.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "184ba31540684bb0",
+            "id": "a723a45cd3157b53",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Map vs Territory.md",
+                "file": "Myth in Semiotics.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "9d74f75531691291",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Social Construction of Reality.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Commons.md",
+                "file": "Social Construction of Reality.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -175,17 +187,21 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "e3b50f260cdb8429",
+  "active": "9d74f75531691291",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Myth in Semiotics.md",
+    "Social Construction of Reality.md",
+    "Semiotics.md",
+    "Reward Sharing in Humans.md",
+    "Initial Impressions.md",
     "Commons.md",
-    "Curse of Knowledge.md",
     "Drefyus Model of Skill Acquisition.md",
+    "Shared Intentions in Humans.md",
+    "Curse of Knowledge.md",
     "Map vs Territory.md",
     "Belief Systems.md",
     "Creative Mindsets.md",
     "Theory of Mind.md",
-    "Initial Impressions.md",
     "Cross Domain Thinking.md",
     "Excalidraw/RAG Pipeline.excalidraw.md",
     "Literature/Mission Statements and Vision Statements.md",
@@ -200,10 +216,6 @@
     "Fast-Goals.png",
     "Memory Formation during Trauma.md",
     "IFS - Internal Family Systems.md",
-    "Building Rapport.md",
-    "Literature/Super Thinking.md",
-    "Gamification - Octalysis Framework.md",
-    "Identity.md",
     "Suds.png",
     "Diverge-Converge.png",
     "maslow-hierachy-of-needs-min.webp",
