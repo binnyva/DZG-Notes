@@ -1,5 +1,4 @@
 ---
-title: "Write better with Why, What and How Framework"
 tags: ["permanent-notes", "writing","documentation","framework" ]
 date: 2022-06-14 01:48:00
 ---

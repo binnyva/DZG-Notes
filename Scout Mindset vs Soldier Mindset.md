@@ -15,7 +15,7 @@ This mindset will be...
 - Open
 - Grounded: Self worth is not tied to something they believe to be true.
 
-Scout mindset encourages you to [[Map vs Territory|cover territory and update your maps]].
+Scout mindset encourages you to [[Map is not the Territory|cover territory and update your maps]].
 
 ### Benefits of Soldier mindset...
 

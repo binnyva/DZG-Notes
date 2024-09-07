@@ -4,7 +4,8 @@ tags: ["permanent-notes","willpower", "therapy", "psychology", "physiology", "se
 date: 2021-04-07 01:36:00
 ---
 
-Physiological things that help increase [[Willpower Rules|wilpower]]...
+Physiological things that help increase [[Willpower Rules|willpower]]...
+
 - Better Sleep
 - Meditation
 - Physical Exercise

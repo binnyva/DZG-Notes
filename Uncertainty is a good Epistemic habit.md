@@ -1,5 +1,4 @@
 ---
-title: "Good Epistemic Habits"
 tags: ["permanent-notes","knowledge","belief","epistemology","rationality" ]
 date: 2021-09-02 22:05:00
 source: "https://www.lesswrong.com/posts/Psr9tnQFuEXiuqGcR/how-to-write-quickly-while-maintaining-epistemic-rigor"

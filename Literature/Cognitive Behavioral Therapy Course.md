@@ -51,7 +51,7 @@ Situation -> Thoughts -> Emotions -> Behavior -> Outcome -> Thoughts -> ...
 	- Constructive
 	- Destructive
 
-[[Map vs Territory|Map is not the territory]]. Means - Perception is not reality
+[[Map is not the Territory|Map is not the territory]]. Means - Perception is not reality
 
 ### Mental Filter
 

@@ -1,5 +1,4 @@
 ---
-title: "Eudaimonia"
 tags: ["philosophy","definition","greek", "plant-note"]
 date: 2020-07-14 19:59:08
 ---
@@ -37,6 +36,7 @@ You do things for a purpose. There is a hierarchy of purpose. The ultimate purpo
 Eudaimonia is living in accordance to nature. It has 2 components...
 
 ### Apatheia
+
 Freedom of passions. Not Apathy. Closer to Equinimity.
 
 Stoicism had 4 passions...
@@ -60,9 +60,10 @@ Morally virtuous engagement with society and life in general in a way that benef
 
 ## [Why ‘Happiness’ is a useless word – and an alternative](https://www.youtube.com/watch?v=GocIobQ9MLs)
 
-Fulfillment would be the closest English word of Eudaimonia
+Fulfillment would be the closest English word to Eudaimonia
 
 # Other Philosophies
+
 - Nirvana
 - Tranquility
 - Equanimity

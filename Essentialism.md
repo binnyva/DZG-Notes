@@ -1,7 +1,8 @@
 ---
-title: Essentialism
 tags:
   - permanent-notes
+  - life-management 
+  - degrowth
 date: 2023-12-22 14:53:00
 source: "Book: Essentialism by Greg McKeown"
 ---

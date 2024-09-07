@@ -1,5 +1,4 @@
 ---
-title: "Zeigarnik Effect"
 tags: ["psychology","memory","permanent-notes"]
 date: 2021-01-05 15:32:06
 ---

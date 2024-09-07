@@ -1,5 +1,4 @@
 ---
-title: "Encode framework"
 tags: ["permanent-notes", "framework","zettelkasten","pkm","notes","learning" ]
 date: 2022-05-20 01:40:00
 source: "Linking your Thinking Conference"

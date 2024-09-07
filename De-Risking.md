@@ -1,5 +1,4 @@
 ---
-title: De-Risking
 tags:
   - permanent-notes
   - strategy 

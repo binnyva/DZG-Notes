@@ -11,9 +11,9 @@ These self-schemas are generally given to us in our childhood by our caregivers 
 
 According to Carl Rogers, Self concept has 3 parts...
 
-- [[Self-Image]](How I see myself)
-- [[Self-Esteem]](How valuable I think I am)
-- [[Ideal Self]](How I want to be)
+- [[Self-Image]]: How I see myself
+- [[Self-Esteem]]: How valuable I think I am
+- [[Ideal Self]]: How I want to be
 
 People can have a [[Social identity theory|social identity]] as well.
 

@@ -14,7 +14,7 @@ You can use this to...
 - Understand systems
 - Make Decisions
 
-These are the elements of the Map part of [[Map vs Territory]]
+These are the elements of the Map part of [[Map is not the Territory]]
 
 The phrase Mental model is generally used to lump 3 types of ideas...
 

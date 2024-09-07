@@ -5,7 +5,7 @@ date: 2021-08-06 00:21:00
 source: "https://www.youtube.com/watch?v=55sST2N8TJw"
 ---
 
-We have to embrace uncertainty. We have been taught that "I don't know" as a bad state of mind. But in most case it is an accurate model of the world. The more accurate our [[Map vs Territory|maps]] are, the better our decision making. 
+We have to embrace uncertainty. We have been taught that "I don't know" as a bad state of mind. But in most case it is an accurate model of the world. The more accurate our [[Map is not the Territory|maps]] are, the better our decision making. 
 
 Beliefs are bets on the future. 
 

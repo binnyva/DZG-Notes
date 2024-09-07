@@ -13,7 +13,7 @@ Decision making process and Mental Model
 
 Its a learning system - lets you operate in uncertainty. The idea is to get thru the process quickly and do it multiple times.
 
-When things change around us, we don't change our beliefs - this gives us outdated [[Map vs Territory|maps]]. OODA loop is a process that will update the map(especially the Observe and Orient parts).
+When things change around us, we don't change our beliefs - this gives us outdated [[Map is not the Territory|maps]]. OODA loop is a process that will update the map(especially the Observe and Orient parts).
 
 ### Observe
 

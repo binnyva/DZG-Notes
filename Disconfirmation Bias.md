@@ -1,5 +1,4 @@
 ---
-title: Disconfirmation Bias
 tags:
   - permanent-notes
   - bias 

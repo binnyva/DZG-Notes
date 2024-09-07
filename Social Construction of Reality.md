@@ -21,6 +21,8 @@ First step to create a social reality - we project our ideas and meanings onto t
 	- Material Culture - hardware we make
 	- Non-material Culture - Ideas, norms, values
 
+All the 'facts' about the world fall into these categories...
+
 - Nature
 	- Natural facts(mountains, lions)
 - Culture

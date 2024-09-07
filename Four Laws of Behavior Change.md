@@ -8,7 +8,7 @@ source: "Book: Atomic Habits"
 ### 1. Cue: [[Behaviour Change - Make Cues Obvious|Make it Obvious]]
 
 - Make the cue obvious. Change your environment to do this.
-- Have a implementation intention: "I will BEHAVIOUR at TIME in LOCATION".
+- Have a implementation intention: "I will BEHAVIOR at TIME in LOCATION".
 - Habit stacking. "After CURRENT HABIT, I will NEW HABIT"
 
 ### 2. Craving: [[Behaviour Change - Make the craving attractive|Make it Attractive]]
