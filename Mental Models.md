@@ -24,7 +24,7 @@ The phrase Mental model is generally used to lump 3 types of ideas...
 
 ## Problems with mental model
 
-Mental Models are the communicatable/codifiable parts of internal tacit knowledge. Just learning it might not be enough. You might need to building it from experience. [Source](https://commoncog.com/blog/the-mental-model-fallacy/)
+Mental Models are the communicatcble/codifiable parts of internal tacit knowledge. Just learning it might not be enough. You might need to building it from experience. [Source](https://commoncog.com/blog/the-mental-model-fallacy/)
 
 
 

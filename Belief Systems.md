@@ -7,11 +7,11 @@ source: "https://mindos.in/posts/06-belief-systems/"
 
 Belief systems refers to any belief or group of beliefs under one name. Eg. Christianity or Capitalism.
 
-For anyone who has accepted a Belief System, its their **[[Mental Models|Mental Model]] of how the world is and how it works. They have created these belief systems to better interface with the world.** These beliefs can be(but not limited to)…
+For anyone who has accepted a Belief System, its their **[[Mental Models|Mental Model]] of how the world is and how it works. They have created these belief systems to better interface with the world.** These beliefs can be(but not limited to)...
 
--   **Definitions**. Eg. The car I bought with my money is “My Car”.
+-   **Definitions**. Eg. The car I bought with my money is 'My Car'.
 -   An idea of **how things work**. Eg. If I push on the accelerator, the car will move faster.
--   **Values**. Eg. “My way of driving the car is the best way to drive.”
+-   **Values**. Eg. 'My way of driving the car is the best way to drive.'
 -   **Predictions about the future**. Eg. If everyone drove like me, we would be living in an utopia
 -   **Assigned Meaning**
 

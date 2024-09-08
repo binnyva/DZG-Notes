@@ -25,18 +25,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Parts of Language.md",
+                "file": "Belief Systems.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "2e3ab4a751880315",
+            "id": "8e50a31da5a3a1ca",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Readme.md",
+                "mode": "source",
+                "source": true
+              }
             }
           },
           {
@@ -130,6 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Readme.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -169,7 +174,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-04 15.36.43.excalidraw.md"
+                "file": "Readme.md"
               }
             }
           }
@@ -193,16 +198,20 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "e4ca3339add5725c",
+  "active": "8e50a31da5a3a1ca",
   "lastOpenFiles": [
+    "Belief Systems.md",
+    "Readme.md",
+    "Semiotics.md",
+    "Parts of Language.md",
+    "Mental Models.md",
+    "Semantics.md",
+    "Meta Language.md",
+    "Prescriptive and Descriptive Grammar.md",
+    "Social Construction of Reality.md",
     "General Semantics.md",
     "General Semantics Abstraction Model.png",
-    "Semantics.md",
-    "Prescriptive and Descriptive Grammar.md",
     "Map is not the Territory.md",
-    "Meta Language.md",
-    "Parts of Language.md",
-    "Social Construction of Reality.md",
     "Encode framework.md",
     "Enmeshment.md",
     "End of History Illusion.md",
@@ -216,12 +225,9 @@
     "Goodhart's Law.md",
     "Initial Impressions.md",
     "Shared Intentions in Humans.md",
-    "Semiotics.md",
     "Myth in Semiotics.md",
     "Influence Model.md",
     "Influence Model 4 Building Blocks.png",
-    "Keyfabe.md",
-    "System States.md",
     "emotion_sharability_relation.png",
     "Fast-Goals.png",
     "Suds.png",

@@ -14,5 +14,5 @@ Language has 3 parts...
 	- Words > Morphology
 	- Phrase/Clauses > Syntax
 - Meaning
-	- Semantics
-	- Pragmatics
+	- Semantics: Meaning in Language
+	- Pragmatics: Meaning in Social Context

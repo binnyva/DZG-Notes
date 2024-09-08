@@ -22,6 +22,7 @@ jobs:
           url: 'https://notes.binnyva.com/',
           author: 'Binny V A',
           pathPrefix: '/',
+          homeNote: 'Readme',
           headerMenu: [
             {type: 'page', item: '', title: 'Home'},
             {
