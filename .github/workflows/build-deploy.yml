@@ -18,7 +18,7 @@ jobs:
       run: |
         echo "module.exports = {
           title: 'Digital Zen Garden',
-          description: 'My Digital Garden, my Zettelkasten notes, a place that holds my thoughts...',
+          description: 'My Digital Garden, my Zettelkasten notes, a place to holds my thoughts...',
           url: 'https://notes.binnyva.com/',
           author: 'Binny V A',
           pathPrefix: '/',
@@ -37,6 +37,44 @@ jobs:
             },
           ],
         };" > 11-garden/_data/siteConfig.js
+
+    - name: Edit index.njk
+      run: |
+        echo '---
+        layout: base.njk
+        type: index
+        eleventyExcludeFromCollections: true
+        ---
+
+        <div class="column is-half">
+          <h3>Hi there!</h3>
+
+          {% if collections.homeNote.length == 1 %}
+            <div class="note-content">
+            {{ collections.homeNote[0].content | safe }}
+            </div>
+          {% endif %}
+
+          <hr >
+
+          <div class="block">
+            <div id="search"></div>
+            <script>
+              window.addEventListener("DOMContentLoaded", (event) => {
+                  new PagefindUI({ element: "#search", showSubResults: true, showImages: false });
+              });
+            </script>
+          </div>
+
+          <div class="block note-list note-cards">
+            {% for note in collections.latestFiveNotes %}
+              {% include "note-list-item.njk" %}
+            {% endfor %}
+
+            <a href="{{ "/sitemap/" | absoluteUrl }}">All Notes...</a>
+          </div>
+
+        </div>' > 11-garden/index.njk
 
     - name: Checkout current repository
       uses: actions/checkout@v3

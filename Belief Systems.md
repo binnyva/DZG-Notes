@@ -17,9 +17,11 @@ For anyone who has accepted a Belief System, its their **[[Mental Models|Mental 
 
 Other phrases that have been used to convey the same meaning are...
 
--   [[Personal Philosophy]]
--   Stories - [Yuval Noah Harari](https://www.nytimes.com/interactive/2021/11/08/magazine/yuval-noah-harari-interview.html) prefers this
--  [[Social Construction of Reality|Social Constructs]]
--   Religion
--  [[Shared Intentions in Humans]] - Jonathan Haidt in Righteous Mind 
+- [[Personal Philosophy]]
+- Stories - [Yuval Noah Harari](https://www.nytimes.com/interactive/2021/11/08/magazine/yuval-noah-harari-interview.html) prefers this
+- [[Social Construction of Reality|Social Constructs]]
+- Religion
+- [[Shared Intentions in Humans]] - Jonathan Haidt in Righteous Mind 
 - [[Map is not the Territory|Maps]]
+- [[Semantics]]
+- [[Myth in Semiotics]]
