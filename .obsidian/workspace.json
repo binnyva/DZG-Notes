@@ -8,67 +8,54 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c889ea8ae2571940",
+            "id": "162025844602ad94",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Social Construction of Reality.md",
+                "file": "Western Philosophy Timeline.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "1d6981fdff7924ad",
+            "id": "94740162cee6e209",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Belief Systems.md",
+                "file": "Literature/Friedrich Nietzsche.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "8e50a31da5a3a1ca",
+            "id": "b4fe1379b78dcf29",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readme.md",
+                "file": "Stoicism.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "9bf610cc0c2d7557",
+            "id": "bc6d8b940107d1a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Meta Language.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "2ead14b7838ed3b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prescriptive and Descriptive Grammar.md",
+                "file": "Pragmatism.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#todo",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -134,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readme.md",
+                "file": "Western Philosophy Timeline.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -174,7 +161,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Readme.md"
+                "file": "Western Philosophy Timeline.md"
               }
             }
           }
@@ -198,11 +185,25 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "8e50a31da5a3a1ca",
+  "active": "162025844602ad94",
   "lastOpenFiles": [
-    "Belief Systems.md",
-    "Readme.md",
     "Semiotics.md",
+    "Pragmatism.md",
+    "Western Philosophy Timeline.md",
+    "Ludwig Wittgenstein.md",
+    "Literature/Friedrich Nietzsche.md",
+    "Literature/Introduction to Philosophy.md",
+    "History-of-Western-Philosophy.jpg",
+    "Western Philosophy Timeline.pdf",
+    "Stoicism.md",
+    "Plato.md",
+    "Socrates.md",
+    "Ethics.md",
+    "Literature/LEAP Ethical Selling Framework.md",
+    "Epicurus.md",
+    "Aristotle.md",
+    "Readme.md",
+    "Belief Systems.md",
     "Parts of Language.md",
     "Mental Models.md",
     "Semantics.md",
@@ -215,18 +216,6 @@
     "Encode framework.md",
     "Enmeshment.md",
     "End of History Illusion.md",
-    "Facticity and Trancendence.md",
-    "Epistemic Trespassing.md",
-    "Four Laws of Behavior Change.md",
-    "Excalidraw/Drawing 2024-09-04 15.36.43.excalidraw.md",
-    "Know Thyself.md",
-    "Eudaimonia.md",
-    "Uncertainty is a good Epistemic habit.md",
-    "Goodhart's Law.md",
-    "Initial Impressions.md",
-    "Shared Intentions in Humans.md",
-    "Myth in Semiotics.md",
-    "Influence Model.md",
     "Influence Model 4 Building Blocks.png",
     "emotion_sharability_relation.png",
     "Fast-Goals.png",
@@ -234,7 +223,6 @@
     "Diverge-Converge.png",
     "maslow-hierachy-of-needs-min.webp",
     "Stages-of-awareness.png.webp",
-    "PDCA.png",
-    "Cone of Uncertainty.gif"
+    "PDCA.png"
   ]
 }

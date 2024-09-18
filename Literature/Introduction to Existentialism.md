@@ -16,7 +16,7 @@ What Existentialism is not..
 The Existentialism movement arose in 19th Century Europe. Founding fathers are
 
 - [[Soren Kierkegaard]]
-- [[Fredrich Nietzsche]]
+- [[Friedrich Nietzsche]]
 - [[Fyodor Dostoyevsky]]
 
 It became very prominent in mid-20 century(esp after the war). This wave brought people like...

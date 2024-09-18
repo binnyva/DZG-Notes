@@ -61,7 +61,7 @@ the anti luck intuition first. That says that if you know then your true belief 
 ## Do We Have Any Knowledge?
 
 - Ability intuition: the claim that if you know then your true belief is down to your cognitive abilities in some important way.
-- skeptical hypotheses: these are scenarios which are indistinguishable from normal life, but where one is radically in error. One of these scenarios that we looked at was the brain-in-a-bat hypothesis
+- Skeptical hypotheses: these are scenarios which are indistinguishable from normal life, but where one is radically in error. One of these scenarios that we looked at was the brain-in-a-vat hypothesis
 - Radical skepticism: the view that we know very little. In particular we know very little, if anything, about a world that is external to us. in it's strongest form, skepticism, radical skepticism says that knowledge is impossible
 
 ## Do You Have an Obligation to Obey the Law?

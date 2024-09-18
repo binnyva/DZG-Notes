@@ -11,6 +11,8 @@ date: 2020-11-12 14:42:06
 - Worked with [[Plato]]
 - Founded a school called Liciem
 
+"Aristotelian" ideas are often Scientific, Bottom up, Nature based. This is generally seen as the flip side of "Platonic" - which is Mathematical, idealized/theoritical.
+
 ## Ideas
 
 - What makes people happy?
@@ -33,7 +35,7 @@ date: 2020-11-12 14:42:06
     - For fun
     - Strategic 
     - True friends
-- How can ideas cut thru in a busy world?
+- How can ideas cut through in a busy world?
     - Created the art of Rhetoric.
         - Recognize, acknowledge and sooth people's fears
         - See the emotional side of the issue

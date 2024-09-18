@@ -1,5 +1,4 @@
 ---
-title: "Fredrich Nietzsche"
 tags: ["philosophers","nietzsche"]
 date: 2020-11-28 20:32:52
 source: "https://www.youtube.com/watch?v=vzRbCrIWURY"

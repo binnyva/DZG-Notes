@@ -25,7 +25,7 @@ Two types of Existentialism...
 	- [[Jean-Paul Sartre]]
 	- Simon de Beauvoir
 	- Heidegger
-	- [[Fredrich Nietzsche]]
+	- [[Friedrich Nietzsche]]
 	- God does not exist
 	- No values or meaning
 	- Absurdity

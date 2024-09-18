@@ -30,6 +30,7 @@ The original Greek philosophers were...
 - Chrysippus(279 - 206 BC)
 
 ## Concepts
+
 - [[Dichotomy of Control]]
 - Stoic Sage: The highest ideal of stoicism - someone who will be content even if they were tortured to death. No one reaches this state - its something you aim for.
 - Memento Mori: "Remember your mortality". No matter how bad things are, you can find comfort in the fact that it will end. And no matter how great things are right now, you can die some day.

@@ -9,6 +9,7 @@ date: 2022-01-30 14:46:00
 - 469 BC, Athens, Greece
 - Solder > Stone Cutter > Philosopher
 - He didn't write anything - his student [[Plato]] wrote what we know about him.
+- Another student was [[Aristotle]]
 - Was sentenced to death.
 
 ## Terms

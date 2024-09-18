@@ -10,7 +10,8 @@ date: 2022-01-30 14:49:00
 
 ## Terms
 
-Epicurean Communes
+- Epicurean Communes
+- [[Hedonism]]
 
 ## Ideas
 

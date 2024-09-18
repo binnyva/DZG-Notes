@@ -13,7 +13,11 @@ date: 2022-01-30 14:42:00
 
 ## Terms
 
-- Eudaimoni: Fulfillment.
+- Eudaimoni: Fulfillment
+- Theory of Forms: All things has an ideal form that exists outside the physical realm. All cats are cats because it draws from the ideal of a cat. 
+- Allegory of the Cave
+
+"Aristotelian" ideas are often Scientific, Bottom up, Nature based. This is generally seen as the flip side of "Platonic" - which is Mathematical, idealized/theoritical.
 
 ## Ideas
 
