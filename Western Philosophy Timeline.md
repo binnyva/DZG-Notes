@@ -144,9 +144,9 @@ Rejection of Aristotelian science, scientific inquiry into the natural world.
 
 View scholasticism through skepticism. Methods of science are fallible - but not false. Focus on reason above senses.
 
-#### Rene Descartes 
+#### Rene Descartes
 
-- Created the Cartitian Cordinate system
+- Created the Cartesian Coordinate system
 - "I think, therefore I am"
 - Dualism
 	- Realm of mind and Realm of body

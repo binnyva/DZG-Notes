@@ -1,5 +1,4 @@
 ---
-title: "Stoicism"
 tags: ["permanent-notes", "stoicism","philosophy","framework"]
 date: 2022-09-28 18:39:00
 source: "https://www.youtube.com/watch?v=o0MzQZ_eFEY"
@@ -35,4 +34,4 @@ The original Greek philosophers were...
 - Stoic Sage: The highest ideal of stoicism - someone who will be content even if they were tortured to death. No one reaches this state - its something you aim for.
 - Memento Mori: "Remember your mortality". No matter how bad things are, you can find comfort in the fact that it will end. And no matter how great things are right now, you can die some day.
 - Amor Fate: "Love your fate". Be content by how the world is right now. Do not link your happiness on the world being a certain way. Eg. I'll be happy if I get a better job.
-- Negative Visualisation: Imagine the worst possible outcome - and you'll be content with whatever actually happens.
+- Negative Visualization: Imagine the worst possible outcome - and you'll be content with whatever actually happens.

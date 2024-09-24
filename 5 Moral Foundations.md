@@ -1,5 +1,4 @@
 ---
-title: "5 Moral Foundations"
 tags: ["permanent-notes", "morality","psychology","society" ]
 date: 2021-12-21 21:17:00
 source: "Book: Righteous Mind"

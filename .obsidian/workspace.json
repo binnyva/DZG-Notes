@@ -44,18 +44,19 @@
             }
           },
           {
-            "id": "bc6d8b940107d1a6",
+            "id": "80cff92434edc0d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pragmatism.md",
+                "file": "Literature/Thinking Fast and Slow, Blinkist.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -121,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Western Philosophy Timeline.md",
+                "file": "Literature/Thinking Fast and Slow, Blinkist.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -161,7 +162,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Western Philosophy Timeline.md"
+                "file": "Literature/Thinking Fast and Slow, Blinkist.md"
               }
             }
           }
@@ -185,17 +186,21 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "162025844602ad94",
+  "active": "80cff92434edc0d2",
   "lastOpenFiles": [
-    "Semiotics.md",
+    "5 Moral Foundations.md",
+    "Overton Window.md",
+    "Paradigm in Science.md",
+    "Stoicism.md",
     "Pragmatism.md",
     "Western Philosophy Timeline.md",
+    "Overton_Window.png",
+    "Semiotics.md",
     "Ludwig Wittgenstein.md",
     "Literature/Friedrich Nietzsche.md",
     "Literature/Introduction to Philosophy.md",
     "History-of-Western-Philosophy.jpg",
     "Western Philosophy Timeline.pdf",
-    "Stoicism.md",
     "Plato.md",
     "Socrates.md",
     "Ethics.md",
@@ -213,16 +218,12 @@
     "General Semantics.md",
     "General Semantics Abstraction Model.png",
     "Map is not the Territory.md",
-    "Encode framework.md",
-    "Enmeshment.md",
-    "End of History Illusion.md",
     "Influence Model 4 Building Blocks.png",
     "emotion_sharability_relation.png",
     "Fast-Goals.png",
     "Suds.png",
     "Diverge-Converge.png",
     "maslow-hierachy-of-needs-min.webp",
-    "Stages-of-awareness.png.webp",
-    "PDCA.png"
+    "Stages-of-awareness.png.webp"
   ]
 }
