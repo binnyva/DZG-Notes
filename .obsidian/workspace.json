@@ -13,50 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Western Philosophy Timeline.md",
+                "file": "Self-Schema.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "94740162cee6e209",
+            "id": "d9e8cfb413954e05",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature/Friedrich Nietzsche.md",
+                "file": "Schema.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "b4fe1379b78dcf29",
+            "id": "e3efe9785f06a8b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stoicism.md",
+                "file": "Drefyus Model of Skill Acquisition.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "80cff92434edc0d2",
+            "id": "ec10c3794ecc4530",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature/Thinking Fast and Slow, Blinkist.md",
+                "file": "Stages of Cognitive Development in Children.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "competence",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -102,7 +102,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -122,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature/Thinking Fast and Slow, Blinkist.md",
+                "file": "Drefyus Model of Skill Acquisition.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -162,7 +163,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Literature/Thinking Fast and Slow, Blinkist.md"
+                "file": "Drefyus Model of Skill Acquisition.md"
               }
             }
           }
@@ -186,18 +187,24 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "80cff92434edc0d2",
+  "active": "e3efe9785f06a8b7",
   "lastOpenFiles": [
+    "Readme.md",
+    "Schema.md",
+    "Schema Therapy.md",
+    "Stages of Cognitive Development in Children.md",
+    "Self-Schema.md",
+    "Paradigm in Science.md",
+    "Western Philosophy Timeline.md",
+    "Literature/Friedrich Nietzsche.md",
+    "Stoicism.md",
+    "Literature/Thinking Fast and Slow, Blinkist.md",
     "5 Moral Foundations.md",
     "Overton Window.md",
-    "Paradigm in Science.md",
-    "Stoicism.md",
     "Pragmatism.md",
-    "Western Philosophy Timeline.md",
     "Overton_Window.png",
     "Semiotics.md",
     "Ludwig Wittgenstein.md",
-    "Literature/Friedrich Nietzsche.md",
     "Literature/Introduction to Philosophy.md",
     "History-of-Western-Philosophy.jpg",
     "Western Philosophy Timeline.pdf",
@@ -207,17 +214,11 @@
     "Literature/LEAP Ethical Selling Framework.md",
     "Epicurus.md",
     "Aristotle.md",
-    "Readme.md",
     "Belief Systems.md",
     "Parts of Language.md",
     "Mental Models.md",
     "Semantics.md",
-    "Meta Language.md",
-    "Prescriptive and Descriptive Grammar.md",
-    "Social Construction of Reality.md",
-    "General Semantics.md",
     "General Semantics Abstraction Model.png",
-    "Map is not the Territory.md",
     "Influence Model 4 Building Blocks.png",
     "emotion_sharability_relation.png",
     "Fast-Goals.png",
