@@ -16,7 +16,9 @@
                 "file": "Self-Schema.md",
                 "mode": "source",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Self-Schema"
             }
           },
           {
@@ -28,31 +30,9 @@
                 "file": "Schema.md",
                 "mode": "source",
                 "source": true
-              }
-            }
-          },
-          {
-            "id": "e3efe9785f06a8b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Drefyus Model of Skill Acquisition.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "695b851ea4c6227a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Affective Priming.md",
-                "mode": "source",
-                "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Schema"
             }
           },
           {
@@ -64,11 +44,41 @@
                 "file": "Stages of Cognitive Development in Children.md",
                 "mode": "source",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Stages of Cognitive Development in Children"
+            }
+          },
+          {
+            "id": "d069107d1e62e793",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Anacyclosis Theory - Rise and Fall of Empires.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Anacyclosis Theory - Rise and Fall of Empires"
+            }
+          },
+          {
+            "id": "edbf672607936eff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ARIA Framework.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "ARIA Framework"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -88,7 +98,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "byModifiedTime"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -103,7 +115,9 @@
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -111,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -134,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Affective Priming.md",
+                "file": "Self-Schema.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -142,7 +158,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Self-Schema"
             }
           },
           {
@@ -153,7 +171,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -165,7 +185,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           },
           {
@@ -174,8 +196,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Affective Priming.md"
-              }
+                "file": "Self-Schema.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Self-Schema"
             }
           }
         ],
@@ -198,12 +222,15 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "695b851ea4c6227a",
+  "active": "edbf672607936eff",
   "lastOpenFiles": [
+    "ARIA Framework.md",
+    "Anacyclosis Theory - Rise and Fall of Empires.md",
+    "Anacylosis.jpeg",
+    "Schema.md",
     "Drefyus Model of Skill Acquisition.md",
     "Affective Priming.md",
     "Readme.md",
-    "Schema.md",
     "Schema Therapy.md",
     "Stages of Cognitive Development in Children.md",
     "Self-Schema.md",
@@ -227,15 +254,12 @@
     "Literature/LEAP Ethical Selling Framework.md",
     "Epicurus.md",
     "Aristotle.md",
-    "Belief Systems.md",
-    "Parts of Language.md",
     "General Semantics Abstraction Model.png",
     "Influence Model 4 Building Blocks.png",
     "emotion_sharability_relation.png",
     "Fast-Goals.png",
     "Suds.png",
     "Diverge-Converge.png",
-    "maslow-hierachy-of-needs-min.webp",
-    "Stages-of-awareness.png.webp"
+    "maslow-hierachy-of-needs-min.webp"
   ]
 }
