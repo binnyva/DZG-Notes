@@ -4,7 +4,7 @@ tags:
   - problem-solving 
   - insights 
 date: 2024-11-16 22:47:00
-source: "Your Brain at Work, Book"
+source: "[[Your Brain at Work]]"
 ---
 
 ARIA is used to get to insights faster. You can use this when you face a problem that requires an insight to move further. ARIA stands for...

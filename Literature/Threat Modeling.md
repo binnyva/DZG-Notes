@@ -1,5 +1,4 @@
 ---
-title: "Threat Modeling"
 tags: ["literature-notes", "threat", "model"]
 date: 2021-03-20 02:28:00
 ---

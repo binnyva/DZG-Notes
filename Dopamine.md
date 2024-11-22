@@ -16,6 +16,7 @@ Many pathways to take it to the other areas.
 Dopamine acts on G Protein-coupled receptors(5 types)
 
 ### Functions
+
 - Movement
 - Reward
 - Attention

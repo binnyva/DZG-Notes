@@ -51,7 +51,7 @@ Note: These are still a Work In Progress. Some cleanup required.
 
 #### Protagoras
 
-- He was a Sophist. Its a school of philosophy that taught people(for a price) how to argue. They were not held in high regard, as the idea was to win the argument rather than to find the truth. But the context of this teaching was to argue your case at a court hearing.
+- He was a [[Sophist]]. Its a school of philosophy that taught people(for a price) how to argue. They were not held in high regard, as the idea was to win the argument rather than to find the truth. But the context of this teaching was to argue your case at a court hearing.
 - Relativism: "Man is the measure of all things"
 
 ### Socratic

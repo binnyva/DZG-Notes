@@ -1,5 +1,4 @@
 ---
-title: "DOSE - Brain Hormones"
 tags: ["permanent-notes", "psychology","cognition" ]
 date: 2022-05-15 02:08:00
 source: "Authentic Living Summit"

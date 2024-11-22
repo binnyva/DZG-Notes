@@ -22,55 +22,14 @@
             }
           },
           {
-            "id": "d9e8cfb413954e05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Schema.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Schema"
-            }
-          },
-          {
-            "id": "ec10c3794ecc4530",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stages of Cognitive Development in Children.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Stages of Cognitive Development in Children"
-            }
-          },
-          {
-            "id": "d069107d1e62e793",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Anacyclosis Theory - Rise and Fall of Empires.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Anacyclosis Theory - Rise and Fall of Empires"
-            }
-          },
-          {
-            "id": "edbf672607936eff",
+            "id": "c9058a0c4b5fd865",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "ARIA Framework.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
@@ -78,7 +37,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "competence",
+                "query": "sop",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -222,38 +181,38 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "edbf672607936eff",
+  "active": "c9058a0c4b5fd865",
   "lastOpenFiles": [
+    "Effects of Expectations.md",
+    "SCARF Model.md",
     "ARIA Framework.md",
-    "Anacyclosis Theory - Rise and Fall of Empires.md",
-    "Anacylosis.jpeg",
-    "Schema.md",
-    "Drefyus Model of Skill Acquisition.md",
-    "Affective Priming.md",
-    "Readme.md",
-    "Schema Therapy.md",
-    "Stages of Cognitive Development in Children.md",
-    "Self-Schema.md",
-    "Paradigm in Science.md",
-    "Western Philosophy Timeline.md",
-    "Literature/Friedrich Nietzsche.md",
+    "Literature/Cal Newport - So Good They Can't Ignore You.md",
+    "Literature/Non-Violent Communication.md",
+    "Literature/Threat Modeling.md",
+    "Literature/The Zettelkasten Method.md",
+    "Literature/Women who never married or had children.md",
+    "Literature/Standup Content Creation.md",
+    "Literature/Deep Work.md",
+    "Literature/Risk Schmisk - Annie Duke.md",
+    "Literature/Your Brain at Work.md",
     "Stoicism.md",
-    "Literature/Thinking Fast and Slow, Blinkist.md",
+    "Sophist.md",
     "5 Moral Foundations.md",
-    "Overton Window.md",
-    "Pragmatism.md",
+    "DOSE - Brain Hormones.md",
+    "Dopamine.md",
+    "Epistemic Trespassing.md",
+    "Chunking.md",
+    "Literature/Eigenquestions - Art of Framing Problems.md",
+    "Manufacturing Consent.md",
+    "Stages of Cognitive Development in Children.md",
+    "Schema Therapy.md",
+    "Schema.md",
+    "Readme.md",
+    "Affective Priming.md",
+    "Anacylosis.jpeg",
     "Overton_Window.png",
-    "Semiotics.md",
-    "Ludwig Wittgenstein.md",
-    "Literature/Introduction to Philosophy.md",
     "History-of-Western-Philosophy.jpg",
     "Western Philosophy Timeline.pdf",
-    "Plato.md",
-    "Socrates.md",
-    "Ethics.md",
-    "Literature/LEAP Ethical Selling Framework.md",
-    "Epicurus.md",
-    "Aristotle.md",
     "General Semantics Abstraction Model.png",
     "Influence Model 4 Building Blocks.png",
     "emotion_sharability_relation.png",
