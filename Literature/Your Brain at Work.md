@@ -1,7 +1,7 @@
 ---
 tags:
-  - #litrature-notes 
-  - #book 
+  - litrature-notes 
+  - book 
 date: 2024-11-22 19:35:00
 source: "Your Brain at Work, Book"
 ---
