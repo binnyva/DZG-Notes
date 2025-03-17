@@ -8,36 +8,49 @@
         "type": "tabs",
         "children": [
           {
-            "id": "162025844602ad94",
+            "id": "df139e984fa9da4c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Self-Schema.md",
+                "file": "Guessing Others State.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Self-Schema"
+              "title": "Guessing Others State"
             }
           },
           {
-            "id": "c9058a0c4b5fd865",
+            "id": "0b90cb64744bbf48",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ARIA Framework.md",
+                "file": "Conflict Lag.md",
                 "mode": "source",
-                "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "ARIA Framework"
+              "title": "Conflict Lag"
+            }
+          },
+          {
+            "id": "6681e20edb1ccc6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Silence or Violence.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Silence or Violence"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -56,7 +69,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -68,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sop",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -181,13 +195,22 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "c9058a0c4b5fd865",
+  "active": "e4ca3339add5725c",
   "lastOpenFiles": [
+    "Crucial Conversation.md",
+    "Guessing Others State.md",
+    "Silence or Violence.md",
+    "Conflict Lag.md",
+    "Strong link vs Weak Link problems.md",
+    "IFS - Internal Family Systems.md",
+    "ARIA Framework.md",
+    "Self-Schema.md",
+    "IFS_System.jpg",
+    "Value Demand vs Failure Demand.md",
     "Effects of Expectations.md",
     "SCARF Model.md",
     "Literature/Your Brain at Work.md",
     "DOSE - Brain Hormones.md",
-    "ARIA Framework.md",
     "Literature/Cal Newport - So Good They Can't Ignore You.md",
     "Literature/Non-Violent Communication.md",
     "Literature/Threat Modeling.md",
@@ -201,14 +224,6 @@
     "5 Moral Foundations.md",
     "Dopamine.md",
     "Epistemic Trespassing.md",
-    "Chunking.md",
-    "Literature/Eigenquestions - Art of Framing Problems.md",
-    "Manufacturing Consent.md",
-    "Stages of Cognitive Development in Children.md",
-    "Schema Therapy.md",
-    "Schema.md",
-    "Readme.md",
-    "Affective Priming.md",
     "Anacylosis.jpeg",
     "Overton_Window.png",
     "History-of-Western-Philosophy.jpg",
@@ -218,7 +233,6 @@
     "emotion_sharability_relation.png",
     "Fast-Goals.png",
     "Suds.png",
-    "Diverge-Converge.png",
-    "maslow-hierachy-of-needs-min.webp"
+    "Diverge-Converge.png"
   ]
 }

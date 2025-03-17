@@ -47,3 +47,7 @@ When you unblended from parts(and fully healed), you reach your inner core - the
 - Clear
 - Curious
 - Confident
+
+### Parts of Self...
+
+![[IFS_System.jpg]]
