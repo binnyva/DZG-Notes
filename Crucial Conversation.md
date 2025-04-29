@@ -41,7 +41,7 @@ Retracing your path to action(Think [[ABC of CBT]])
 Share your story - encourage others to share theirs
 
 - Test your story and others story
-- If they don't share, use the priming technique: [[Guessing Others State]]
+- If they don't share, use the priming technique: [[Guessing Other's Emotional State]]
 
 ### Make content safe
 

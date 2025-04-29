@@ -22,4 +22,4 @@ They are getting angry / defensive. They are trying to...
 - Label
 - Attack
 
-You can bring them out of it by [[Guessing Others State|guessing their emotional state]].
+You can bring them out of it by [[Guessing Other's Emotional State|guessing their emotional state]].
