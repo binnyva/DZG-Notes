@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Solution Design Metamodal"
             }
+          },
+          {
+            "id": "e2cd0a9f7dac16d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bell Hooks On Love.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Bell Hooks On Love"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,13 +181,13 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "df139e984fa9da4c",
+  "active": "e2cd0a9f7dac16d7",
   "lastOpenFiles": [
-    "Vision and Mission Statements using Solution Design Method.md",
     "Solution Design Metamodal.md",
+    "Bell Hooks On Love.md",
+    "Vision and Mission Statements using Solution Design Method.md",
     "Mission Statement.md",
     "Solution Meta Modal.png",
-    "Untitled.md",
     "Manufacturing Consent - Propaganda Model.md",
     "Critical Thinking Framework - CAMPER.md",
     "Guessing Other's Emotional State.md",
