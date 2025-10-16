@@ -22,17 +22,17 @@
             }
           },
           {
-            "id": "e2cd0a9f7dac16d7",
+            "id": "ed2eff1d11ecdecc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bell Hooks On Love.md",
+                "file": "The Ovarian Lottery.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Bell Hooks On Love"
+              "title": "The Ovarian Lottery"
             }
           }
         ],
@@ -171,6 +171,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -181,10 +182,17 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "e2cd0a9f7dac16d7",
+  "active": "ed2eff1d11ecdecc",
   "lastOpenFiles": [
-    "Solution Design Metamodal.md",
+    "Curiosity, not passion.md",
+    "State vs Trait Curiosity.md",
+    "Untitled.md",
+    "The Ovarian Lottery.md",
+    "Literature/Flaws in Human Thinking.md",
+    "Schema.md",
+    "TA - Injunctions.md",
     "Bell Hooks On Love.md",
+    "Solution Design Metamodal.md",
     "Vision and Mission Statements using Solution Design Method.md",
     "Mission Statement.md",
     "Solution Meta Modal.png",
@@ -204,13 +212,6 @@
     "SCARF Model.md",
     "Literature/Your Brain at Work.md",
     "DOSE - Brain Hormones.md",
-    "Literature/Cal Newport - So Good They Can't Ignore You.md",
-    "Literature/Non-Violent Communication.md",
-    "Literature/Threat Modeling.md",
-    "Literature/The Zettelkasten Method.md",
-    "Literature/Women who never married or had children.md",
-    "Literature/Standup Content Creation.md",
-    "Literature/Deep Work.md",
     "Anacylosis.jpeg",
     "Overton_Window.png",
     "History-of-Western-Philosophy.jpg",
