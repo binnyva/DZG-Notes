@@ -4,8 +4,6 @@ tags: [ "literature-notes", "coach","session","notes","life-coaching","empowerin
 date: 2020-11-28 20:01:24
 ---
 
-# Empowering Others
-
 Session 1 / 5
 
 ## Know Yourself
@@ -45,6 +43,7 @@ When can we empower others?
 3. Picking up a new skill
 
 ## Learning Styles
+
 1. Visual
 2. Auditory
 3. Reading/Writing
@@ -60,7 +59,7 @@ When teaching someone, don't force them to learn the way you like to learn.
 Are you criticizing, advising, empathizing or searching?
 - Criticizing: Finding fault - "you should have"
 - Advising: Gives an advice - "you should try this"
-- Empathizing: Feeling what the person is feeling - "i feel sorry that you"
+- Empathizing: Feeling what the person is feeling - "I feel sorry that you"
 - Searching: Questions - "what happened"
 
 When mentoring, avoid criticizing or advising.
@@ -71,8 +70,6 @@ Learning / Takeaways ...
 1. Structuring type of learning
 2. Don't force others to learn the way you like to learn
 3. Advising is not helpful when teaching. 
-
-Feedback Form: https://forms.gle/5pVMTqMqJfCpx1gr5 
 
 ### Other Notes
 

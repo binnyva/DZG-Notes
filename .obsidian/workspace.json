@@ -27,12 +27,82 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Ovarian Lottery.md",
+                "file": "Readme.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "The Ovarian Lottery"
+              "title": "Readme"
+            }
+          },
+          {
+            "id": "f01d15f9025fdb56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Communicating after Rupture or Breakdown.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Communicating after Rupture or Breakdown"
+            }
+          },
+          {
+            "id": "7dfb64d02b8bf65c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ACA Framework.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "ACA Framework"
+            }
+          },
+          {
+            "id": "99ebed531274acb8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Point, Reason, Example Framework.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Point, Reason, Example Framework"
+            }
+          },
+          {
+            "id": "afba26e63e7433a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "123 Method.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "123 Method"
+            }
+          },
+          {
+            "id": "2245648509f26658",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Life Project Management.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Life Project Management"
             }
           }
         ],
@@ -68,7 +138,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "sorry",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -129,7 +199,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -182,38 +254,38 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "ed2eff1d11ecdecc",
+  "active": "e4ca3339add5725c",
   "lastOpenFiles": [
-    "Curiosity, not passion.md",
-    "State vs Trait Curiosity.md",
-    "Untitled.md",
-    "The Ovarian Lottery.md",
-    "Literature/Flaws in Human Thinking.md",
+    "Paradigm in Science.md",
+    "Overton_Window.png",
     "Schema.md",
-    "TA - Injunctions.md",
-    "Bell Hooks On Love.md",
-    "Solution Design Metamodal.md",
-    "Vision and Mission Statements using Solution Design Method.md",
-    "Mission Statement.md",
-    "Solution Meta Modal.png",
-    "Manufacturing Consent - Propaganda Model.md",
-    "Critical Thinking Framework - CAMPER.md",
-    "Guessing Other's Emotional State.md",
-    "Silence or Violence.md",
-    "Crucial Conversation.md",
-    "Conflict Lag.md",
-    "Strong link vs Weak Link problems.md",
-    "IFS - Internal Family Systems.md",
-    "ARIA Framework.md",
-    "Self-Schema.md",
-    "IFS_System.jpg",
-    "Value Demand vs Failure Demand.md",
+    "Readme.md",
+    "Affective Priming.md",
     "Effects of Expectations.md",
     "SCARF Model.md",
-    "Literature/Your Brain at Work.md",
-    "DOSE - Brain Hormones.md",
+    "Value Demand vs Failure Demand.md",
+    "Crucial Conversation.md",
+    "Silence or Violence.md",
+    "Guessing Other's Emotional State.md",
+    "Frameworks to Improve Speech.md",
+    "Life Project Management.md",
+    "Vocal Image.md",
+    "Communicating after Rupture or Breakdown.md",
+    "ACA Framework.md",
+    "Point, Reason, Example Framework.md",
+    "State vs Trait Curiosity.md",
+    "123 Method.md",
+    "Literature/How to Empower Others 1.md",
+    "Zettelkasten.md",
+    "Permanent Notes in Zettelkasten.md",
+    "The Ovarian Lottery.md",
+    "Curiosity, not passion.md",
+    "Literature/Flaws in Human Thinking.md",
+    "TA - Injunctions.md",
+    "Bell Hooks On Love.md",
+    "Solution Meta Modal.png",
+    "IFS_System.jpg",
     "Anacylosis.jpeg",
-    "Overton_Window.png",
     "History-of-Western-Philosophy.jpg",
     "Western Philosophy Timeline.pdf",
     "General Semantics Abstraction Model.png",
