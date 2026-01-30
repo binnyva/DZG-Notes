@@ -13,100 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Solution Design Metamodal.md",
+                "file": "Psycho-Analytic Theory.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Solution Design Metamodal"
+              "title": "Psycho-Analytic Theory"
             }
           },
           {
-            "id": "ed2eff1d11ecdecc",
+            "id": "b114ea1248d99966",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readme.md",
+                "file": "Adlerian Psychology.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Readme"
+              "title": "Adlerian Psychology"
             }
           },
           {
-            "id": "f01d15f9025fdb56",
+            "id": "c51bce992f83d244",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Communicating after Rupture or Breakdown.md",
+                "file": "Logo Therapy.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Communicating after Rupture or Breakdown"
-            }
-          },
-          {
-            "id": "7dfb64d02b8bf65c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ACA Framework.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "ACA Framework"
-            }
-          },
-          {
-            "id": "99ebed531274acb8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Point, Reason, Example Framework.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Point, Reason, Example Framework"
-            }
-          },
-          {
-            "id": "afba26e63e7433a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "123 Method.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "123 Method"
-            }
-          },
-          {
-            "id": "2245648509f26658",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Life Project Management.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Life Project Management"
+              "title": "Logo Therapy"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -254,12 +198,21 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "e4ca3339add5725c",
+  "active": "c51bce992f83d244",
   "lastOpenFiles": [
+    "Adlerian Psychology.md",
+    "Logo Therapy.md",
+    "Psycho-Analytic Theory.md",
+    "Solution Design Metamodal.md",
+    "Readme.md",
+    "Communicating after Rupture or Breakdown.md",
+    "ACA Framework.md",
+    "Point, Reason, Example Framework.md",
+    "123 Method.md",
+    "Life Project Management.md",
     "Paradigm in Science.md",
     "Overton_Window.png",
     "Schema.md",
-    "Readme.md",
     "Affective Priming.md",
     "Effects of Expectations.md",
     "SCARF Model.md",
@@ -268,21 +221,12 @@
     "Silence or Violence.md",
     "Guessing Other's Emotional State.md",
     "Frameworks to Improve Speech.md",
-    "Life Project Management.md",
     "Vocal Image.md",
-    "Communicating after Rupture or Breakdown.md",
-    "ACA Framework.md",
-    "Point, Reason, Example Framework.md",
     "State vs Trait Curiosity.md",
-    "123 Method.md",
     "Literature/How to Empower Others 1.md",
     "Zettelkasten.md",
     "Permanent Notes in Zettelkasten.md",
     "The Ovarian Lottery.md",
-    "Curiosity, not passion.md",
-    "Literature/Flaws in Human Thinking.md",
-    "TA - Injunctions.md",
-    "Bell Hooks On Love.md",
     "Solution Meta Modal.png",
     "IFS_System.jpg",
     "Anacylosis.jpeg",
