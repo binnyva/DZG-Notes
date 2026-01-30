@@ -1,5 +1,5 @@
 ---
-tags: ["permanent-notes", #psychology , #existentialism ]
+tags: ["permanent-notes", "psychology","existentialism" ]
 date: 2026-01-30 17:21:00
 source: "Book: Man's Search for Meaning"
 ---
