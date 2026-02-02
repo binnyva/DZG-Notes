@@ -27,30 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adlerian Psychology.md",
+                "file": "Frameworks to Improve Speech.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Adlerian Psychology"
-            }
-          },
-          {
-            "id": "c51bce992f83d244",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Logo Therapy.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Logo Therapy"
+              "title": "Frameworks to Improve Speech"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -198,35 +184,35 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "c51bce992f83d244",
+  "active": "b114ea1248d99966",
   "lastOpenFiles": [
+    "Untitled.md",
+    "SCARF Model.md",
+    "Advice Process.md",
+    "Frameworks to Improve Speech.md",
+    "Vocal Image.md",
     "Adlerian Psychology.md",
+    "Life Project Management.md",
+    "Communicating after Rupture or Breakdown.md",
     "Logo Therapy.md",
     "Psycho-Analytic Theory.md",
     "Solution Design Metamodal.md",
     "Readme.md",
-    "Communicating after Rupture or Breakdown.md",
     "ACA Framework.md",
     "Point, Reason, Example Framework.md",
     "123 Method.md",
-    "Life Project Management.md",
     "Paradigm in Science.md",
     "Overton_Window.png",
     "Schema.md",
     "Affective Priming.md",
     "Effects of Expectations.md",
-    "SCARF Model.md",
     "Value Demand vs Failure Demand.md",
     "Crucial Conversation.md",
     "Silence or Violence.md",
     "Guessing Other's Emotional State.md",
-    "Frameworks to Improve Speech.md",
-    "Vocal Image.md",
     "State vs Trait Curiosity.md",
     "Literature/How to Empower Others 1.md",
     "Zettelkasten.md",
-    "Permanent Notes in Zettelkasten.md",
-    "The Ovarian Lottery.md",
     "Solution Meta Modal.png",
     "IFS_System.jpg",
     "Anacylosis.jpeg",

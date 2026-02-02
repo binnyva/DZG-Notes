@@ -1,5 +1,5 @@
 ---
-tags: ["permanent-notes"]
+tags: ["permanent-notes", "communication","empathy","framework"]
 date: 2026-01-23 18:00:00
 source: "Confident & Effective Speaking, Reaktor Workshop"
 ---
@@ -20,3 +20,7 @@ Clarity signals competence.
 Structure reduces mental load.
 
 Packing of your knowledge is important - not just the knowledge you have.
+
+Eye Contact Bookend: Start the point with eye contact - then you can look away when talking - but at the end of the point, make eye contact again.
+
+Empathy is allowing people to feel what they feel.
