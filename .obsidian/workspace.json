@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frameworks to Improve Speech.md",
-                "mode": "source",
+                "file": "Stock Detection - FACE.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Frameworks to Improve Speech"
+              "title": "Stock Detection - FACE"
             }
           }
         ],
@@ -186,10 +186,13 @@
   },
   "active": "b114ea1248d99966",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Trauma Assessment - ABCDE.md",
+    "Heimlich Maneuver.md",
+    "CPR.md",
+    "Frameworks to Improve Speech.md",
+    "Stock Detection - FACE.md",
     "SCARF Model.md",
     "Advice Process.md",
-    "Frameworks to Improve Speech.md",
     "Vocal Image.md",
     "Adlerian Psychology.md",
     "Life Project Management.md",
@@ -210,9 +213,6 @@
     "Crucial Conversation.md",
     "Silence or Violence.md",
     "Guessing Other's Emotional State.md",
-    "State vs Trait Curiosity.md",
-    "Literature/How to Empower Others 1.md",
-    "Zettelkasten.md",
     "Solution Meta Modal.png",
     "IFS_System.jpg",
     "Anacylosis.jpeg",
