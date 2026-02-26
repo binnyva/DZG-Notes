@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Stock Detection - FACE"
             }
+          },
+          {
+            "id": "81d984462f8548a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Point, Reason, Example Framework.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Point, Reason, Example Framework"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -184,24 +198,24 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "b114ea1248d99966",
+  "active": "81d984462f8548a5",
   "lastOpenFiles": [
+    "ACA Framework.md",
+    "Communicating after Rupture or Breakdown.md",
+    "Adlerian Psychology.md",
+    "Logo Therapy.md",
+    "Frameworks to Improve Speech.md",
     "Trauma Assessment - ABCDE.md",
     "Heimlich Maneuver.md",
     "CPR.md",
-    "Frameworks to Improve Speech.md",
     "Stock Detection - FACE.md",
     "SCARF Model.md",
     "Advice Process.md",
     "Vocal Image.md",
-    "Adlerian Psychology.md",
     "Life Project Management.md",
-    "Communicating after Rupture or Breakdown.md",
-    "Logo Therapy.md",
     "Psycho-Analytic Theory.md",
     "Solution Design Metamodal.md",
     "Readme.md",
-    "ACA Framework.md",
     "Point, Reason, Example Framework.md",
     "123 Method.md",
     "Paradigm in Science.md",
