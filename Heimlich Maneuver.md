@@ -4,7 +4,7 @@ date: 2026-02-24 22:27:00
 source: "First Aid Workshop"
 ---
 
-Ask: “Are you choking?”
+Ask: "Are you choking?"
 
 If they can:
 
@@ -12,7 +12,7 @@ If they can:
 - Cough strongly
 - Breathe
 
-Encourage them to keep coughing.  Do NOT interfere yet.
+...Encourage them to keep coughing.  Do NOT interfere yet.
 
 If they can't respond/cannot breath/is chocking/hold their throat, start the process...
 

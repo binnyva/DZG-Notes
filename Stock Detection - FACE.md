@@ -1,4 +1,5 @@
 ---
+title: "Stock Detection - FACE"
 tags: ["permanent-notes", "health","first-aid"]
 date: 2026-02-24 22:39:00
 source: "First Aid Workshop"

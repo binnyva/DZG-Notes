@@ -1,4 +1,5 @@
 ---
+title: "Trauma Assessment - ABCDE"
 tags: ["permanent-notes", "health","first-aid"]
 date: 2026-02-24 22:09:00
 source: "First Aid Workshop"

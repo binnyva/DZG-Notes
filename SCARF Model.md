@@ -1,4 +1,5 @@
 ---
+title: "SCARF Model"
 tags:
   - permanent-notes
   - behavior

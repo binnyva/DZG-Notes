@@ -1,4 +1,5 @@
 ---
+title: "CPR"
 tags: ["permanent-notes", "health","first-aid"]
 date: 2026-02-24 22:16:00
 source: "First Aid Workshop"
