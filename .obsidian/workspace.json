@@ -22,31 +22,17 @@
             }
           },
           {
-            "id": "b114ea1248d99966",
+            "id": "067908e5d63f53db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trauma Assessment - ABCDE.md",
+                "file": "Jevon's Paradox.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Trauma Assessment - ABCDE"
-            }
-          },
-          {
-            "id": "81d984462f8548a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Point, Reason, Example Framework.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Point, Reason, Example Framework"
+              "title": "Jevon's Paradox"
             }
           }
         ],
@@ -82,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sorry",
+                "query": "conversation",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -198,14 +184,18 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "b114ea1248d99966",
+  "active": "067908e5d63f53db",
   "lastOpenFiles": [
+    "Casual Communication Styles.md",
+    "Jevon's Paradox.md",
+    "Belief Systems.md",
+    "Crucial Conversation.md",
+    "Point, Reason, Example Framework.md",
     "SCARF Model.md",
     "Heimlich Maneuver.md",
     "CPR.md",
     "Trauma Assessment - ABCDE.md",
     "Stock Detection - FACE.md",
-    "Point, Reason, Example Framework.md",
     "ACA Framework.md",
     "Communicating after Rupture or Breakdown.md",
     "Adlerian Psychology.md",
@@ -223,10 +213,6 @@
     "Schema.md",
     "Affective Priming.md",
     "Effects of Expectations.md",
-    "Value Demand vs Failure Demand.md",
-    "Crucial Conversation.md",
-    "Silence or Violence.md",
-    "Guessing Other's Emotional State.md",
     "Solution Meta Modal.png",
     "IFS_System.jpg",
     "Anacylosis.jpeg",
