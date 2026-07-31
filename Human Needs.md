@@ -19,3 +19,5 @@ Human needs are finite and classifiable. There are 9 fundamental human needs tha
 From the book [Human Scale Development](http://www.wtf.tw/ref/max-neef.pdf), by Manfred Max Neef
 
 [Source](https://www.youtube.com/watch?v=FyT9TMlzC6s)
+
+There is another version of this from Tony Robins called [[6 Human Needs]].

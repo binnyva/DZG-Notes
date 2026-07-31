@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "Psycho-Analytic Theory"
             }
-          },
-          {
-            "id": "067908e5d63f53db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Jevon's Paradox.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Jevon's Paradox"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,10 +169,13 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "067908e5d63f53db",
+  "active": "df139e984fa9da4c",
   "lastOpenFiles": [
-    "Casual Communication Styles.md",
+    "6 Human Needs.md",
+    "Human Needs.md",
+    "Satisfiers of Human Needs.md",
     "Jevon's Paradox.md",
+    "Casual Communication Styles.md",
     "Belief Systems.md",
     "Crucial Conversation.md",
     "Point, Reason, Example Framework.md",
@@ -210,9 +198,6 @@
     "123 Method.md",
     "Paradigm in Science.md",
     "Overton_Window.png",
-    "Schema.md",
-    "Affective Priming.md",
-    "Effects of Expectations.md",
     "Solution Meta Modal.png",
     "IFS_System.jpg",
     "Anacylosis.jpeg",
