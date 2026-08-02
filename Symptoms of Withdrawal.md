@@ -11,5 +11,6 @@ These are the symptoms of withdrawal from any addictive substance.
 - irritability
 - insomnia
 - dysphoria(state of unease or generalized dissatisfaction with life)
-- mental preoccupation with using Aka craving.
+- mental preoccupation with using aka craving.
 
+Chances or relapse are high at this phase - so keep track of [[HALT Triggers]].

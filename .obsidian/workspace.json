@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psycho-Analytic Theory.md",
+                "file": "Symptoms of Withdrawal.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Psycho-Analytic Theory"
+              "title": "Symptoms of Withdrawal"
+            }
+          },
+          {
+            "id": "f3ff2545145454d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A Person's Aftertaste.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "A Person's Aftertaste"
+            }
+          },
+          {
+            "id": "4f1175f26859aecf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HALT Triggers.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "HALT Triggers"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -169,8 +198,13 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "df139e984fa9da4c",
+  "active": "4f1175f26859aecf",
   "lastOpenFiles": [
+    "Symptoms of Withdrawal.md",
+    "Addiction Assessment.md",
+    "Psycho-Analytic Theory.md",
+    "HALT Triggers.md",
+    "A Person's Aftertaste.md",
     "6 Human Needs.md",
     "Human Needs.md",
     "Satisfiers of Human Needs.md",
@@ -192,11 +226,6 @@
     "Advice Process.md",
     "Vocal Image.md",
     "Life Project Management.md",
-    "Psycho-Analytic Theory.md",
-    "Solution Design Metamodal.md",
-    "Readme.md",
-    "123 Method.md",
-    "Paradigm in Science.md",
     "Overton_Window.png",
     "Solution Meta Modal.png",
     "IFS_System.jpg",
